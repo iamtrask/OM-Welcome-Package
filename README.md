@@ -7,9 +7,288 @@
 
 <br><br><br>
 
-## **THIS GUIDE IS CURRENTLY UNDER CONSTRUCTION**
+## **OpenMined's Mission**
+<br>
+
+Before getting started, it's important to understand OpenMined's mission, to
+**lower the barrier to entry to privacy preserving technology.**
 
 <br>
+
+This means that we want to help **you** by both making your products and research better, **and** protecting you along the way.
+
+<br><br><br>
+
+## **Community Structure**
+
+OpenMined is a community broken into various teams, and we all work together on Slack! There will be more about how to use our Slack organisation later, but if you haven't yet, go join OpenMined's Slack here:  slack.openmined.org
+
+OpenMined's teams are both development and community related, so that there is room for everyone to contribute. The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
+
+<br><br>
+
+Here is a list of all of our teams, as well as all of the information you need to join. This will give you an idea of all of the options for contributing, after which we'll share some information on how to get started. Any time you see an "@", that's a member's Slack handle, so go join OM's Slack at the link above to reach out to them!
+
+<br><br>
+
+
+## Development Teams
+
+###Crypto Team###
+_Encrypted computation in the context of Deep Learning_
+**Works on a wide range of protocols including Secure Multi-Party Computation and Homomorphic Encryption to evaluate and train neural networks on private datasets distributed across several owners.**
+
+**Team Lead:**  Théo Ryffel  /  @Théo Ryffel
+**Team Members:**
+Adam James Hall  /  @Adam J Hall
+Alan Aboudib  /  @Alan.Aboudib
+Ayoub Benaissa  /  @Ayoub Benaissa
+André Farias  /  @André Farias
+Ajay Singh  /  @Ajay Singh
+George Muraru  /  @George Muraru
+Jason Paumier  /  @Jason Paumier
+Patrick Cason  /  @cereallarceny
+Yugandhar Tripathi  /  @Yugandhar
+
+**Repos Working In:** PySyft (ADD LINK)
+**Good First Issues:**  https://github.com/OpenMined/PySyft/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Crypto+Team%22++label%3A%22good+first+issue%22 
+**Accepting New Members?** YES
+
+**Requirements to Join:**
+*Technical Requirements:*
+> You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues above)
+> You have a basic knowledge of or interest in Encrypted Computation (Multi-Party Computation, Homomorphic Encryption or Functional Encryption)
+*Motivational Requirement:*
+> You are highly motivated and wish to be involved on a regular basis
+
+**Application to Join:**  https://forms.gle/tG7KhwzJKubAeorv6
+
+
+###PyGrid Team###
+*Everything PyGrid*
+**Works on extending the PySyft library to build a secure peer-to-peer platform. Also works on distributed systems protocols (using websockets), fault tolerance and systems deployment. Technologies of interest: Javascript, Python, PySyft and Flask.**
+
+**Team Lead:**  Ionesio Junior  /  @Ionesio
+**Team Members:**
+João Lucas  /  @João Lucas
+José Benardi de Souza Nunes  /  @Bernardi Nunes
+Hericles  /  @Hericles
+Marcus Costa  /  @Marcus Costa
+Tallal Javed  /  @Tallal Javed
+Jeferson F. Silva  /  @Jeferson 
+
+**Repos Working In:** PyGrid (ADD LINK)
+**Good First Issues:**  https://github.com/OpenMined/PyGrid/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+**Accepting New Members?** YES
+
+**Requirements to Join:**
+*Technical Requirements:*
+> You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues above)
+> You have a knowledge on UX Design and REST API's
+> You have basic knowledge or are interested in Distributed Systems
+> You have at least an intuitive understanding about how PySyft works from the ground up (e.g. from the hooks to the crypto, and everything in between)
+*Motivational Requirements:*
+> You are interested in learning details about how PySyft works from the ground up, and would eventually like to propose modifications/improvements to PySyft and how the various projects in the OpenMined ecosystem fit together with it
+> You are highly motivated and want to get involved on a regular basis
+
+**Application to Join:**  https://forms.gle/dzDLyKGC8hfjL48z5
+
+
+###Web & Mobile Team###
+*Federated Learning for web and mobile*
+**Building federated learning into the OM ecosystem with support for Android and iOS phones, as well as the browser. This team also works on various user interfaces used with the OM codebase.**
+
+**Team Lead:**  Patrick Cason  /  @cereallarceny
+**Team Members:**
+Jose Corbacho  /  @Jose  (KotlinSyft)
+Karl Higley  /  @Karl Higley  (syft-proto/PySyft)
+Maddie Shang  /  @maddog_S  (PySyft)
+Mark Jimenez  /  @Mark Jimenez  (SwiftSyft)
+Mike Nolski  /  @nolski  (Threepio/syft.js)
+Varun Khare  /  @vkkhare  (KotlinSyft)
+Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)
+
+**Repos Working In:** KotlinSyft, syft-proto, PySyft, SwiftSyft, Threepio, syft.js  (ADD LINKS)
+**Good First Issues:**
+Kotlin: https://github.com/OpenMined/KotlinSyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 
+Javascript - syft.js: https://github.com/OpenMined/syft.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 
+Javascript - grid.js: https://github.com/OpenMined/grid.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 
+Android development: https://github.com/OpenMined/AndroidWorker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+Swift:  https://github.com/OpenMined/SwiftSyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 
+**Accepting New Members?** YES
+
+**Requirements to Join:**
+*Technical Requirements:*
+> You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues above), particularly a Javascript-related issue
+> You work with Javascript in your daily work
+> You have a UX or UI design background
+> You know React and Node like the back of your hand
+> You have experience writing Javascript libraries from scratch (not just UI components)
+> You have experience working with socket servers
+> You have experience working with WebRTC
+> You have experience with dev ops, including cloud deployment, scaling, and load-balancing
+
+*Motivational Requirement:*
+> You are highly motivated and want to get involved on a regular basis
+
+**Application to Join:**  https://forms.gle/BZePckWpq9vftDF48
+
+
+
+<br><br><br><br>
+
+**Natural Language Processing Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Good First Issues:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+**Differential Privacy Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Good First Issues:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+**Identity & Security Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Good First Issues:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+**Syft Core Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Good First Issues:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+
+## Community Teams
+
+**Research Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+**Learning Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+**Mentorship Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+**Design Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+**Writing Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+**Social Media Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+**Partnerships Team**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Accepting New Members? NO
+Requirements to Join:
+Application to Join: INVITE ONLY
+
+
+**Meet-up Hosts**
+TAG
+DESCRIPTION
+
+Team Lead:
+Team Members:
+Repos Working In:
+Accepting New Members? YES
+Requirements to Join:
+Application to Join:
+
+
+
 
 **Things still to do:**
 - [ ] Integrate Resource:  Helena's Air Table:  https://airtable.com/shrl9518byxXkEBhr
