@@ -7,6 +7,13 @@
 
 <br><br><br>
 
+## Table of Contents
+- [OpenMined's Mission & Community Structure](#openmineds-mission)
+- [Development Teams](#development-teams)
+- [Community Teams](#community-teams)
+
+<br><br><br>
+
 ## OpenMined's Mission
 
 Before getting started, it's important to understand OpenMined's mission, to
