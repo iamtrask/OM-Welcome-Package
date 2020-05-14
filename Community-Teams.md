@@ -50,7 +50,7 @@ Kritika Prakash  /  @Kritika<br>
 **Requirements to Join:**<br>
 COMING SOON<br>
 
-[**Application to Join**](https://docs.google.com/forms/d/e/1FAIpQLSelt05UbqIivQOoddG7fk17tZQJgNd2Km7hAQaTa0vZEFsoxA/viewform)
+[**Application to Join**](https://docs.google.com/forms/d/e/1FAIpQLSelt05UbqIivQOoddG7fk17tZQJgNd2Km7hAQaTa0vZEFsoxA/viewform)<br>
 **Accepting New Members?** YES
 
 <br><br><br>
@@ -83,7 +83,7 @@ COMING SOON<br>
 <br><br><br>
 
 ## Design Team
-**Creating Beautiful Communications in Line with the OpenMined Brand**
+**Creating Beautiful Communications in Line with the OpenMined Brand**<br>
 *Highly skilled graphic designers, web designers, illustrators, animators, photographers, and other creatives, with a passion for maintaining the integrity of the OpenMined brand and creating cool stuff to help promote our community.*
 
 **Team Lead:**  Bennett Farkas  /  @bennett <br>
@@ -100,13 +100,13 @@ COMING SOON<br>
 
 **Repos Working In:** COMING SOON<br>
 **Good First Issues:** COMING SOON<br>
-[**Application to Join**](https://forms.gle/MEJBEU1P1PfCTN3D8)
+[**Application to Join**](https://forms.gle/MEJBEU1P1PfCTN3D8)<br>
 **Accepting New Members?** YES
 
 <br><br><br>
 
 ## Writing Team
-**Blog Posts, Demos, Tutorials, & Documentation**
+**Blog Posts, Demos, Tutorials, & Documentation**<br>
 *Data scientists who can train models in the NLP/Computer Vision space, and writers who have experience with and interest in technical and non-technical blog post writing join together to create extensive OM-related resources.*
 
 **Team Lead:**  Emma Bluemke  /  @Emma <br>
@@ -158,7 +158,7 @@ George Livingston  /  @George Livingston<br>
 Helena Barmer  /  @Helena Barmer<br>
 
 **Requirements to Join:** COMING SOON<br>
-[**Application to Join**](https://forms.gle/TLyc8FYVmthsmkV66)
+[**Application to Join**](https://forms.gle/TLyc8FYVmthsmkV66)<br>
 **Accepting New Members?** YES
 
 <br><br><br>
@@ -172,7 +172,7 @@ Helena Barmer  /  @Helena Barmer<br>
 COMING SOON<br>
 
 **Requirements to Join:** COMING SOON<br>
-[**Application to Join**](https://forms.gle/Bzm7SxLs3xBsgwiZ9)
+[**Application to Join**](https://forms.gle/Bzm7SxLs3xBsgwiZ9)<br>
 **Accepting New Members?** YES
 
 <br><br><br>
