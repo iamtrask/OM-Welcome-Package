@@ -120,14 +120,14 @@ Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)<br>
 COMING SOON<br>
 
 **Requirements to Join:**<br>
-- You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below).<br>
-- To be fluent in Python.<br>
-- To be fluent in Git and Github.<br>
-- To be familiar with PySyft, and have followed its tutorials.<br>
-- To have experience in implementing deep learning models in general, and NLP models in particular.<br>
-- To be willing to commit to our weekly calls and to contribute regularly to the development of SyferText.<br>
-- To be passionate and highly motivated about our project, and to its potential impact.<br>
-- To be curious and willing to learn new things.<br>
+- You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below)<br>
+- To be fluent in Python<br>
+- To be fluent in Git and Github<br>
+- To be familiar with PySyft, and have followed its tutorials<br>
+- To have experience in implementing deep learning models in general, and NLP models in particular<br>
+- To be willing to commit to our weekly calls and to contribute regularly to the development of SyferText<br>
+- To be passionate and highly motivated about our project, and to its potential impact<br>
+- To be curious and willing to learn new things<br>
 
 **Repos Working In:** [SyferText](https://github.com/OpenMined/SyferText)<br>
 [**Good First Issues**](https://github.com/OpenMined/SyferText/issues)<br>
@@ -137,7 +137,7 @@ COMING SOON<br>
 <br><br><br>
 
 ## Differential Privacy Team
-**Provable Privacy for Deep Learning**
+**Provable Privacy for Deep Learning**<br>
 *Working industry tested and trusted provable privacy capabilities into the OpenMined ecosystem, and building a Python wrapper for the Google Differential Privacy library entitled PyDP.*
 
 **Team Lead:**  Benjamin Szymkow  /  @Ben S<br>
@@ -145,7 +145,7 @@ COMING SOON<br>
 Chinmay Shah  /  @Chinmay<br>
 
 **Requirements to Join:**<br>
-- You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below).<br>
+- You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below)<br>
 - Language competencies: C++ (strong) and Python<br>
 - Able to quickly learn build systems (Bazel, CMake)<br>
 - Desirable: docker container design<br>
@@ -161,7 +161,7 @@ Chinmay Shah  /  @Chinmay<br>
 <br><br><br>
 
 ## Identity and Security Team
-**Identity Management, Red / Blue Team Security**
+**Identity Management, Red / Blue Team Security**<br>
 *Works on distributed, zero-knowledge identity in PyGrid. Develops OM's defense strategy, hardening of infrastructure and information security governance frameworks. Tests OM through bug bounty, Capture the Flag and performance challenges.*
 
 **Team Lead:**  Adam Hall  /  @Adam J Hall<br>
@@ -170,7 +170,7 @@ Will Abramson  /  @Will Abramson<br>
 Pavlos Papadopoulos  /  @Pavlos Papadopoulos<br>
 
 **Requirements to Join:**<br>
-- You have made at least one significant contribution to the OpenMined Github repository (see Good First Issues below).<br>
+- You have made at least one significant contribution to the OpenMined Github repository (see Good First Issues below)<br>
 - Comfortable working with Docker<br>
 - Demonstrated interest in information security<br>
 - Working knowledge of the OpenMined stack<br>
@@ -188,16 +188,16 @@ Pavlos Papadopoulos  /  @Pavlos Papadopoulos<br>
 <br><br><br>
 
 ## Syft Core Team
-**Core PySyft Abstractions, Functionalities, & Framework Support**
+**Core PySyft Abstractions, Functionalities, & Framework Support**<br>
 *Works on the aspects of PySyft which are shared by all users of PySyft. This includes things like basic framework support, the ability to extend tensors with custom types, the serialization standard for all objects across the Syft ecosystem, and the creation and serialization of portable functions via Plans and Protocols.*
 
-**Team Lead:**  Andrew Trask / @trask
+**Team Lead:**  Andrew Trask / @trask<br>
 **Team Members:**<br>
 COMING SOON <br>
 
-**Requirements to Join:**<br> COMING SOON
+**Requirements to Join:**<br> COMING SOON<br>
 
 **Repos Working In:** [PySyft](https://github.com/OpenMined/PySyft)<br>
-**Good First Issues:** COMING SOON
-**Application to Join:** COMING SOON
+**Good First Issues:** COMING SOON<br>
+**Application to Join:** COMING SOON<br>
 **Accepting New Members?** YES
