@@ -11,9 +11,6 @@
 - [OpenMined's Mission & Community Structure](#openmineds-mission)
 - [Development Teams](Development-Teams.md)
 - [Community Teams](Community-Teams.md)
-  -
-  -
-  -
 
 <br><br><br>
 
