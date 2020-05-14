@@ -30,8 +30,9 @@ OpenMined is a community broken into various teams, and we all work together on 
 
 OpenMined's teams are both [development](Development-Teams.md) and [community](Community-Teams.md) related, so there is room for everyone to contribute! The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
 
-Check out our [Development Teams here](Development-Teams.md), or our [Community Teams](Community-Teams.md) here!
+[Check out our **Development Teams** here](Development-Teams.md), for information on our Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, or Syft Core Teams.
 
+[Or, check out our **Community Teams** here](Community-Teams.md), for information on our Research, Learning, Mentorship, Design, Writing, Social Media, Meetups, or Partnerships Teams.
 
 
 <br><br><br>
