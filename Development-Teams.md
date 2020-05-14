@@ -1,8 +1,8 @@
 <div align="center">
   <img alt="OpenMined Logo" src="/images/logo.png">
   <h1><strong>OpenMined Development Teams</strong></h1>
-  <p>Below is a list of all of our teams, as well as all of the information you need to join. This will give you an idea of all of the options for contributing, after which we'll share some information on how to get started.
-    <br><em>Any time you see an "@", that's a member's Slack handle!</em>
+  <p>Below is a list of all of our teams, as well as all of the information you need to join.
+    <br><em>Any time you see an "@", that's a member's Slack handle!</em><br>
     <a href="slack.openmined.org">Click here to join our Slack organisation!</a>
     </p></div>
     
@@ -12,6 +12,10 @@
 - [Cryptography Team](#cryptography-team)
 - [PyGrid Team](#pygrid-team)
 - [Web and Mobile Team](#web-and-mobile-team)
+- [Natural Language Processing Team](#natural-language-processing-team)
+- [Differential Privacy Team](#differential-privacy-team)
+- [Identity and Security Team](#identity-and-security-team)
+- [Syft Core Team](#syft-core-team)
 
 <br><br><br>
 
@@ -31,13 +35,12 @@ Jason Paumier  /  @Jason Paumier<br>
 Patrick Cason  /  @cereallarceny<br>
 Yugandhar Tripathi  /  @Yugandhar<br>
 
-**Repos Working In:** [PySyft](https://github.com/OpenMined/PySyft)<br>
-
 **Requirements to Join:**<br>
 - You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues below)<br>
 - You have a basic knowledge of or interest in Encrypted Computation (Multi-Party Computation, Homomorphic Encryption or Functional Encryption)<br>
 - You are highly motivated and wish to be involved on a regular basis<br>
 
+**Repos Working In:** [PySyft](https://github.com/OpenMined/PySyft)<br>
 [**Good First Issues**](https://github.com/OpenMined/PySyft/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Crypto+Team%22++label%3A%22good+first+issue%22)<br>
 [**Application to Join**](https://forms.gle/tG7KhwzJKubAeorv6)<br>
 **Accepting New Members?** YES
@@ -57,8 +60,6 @@ Marcus Costa  /  @Marcus Costa<br>
 Tallal Javed  /  @Tallal Javed<br>
 Jeferson F. Silva  /  @Jeferson<br>
 
-**Repos Working In:** [PyGrid](https://github.com/OpenMined/PyGrid)<br>
-
 **Requirements to Join:**<br>
 - You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues below)<br>
 - You have a knowledge on UX Design and REST API's<br>
@@ -67,6 +68,7 @@ Jeferson F. Silva  /  @Jeferson<br>
 - You are interested in learning details about how PySyft works from the ground up, and would eventually like to propose modifications/improvements to PySyft and how the various projects in the OpenMined ecosystem fit together with it<br>
 - You are highly motivated and want to get involved on a regular basis<br>
 
+**Repos Working In:** [PyGrid](https://github.com/OpenMined/PyGrid)<br>
 [**Good First Issues**](https://github.com/OpenMined/PyGrid/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)<br>
 [**Application to Join**](https://forms.gle/dzDLyKGC8hfjL48z5)<br>
 **Accepting New Members?** YES
@@ -87,8 +89,6 @@ Mike Nolski  /  @nolski  (Threepio/syft.js)<br>
 Varun Khare  /  @vkkhare  (KotlinSyft)<br>
 Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)<br>
 
-**Repos Working In:** [KotlinSyft](https://github.com/OpenMined/KotlinSyft), [syft-proto](https://github.com/OpenMined/syft-proto), [PySyft](https://github.com/OpenMined/PySyft), [SwiftSyft](https://github.com/OpenMined/SwiftSyft), [Threepio](https://github.com/OpenMined/Threepio), [syft.js](https://github.com/OpenMined/syft.js)<br>
-
 **Requirements to Join:**<br>
 - You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues above), particularly a Javascript-related issue<br>
 - You work with Javascript in your daily work<br>
@@ -100,9 +100,12 @@ Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)<br>
 - You have experience with dev ops, including cloud deployment, scaling, and load-balancing<br>
 - You are highly motivated and want to get involved on a regular basis<br>
 
+**Repos Working In:** [KotlinSyft](https://github.com/OpenMined/KotlinSyft), [syft-proto](https://github.com/OpenMined/syft-proto), [PySyft](https://github.com/OpenMined/PySyft), [SwiftSyft](https://github.com/OpenMined/SwiftSyft), [Threepio](https://github.com/OpenMined/Threepio), [syft.js](https://github.com/OpenMined/syft.js)<br>
+
 **Good First Issues:**
 [Kotlin](https://github.com/OpenMined/KotlinSyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), 
-[Javascript - syft.js](https://github.com/OpenMined/syft.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), [Javascript - grid.js](https://github.com/OpenMined/grid.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%2), [Android development](https://github.com/OpenMined/AndroidWorker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), [Swift](https://github.com/OpenMined/SwiftSyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)<br> 
+[Javascript - syft.js](https://github.com/OpenMined/syft.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), [Javascript - grid.js](https://github.com/OpenMined/grid.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%2), [Android development](https://github.com/OpenMined/AndroidWorker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), [Swift](https://github.com/OpenMined/SwiftSyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)<br>
+
 [**Application to Join**](https://forms.gle/BZePckWpq9vftDF48)<br>
 **Accepting New Members?** YES
 
@@ -114,9 +117,7 @@ Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)<br>
 
 **Team Lead:**  Alan Aboudib  /  @Alan.Aboudib<br>
 **Team Members:**<br>
-???<br>
-
-**Repos Working In:** [SyferText](https://github.com/OpenMined/SyferText)<br>
+COMING SOON<br>
 
 **Requirements to Join:**<br>
 - You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below).<br>
@@ -128,6 +129,7 @@ Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)<br>
 - To be passionate and highly motivated about our project, and to its potential impact.<br>
 - To be curious and willing to learn new things.<br>
 
+**Repos Working In:** [SyferText](https://github.com/OpenMined/SyferText)<br>
 [**Good First Issues**](https://github.com/OpenMined/SyferText/issues)<br>
 [**Application to Join**](https://forms.gle/8eo1MNN3tteBLGak6)<br>
 **Accepting New Members?** YES
@@ -142,7 +144,6 @@ Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)<br>
 **Team Members:**<br>
 Chinmay Shah  /  @Chinmay<br>
 
-**Repos Working In:** [PyDP](https://github.com/OpenMined/PyDP)<br>
 **Requirements to Join:**<br>
 - You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below).<br>
 - Language competencies: C++ (strong) and Python<br>
@@ -152,13 +153,14 @@ Chinmay Shah  /  @Chinmay<br>
 - Able to attend fortnightly dial-ups<br>
 - Enjoy creative problem solving!<br>
 
+**Repos Working In:** [PyDP](https://github.com/OpenMined/PyDP)<br>
 [**Good First Issues**](https://github.com/OpenMined/PyDP/labels/good%20first%20issue)<br>
 [**Application to Join**](https://docs.google.com/forms/d/1XXlPDBkV2xOZmMZMSyw-_KAAjs93CLWmp4Gb0Ql-s_g)<br>
 **Accepting New Members?** YES
 
 <br><br><br>
 
-## Identity & Security Team
+## Identity and Security Team
 **Identity Management, Red / Blue Team Security**
 *Works on distributed, zero-knowledge identity in PyGrid. Develops OM's defense strategy, hardening of infrastructure and information security governance frameworks. Tests OM through bug bounty, Capture the Flag and performance challenges.*
 
@@ -166,8 +168,6 @@ Chinmay Shah  /  @Chinmay<br>
 **Team Members:**<br>
 Will Abramson  /  @Will Abramson<br>
 Pavlos Papadopoulos  /  @Pavlos Papadopoulos<br>
-
-**Repos Working In:** [PyGrid](https://github.com/OpenMined/PyGrid)<br>
 
 **Requirements to Join:**<br>
 - You have made at least one significant contribution to the OpenMined Github repository (see Good First Issues below).<br>
@@ -180,6 +180,7 @@ Pavlos Papadopoulos  /  @Pavlos Papadopoulos<br>
 - Demonstrated knowledge and ability in penetration testing and network, memory and hardware forensics<br>
 - You are a distributed identity or information security enthusiast who wants to become more involved in developing the tool and building security challenges<br>
 
+**Repos Working In:** [PyGrid](https://github.com/OpenMined/PyGrid)<br>
 **Good First Issues:** COMING SOON<br>
 **Application to Join:** COMING SOON<br>
 **Accepting New Members?** YES
@@ -194,8 +195,9 @@ Pavlos Papadopoulos  /  @Pavlos Papadopoulos<br>
 **Team Members:**<br>
 COMING SOON <br>
 
-**Repos Working In:** [PySyft](https://github.com/OpenMined/PySyft)<br>
 **Requirements to Join:**<br> COMING SOON
+
+**Repos Working In:** [PySyft](https://github.com/OpenMined/PySyft)<br>
 **Good First Issues:** COMING SOON
 **Application to Join:** COMING SOON
 **Accepting New Members?** YES
