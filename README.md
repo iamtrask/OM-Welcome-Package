@@ -44,3 +44,4 @@ OpenMined's teams are both [development](Development-Teams.md) and [community](C
 - [ ] Integrate Resource:Mentorship Program (External):  https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing
 - [ ] Change all team member names to link to github profiles
 - [ ] Add roadmap links for each team
+- [ ] Order teams alphabetically
