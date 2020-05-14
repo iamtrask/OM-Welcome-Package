@@ -1,4 +1,4 @@
-![OpenMined Logo](/images/logo.png =150x)
+![OpenMined Logo](/images/logo.png)
 
 # OM Beginner's Guide
 
