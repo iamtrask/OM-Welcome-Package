@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="/images/logo.png">
+  <img alt="OpenMined Logo" src="/images/logo.png">
 </p>
 
 # OM Beginner's Guide
