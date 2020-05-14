@@ -11,6 +11,7 @@
 - [OpenMined's Mission & Community Structure](#openmineds-mission)
 - [Development Teams](Development-Teams.md)
 - [Community Teams](Community-Teams.md)
+- [Research Teams](Research-Teams.md)
 
 <br><br><br>
 
@@ -25,11 +26,13 @@ Before getting started, it's important to understand OpenMined's mission, to
 
 OpenMined is a community broken into various teams, and we all work together on Slack! There will be more about how to use our Slack organisation later, but if you haven't yet, [go join OpenMined's Slack here](slack.openmined.org). 
 
-OpenMined's teams are both [development](Development-Teams.md) and [community](Community-Teams.md) related, so there is room for everyone to contribute! The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
+OpenMined's teams are split into 3 categories: [development](Development-Teams.md), [community](Community-Teams.md), and [research](Research-Teams.md), so there is room for everyone to contribute! The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
 
 [Check out our **Development Teams** here](Development-Teams.md), for information on our Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, or Syft Core Teams.
 
-[Or, check out our **Community Teams** here](Community-Teams.md), for information on our Research, Learning, Mentorship, Design, Writing, Social Media, Meetups, or Partnerships Teams.
+[Or, check out our **Community Teams** here](Community-Teams.md), for information on our Learning, Mentorship, Design, Writing, Social Media, Meetups, or Partnerships Teams.
+
+[Or, check out our **Research Teams** here](Research-Teams.md), for information on our Research Teams.
 
 
 <br><br><br>
