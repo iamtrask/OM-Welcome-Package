@@ -10,7 +10,15 @@
 ## Table of Contents
 - [OpenMined's Mission & Community Structure](#openmineds-mission)
 - [Development Teams](#development-teams)
+  - [Cryptography Team](#cryptography-team)
+  - [PyGrid Team](#pygrid-team)
+  - [Web & Mobile Team](#web-mobile-team)
+  - 
+  - 
 - [Community Teams](#community-teams)
+  -
+  -
+  -
 
 <br><br><br>
 
@@ -94,8 +102,8 @@ Jeferson F. Silva  /  @Jeferson<br>
 ---
 
 ### Web & Mobile Team
-**Federated Learning for web and mobile**
-*Building federated learning into the OM ecosystem with support for Android and iOS phones, as well as the browser. This team also works on various user interfaces used with the OM codebase.*
+**Federated Learning for web and mobile**<br>
+*Building federated learning into the OM ecosystem with support for Android and iOS phones, as well as the browser. This team also works on various user interfaces used with the OM codebase.*<br>
 
 **Team Lead:**  Patrick Cason  /  @cereallarceny<br>
 **Team Members:**<br>
@@ -107,7 +115,7 @@ Mike Nolski  /  @nolski  (Threepio/syft.js)<br>
 Varun Khare  /  @vkkhare  (KotlinSyft)<br>
 Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)<br>
 
-**Repos Working In:** KotlinSyft, syft-proto, PySyft, SwiftSyft, Threepio, syft.js  (ADD LINKS)<br>
+**Repos Working In:** [KotlinSyft](https://github.com/OpenMined/KotlinSyft), [syft-proto](https://github.com/OpenMined/syft-proto), [PySyft](https://github.com/OpenMined/PySyft), [SwiftSyft](https://github.com/OpenMined/SwiftSyft), [Threepio](https://github.com/OpenMined/Threepio), [syft.js](https://github.com/OpenMined/syft.js)<br>
 
 **Requirements to Join:**<br>
 - You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues above), particularly a Javascript-related issue<br>
@@ -128,17 +136,29 @@ Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)<br>
 
 ---
 
-**Natural Language Processing Team**
-TAG
-DESCRIPTION
+### Natural Language Processing Team
+**Secure & Private NLP on encrypted text**<br>
+*Builds SyferText, a framework that leverages PySyft to tackle real-world challenges in  using Encrypted Computations and Federated Learning on sensitive, private datasets.*<br>
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
+**Team Lead:**  Alan Aboudib  /  @Alan.Aboudib<br>
+**Team Members:**<br>
+???<br>
+
+**Repos Working In:** [SyferText](https://github.com/OpenMined/SyferText)<br>
+
+**Requirements to Join:**<br>
+- You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below).<br>
+- To be fluent in Python.<br>
+- To be fluent in Git and Github.<br>
+- To be familiar with PySyft, and have followed its tutorials.<br>
+- To have experience in implementing deep learning models in general, and NLP models in particular.<br>
+- To be willing to commit to our weekly calls and to contribute regularly to the development of SyferText.<br>
+- To be passionate and highly motivated about our project, and to its potential impact.<br>
+- To be curious and willing to learn new things.<br>
+
+[**Good First Issues**](https://github.com/OpenMined/SyferText/issues)<br>
+[**Application to Join**](https://forms.gle/8eo1MNN3tteBLGak6)<br>
+**Accepting New Members?** YES
 
 ---
 
@@ -146,13 +166,13 @@ Accepting New Members? YES
 TAG
 DESCRIPTION
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+[**Application to Join**]()
+**Accepting New Members?** YES
 
 ---
 
@@ -160,13 +180,13 @@ Accepting New Members? YES
 TAG
 DESCRIPTION
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+[**Application to Join**]()
+**Accepting New Members?** YES
 
 ---
 
@@ -174,13 +194,13 @@ Accepting New Members? YES
 TAG
 DESCRIPTION
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+[**Application to Join**]()
+**Accepting New Members?** YES
 
 ---
 <br><br><br>
@@ -191,13 +211,13 @@ Accepting New Members? YES
 TAG
 DESCRIPTION
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+[**Application to Join**]()
+**Accepting New Members?** YES
 
 ---
 
@@ -205,13 +225,13 @@ Accepting New Members? YES
 TAG
 DESCRIPTION
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+[**Application to Join**]()
+**Accepting New Members?** YES
 
 ---
 
@@ -219,13 +239,13 @@ Accepting New Members? YES
 TAG
 DESCRIPTION
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+[**Application to Join**]()
+**Accepting New Members?** YES
 
 ---
 
@@ -233,13 +253,13 @@ Accepting New Members? YES
 TAG
 DESCRIPTION
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+[**Application to Join**]()
+**Accepting New Members?** YES
 
 ---
 
@@ -247,13 +267,13 @@ Accepting New Members? YES
 TAG
 DESCRIPTION
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+[**Application to Join**]()
+**Accepting New Members?** YES
 
 ---
 
@@ -261,27 +281,13 @@ Accepting New Members? YES
 TAG
 DESCRIPTION
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
-
----
-
-**Partnerships Team**
-TAG
-DESCRIPTION
-
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join: INVITE ONLY
-Accepting New Members? NO
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+[**Application to Join**]()
+**Accepting New Members?** YES
 
 ---
 
@@ -289,13 +295,27 @@ Accepting New Members? NO
 TAG
 DESCRIPTION
 
-Team Lead:
-Team Members:
-Repos Working In:
-Requirements to Join:
-Good First Issues:
-Application to Join:
-Accepting New Members? YES
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+[**Application to Join**]()
+**Accepting New Members?** YES
+
+---
+
+**Partnerships Team**
+TAG
+DESCRIPTION
+
+**Team Lead:**
+**Team Members:**<br>
+**Repos Working In:**
+**Requirements to Join:**<br>
+[**Good First Issues**]()
+**Application to Join** INVITE ONLY
+**Accepting New Members?** NO
 
 ---
 
