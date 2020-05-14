@@ -18,18 +18,18 @@ Before getting started, it's important to understand OpenMined's mission, to
 
 OpenMined is a community broken into various teams, and we all work together on Slack! There will be more about how to use our Slack organisation later, but if you haven't yet, [go join OpenMined's Slack here](slack.openmined.org). 
 
-OpenMined's teams are both development and community related, so that there is room for everyone to contribute! The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
+OpenMined's teams are both development and community related, so there is room for everyone to contribute! The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
 
-Here is a list of all of our teams, as well as all of the information you need to join. This will give you an idea of all of the options for contributing, after which we'll share some information on how to get started. Any time you see an "@", that's a member's Slack handle, so go join OM's Slack at the link above to reach out to them!
+**Here is a list of all of our teams**, as well as all of the information you need to join. This will give you an idea of all of the options for contributing, after which we'll share some information on how to get started. *Any time you see an "@", that's a member's Slack handle!*
 
 <br><br><br>
 
 
-## Development Teams
+# Development Teams
 
 ### Crypto Team
-_Encrypted computation in the context of Deep Learning_ <br>
-Works on a wide range of protocols including Secure Multi-Party Computation and Homomorphic Encryption to evaluate and train neural networks on private datasets distributed across several owners. <br>
+Encrypted computation in the context of Deep Learning. <br>
+_Works on a wide range of protocols including Secure Multi-Party Computation and Homomorphic Encryption to evaluate and train neural networks on private datasets distributed across several owners._ <br>
 
 **Team Lead:**  Théo Ryffel  /  @Théo Ryffel <br>
 **Team Members:**<br>
@@ -47,14 +47,14 @@ Yugandhar Tripathi  /  @Yugandhar<br>
 **Accepting New Members?** YES<br>
 
 **Requirements to Join:**<br>
-*Technical Requirements:*<br>
 - You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues below)<br>
 - You have a basic knowledge of or interest in Encrypted Computation (Multi-Party Computation, Homomorphic Encryption or Functional Encryption)<br>
-*Motivational Requirement:*<br>
 - You are highly motivated and wish to be involved on a regular basis<br>
+
 [**Good First Issues**](https://github.com/OpenMined/PySyft/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Crypto+Team%22++label%3A%22good+first+issue%22)<br>
 [**Application to Join**](https://forms.gle/tG7KhwzJKubAeorv6)
 
+---
 
 ### PyGrid Team
 *Everything PyGrid*
@@ -125,9 +125,6 @@ Swift:  https://github.com/OpenMined/SwiftSyft/issues?q=is%3Aissue+is%3Aopen+lab
 
 **Application to Join:**  https://forms.gle/BZePckWpq9vftDF48
 
-
-
-<br><br><br><br>
 
 **Natural Language Processing Team**
 TAG
