@@ -2,15 +2,20 @@
   <img alt="OpenMined Logo" src="/images/logo.png">
   <h1><strong>OpenMined Development Teams</strong></h1>
   <p>Below is a list of all of our teams, as well as all of the information you need to join. This will give you an idea of all of the options for contributing, after which we'll share some information on how to get started.
-  <br>*Any time you see an "@", that's a member's Slack handle!*
-</p></div>
+    <br><em>Any time you see an "@", that's a member's Slack handle!</em>
+    <a href="slack.openmined.org">Click here to join our Slack organisation!</a>
+    </p></div>
+    
+<br><br><br>
 
 ## Table of Contents:
 - [Cryptography Team](#cryptography-team)
 - [PyGrid Team](#pygrid-team)
 - [Web and Mobile Team](#web-and-mobile-team)
 
-### Cryptography Team
+<br><br><br>
+
+## Cryptography Team
 **Encrypted computation in the context of Deep Learning** <br>
 *Works on a wide range of protocols including Secure Multi-Party Computation and Homomorphic Encryption to evaluate and train neural networks on private datasets distributed across several owners.* <br>
 
@@ -37,9 +42,9 @@ Yugandhar Tripathi  /  @Yugandhar<br>
 [**Application to Join**](https://forms.gle/tG7KhwzJKubAeorv6)<br>
 **Accepting New Members?** YES
 
----
+<br><br><br>
 
-### PyGrid Team
+## PyGrid Team
 **Everything PyGrid**<br>
 *Works on extending the PySyft library to build a secure peer-to-peer platform. Also works on distributed systems protocols (using websockets), fault tolerance and systems deployment. Technologies of interest: Javascript, Python, PySyft and Flask.*<br>
 
@@ -66,9 +71,9 @@ Jeferson F. Silva  /  @Jeferson<br>
 [**Application to Join**](https://forms.gle/dzDLyKGC8hfjL48z5)<br>
 **Accepting New Members?** YES
 
----
+<br><br><br>
 
-### Web and Mobile Team
+## Web and Mobile Team
 **Federated Learning for web and mobile**<br>
 *Building federated learning into the OM ecosystem with support for Android and iOS phones, as well as the browser. This team also works on various user interfaces used with the OM codebase.*<br>
 
@@ -101,9 +106,9 @@ Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)<br>
 [**Application to Join**](https://forms.gle/BZePckWpq9vftDF48)<br>
 **Accepting New Members?** YES
 
----
+<br><br><br>
 
-### Natural Language Processing Team
+## Natural Language Processing Team
 **Secure & Private NLP on encrypted text**<br>
 *Builds SyferText, a framework that leverages PySyft to tackle real-world challenges in  using Encrypted Computations and Federated Learning on sensitive, private datasets.*<br>
 
@@ -127,46 +132,70 @@ Vova Manannikov  /  @Vova  (syft.js/PySyft/syft-proto)<br>
 [**Application to Join**](https://forms.gle/8eo1MNN3tteBLGak6)<br>
 **Accepting New Members?** YES
 
----
+<br><br><br>
 
-**Differential Privacy Team**
-TAG
-DESCRIPTION
+## Differential Privacy Team
+**Provable Privacy for Deep Learning**
+*Working industry tested and trusted provable privacy capabilities into the OpenMined ecosystem, and building a Python wrapper for the Google Differential Privacy library entitled PyDP.*
 
-**Team Lead:**
+**Team Lead:**  Benjamin Szymkow  /  @Ben S<br>
 **Team Members:**<br>
-**Repos Working In:**
+Chinmay Shah  /  @Chinmay<br>
+
+**Repos Working In:** [PyDP](https://github.com/OpenMined/PyDP)<br>
 **Requirements to Join:**<br>
-[**Good First Issues**]()
-[**Application to Join**]()
+- You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below).<br>
+- Language competencies: C++ (strong) and Python<br>
+- Able to quickly learn build systems (Bazel, CMake)<br>
+- Desirable: docker container design<br>
+- Passionate about privacy<br>
+- Able to attend fortnightly dial-ups<br>
+- Enjoy creative problem solving!<br>
+
+[**Good First Issues**](https://github.com/OpenMined/PyDP/labels/good%20first%20issue)<br>
+[**Application to Join**](https://docs.google.com/forms/d/1XXlPDBkV2xOZmMZMSyw-_KAAjs93CLWmp4Gb0Ql-s_g)<br>
 **Accepting New Members?** YES
 
----
+<br><br><br>
 
-**Identity & Security Team**
-TAG
-DESCRIPTION
+## Identity & Security Team
+**Identity Management, Red / Blue Team Security**
+*Works on distributed, zero-knowledge identity in PyGrid. Develops OM's defense strategy, hardening of infrastructure and information security governance frameworks. Tests OM through bug bounty, Capture the Flag and performance challenges.*
 
-**Team Lead:**
+**Team Lead:**  Adam Hall  /  @Adam J Hall<br>
 **Team Members:**<br>
-**Repos Working In:**
+Will Abramson  /  @Will Abramson<br>
+Pavlos Papadopoulos  /  @Pavlos Papadopoulos<br>
+
+**Repos Working In:** [PyGrid](https://github.com/OpenMined/PyGrid)<br>
+
 **Requirements to Join:**<br>
-[**Good First Issues**]()
-[**Application to Join**]()
+- You have made at least one significant contribution to the OpenMined Github repository (see Good First Issues below).<br>
+- Comfortable working with Docker<br>
+- Demonstrated interest in information security<br>
+- Working knowledge of the OpenMined stack<br>
+- Interested in compliance and governance procedures for information storage and processing<br>
+- Working knowledge of distributed identifiers and verifiable credentials<br>
+- Familiar with Hyperledger Indy and Aries<br>
+- Demonstrated knowledge and ability in penetration testing and network, memory and hardware forensics<br>
+- You are a distributed identity or information security enthusiast who wants to become more involved in developing the tool and building security challenges<br>
+
+**Good First Issues:** COMING SOON<br>
+**Application to Join:** COMING SOON<br>
 **Accepting New Members?** YES
 
----
+<br><br><br>
 
-**Syft Core Team**
-TAG
-DESCRIPTION
+## Syft Core Team
+**Core PySyft Abstractions, Functionalities, & Framework Support**
+*Works on the aspects of PySyft which are shared by all users of PySyft. This includes things like basic framework support, the ability to extend tensors with custom types, the serialization standard for all objects across the Syft ecosystem, and the creation and serialization of portable functions via Plans and Protocols.*
 
-**Team Lead:**
+**Team Lead:**  Andrew Trask / @trask
 **Team Members:**<br>
-**Repos Working In:**
-**Requirements to Join:**<br>
-[**Good First Issues**]()
-[**Application to Join**]()
-**Accepting New Members?** YES
+COMING SOON <br>
 
----
+**Repos Working In:** [PySyft](https://github.com/OpenMined/PySyft)<br>
+**Requirements to Join:**<br> COMING SOON
+**Good First Issues:** COMING SOON
+**Application to Join:** COMING SOON
+**Accepting New Members?** YES
