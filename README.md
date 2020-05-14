@@ -2,7 +2,7 @@
 <div align="center">
   <img alt="OpenMined Logo" src="/images/logo.png">
   <h1>OpenMined Beginner's Guide</h1>
-  <p>Welcome to OpenMined! This guide will walk you through the pathfrom where to start, to contributing team member.<br>We're happy you're here. :)</p>
+  <p>Welcome to OpenMined! This guide will walk you through how to get started in the OpenMined community.<br>We're happy you're here. :)</p>
 </div>
 
 <br><br><br>
