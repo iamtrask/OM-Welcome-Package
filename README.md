@@ -4,7 +4,9 @@
 
 Welcome to OpenMined! This guide will walk you through the pathfrom where to start, to contributing team member. We're happy you're here. :)
 
-
+/
+/
+/
 
 
 ## THIS GUIDE IS CURRENTLY UNDER CONSTRUCTION
