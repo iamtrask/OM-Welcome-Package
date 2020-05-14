@@ -1,9 +1,7 @@
 <div align="center">
   <img alt="OpenMined Logo" src="/images/logo.png">
   <h1><strong>OpenMined Community Teams</strong></h1>
-  <p>Below is a list of all of our <strong>community</strong> teams, as well as all of the information you need to join. (For information on our <strong>development</strong>, <a href="">click here</a>.)
-    <br><em>Any time you see an "@", that's a member's Slack handle!</em><br>
-    <a href="slack.openmined.org">Click here to join our Slack organisation!</a>
+  <p>Below is a list of all of our <strong>community</strong> teams, as well as all of the information you need to join. (For information on our <strong>development</strong>, <a href="om-beginners-guide/Development-Teams.md">click here</a>.) <em>Any time you see an "@", that's a member's Slack handle!</em> <a href="slack.openmined.org">Click here to join our Slack organisation!</a>
     </p></div>
     
 <br><br><br>
