@@ -7,64 +7,56 @@
 
 <br><br><br>
 
-## **OpenMined's Mission**
-<br>
+## OpenMined's Mission
 
 Before getting started, it's important to understand OpenMined's mission, to
-**lower the barrier to entry to privacy preserving technology.**
-
-<br>
-
-This means that we want to help **you** by both making your products and research better, **and** protecting you along the way.
+**lower the barrier to entry to privacy preserving technology.** This means that we want to help **you** by both making your products and research better, **and** protecting you along the way.
 
 <br><br><br>
 
-## **Community Structure**
+## Community Structure
 
-OpenMined is a community broken into various teams, and we all work together on Slack! There will be more about how to use our Slack organisation later, but if you haven't yet, go join OpenMined's Slack here:  slack.openmined.org
+OpenMined is a community broken into various teams, and we all work together on Slack! There will be more about how to use our Slack organisation later, but if you haven't yet, [go join OpenMined's Slack here](slack.openmined.org). 
 
-OpenMined's teams are both development and community related, so that there is room for everyone to contribute. The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
-
-<br><br>
+OpenMined's teams are both development and community related, so that there is room for everyone to contribute! The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
 
 Here is a list of all of our teams, as well as all of the information you need to join. This will give you an idea of all of the options for contributing, after which we'll share some information on how to get started. Any time you see an "@", that's a member's Slack handle, so go join OM's Slack at the link above to reach out to them!
 
-<br><br>
+<br><br><br>
 
 
 ## Development Teams
 
-###Crypto Team###
-_Encrypted computation in the context of Deep Learning_
-**Works on a wide range of protocols including Secure Multi-Party Computation and Homomorphic Encryption to evaluate and train neural networks on private datasets distributed across several owners.**
+### Crypto Team
+_Encrypted computation in the context of Deep Learning_ <br>
+Works on a wide range of protocols including Secure Multi-Party Computation and Homomorphic Encryption to evaluate and train neural networks on private datasets distributed across several owners. <br>
 
-**Team Lead:**  Théo Ryffel  /  @Théo Ryffel
-**Team Members:**
-Adam James Hall  /  @Adam J Hall
-Alan Aboudib  /  @Alan.Aboudib
-Ayoub Benaissa  /  @Ayoub Benaissa
-André Farias  /  @André Farias
-Ajay Singh  /  @Ajay Singh
-George Muraru  /  @George Muraru
-Jason Paumier  /  @Jason Paumier
-Patrick Cason  /  @cereallarceny
-Yugandhar Tripathi  /  @Yugandhar
+**Team Lead:**  Théo Ryffel  /  @Théo Ryffel <br>
+**Team Members:**<br>
+Adam James Hall  /  @Adam J Hall<br>
+Alan Aboudib  /  @Alan.Aboudib<br>
+Ayoub Benaissa  /  @Ayoub Benaissa<br>
+André Farias  /  @André Farias<br>
+Ajay Singh  /  @Ajay Singh<br>
+George Muraru  /  @George Muraru<br>
+Jason Paumier  /  @Jason Paumier<br>
+Patrick Cason  /  @cereallarceny<br>
+Yugandhar Tripathi  /  @Yugandhar<br>
 
-**Repos Working In:** PySyft (ADD LINK)
-**Good First Issues:**  https://github.com/OpenMined/PySyft/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Crypto+Team%22++label%3A%22good+first+issue%22 
-**Accepting New Members?** YES
+**Repos Working In:** [PySyft](https://github.com/OpenMined/PySyft)<br>
+**Accepting New Members?** YES<br>
 
-**Requirements to Join:**
-*Technical Requirements:*
-> You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues above)
-> You have a basic knowledge of or interest in Encrypted Computation (Multi-Party Computation, Homomorphic Encryption or Functional Encryption)
-*Motivational Requirement:*
-> You are highly motivated and wish to be involved on a regular basis
+**Requirements to Join:**<br>
+*Technical Requirements:*<br>
+- You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues below)<br>
+- You have a basic knowledge of or interest in Encrypted Computation (Multi-Party Computation, Homomorphic Encryption or Functional Encryption)<br>
+*Motivational Requirement:*<br>
+- You are highly motivated and wish to be involved on a regular basis<br>
+[**Good First Issues**](https://github.com/OpenMined/PySyft/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Crypto+Team%22++label%3A%22good+first+issue%22)<br>
+[**Application to Join**](https://forms.gle/tG7KhwzJKubAeorv6)
 
-**Application to Join:**  https://forms.gle/tG7KhwzJKubAeorv6
 
-
-###PyGrid Team###
+### PyGrid Team
 *Everything PyGrid*
 **Works on extending the PySyft library to build a secure peer-to-peer platform. Also works on distributed systems protocols (using websockets), fault tolerance and systems deployment. Technologies of interest: Javascript, Python, PySyft and Flask.**
 
@@ -94,7 +86,7 @@ Jeferson F. Silva  /  @Jeferson
 **Application to Join:**  https://forms.gle/dzDLyKGC8hfjL48z5
 
 
-###Web & Mobile Team###
+### Web & Mobile Team
 *Federated Learning for web and mobile*
 **Building federated learning into the OM ecosystem with support for Android and iOS phones, as well as the browser. This team also works on various user interfaces used with the OM codebase.**
 
