@@ -7,7 +7,6 @@
 <br><br><br>
 
 ## Table of Contents:
-- [Research Team](#research-team)
 - [Learning Team](#learning-team)
 - [Mentorship Team](#mentorship-team)
 - [Design Team](#design-team)
@@ -15,24 +14,6 @@
 - [Social Media Team](#social-media-team)
 - [Meetups Team](#meetups-team)
 - [Partnerships Team](#partnerships-team)
-
-<br><br><br>
-
-## Research Team
-TAG<br>
-DESCRIPTION<br>
-
-**Team Lead:**  Andrew Trask / @trask<br>
-**Team Members:**<br>
-COMING SOON<br>
-
-**Requirements to Join:**<br>
-COMING SOON<br>
-
-**Repos Working In:** COMING SOON<br>
-**Good First Issues:** COMING SOON<br>
-**Application to Join:** COMING SOON<br>
-**Accepting New Members?** YES
 
 <br><br><br>
 
@@ -185,7 +166,7 @@ COMING SOON<br>
 **Team Members:**<br>
 Peter Smith  /  @petersmith<br>
 
-**Requirements to Join:** COMING SOON<br>
-**Application to Join:** INVITE ONLY<br>
-**Accepting New Members?** NO
+**Requirements to Join:** Informal<br>
+**Application to Join:** n/a <br>
+**Accepting New Members?** No
 
