@@ -48,3 +48,4 @@ OpenMined's teams are split into 3 categories: [development](Development-Teams.m
 - [ ] Change all team member names to link to github profiles
 - [ ] Add roadmap links for each team
 - [ ] Order teams alphabetically
+- [ ] Create a visual chart for all teams/groups and what they do (including the dev team leads group, organisational team, internal and external community teams, sub teams for each group, etc.)
