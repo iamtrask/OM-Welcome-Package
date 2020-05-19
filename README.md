@@ -39,6 +39,7 @@ OpenMined's teams are split into 3 categories: [development](Development-Teams.m
 
 
 **Things still to do:**
+- [ ] Integrate Resource:  Patrick's Diagram:  https://app.lucidchart.com/invitations/accept/1158eee8-a446-4d30-906b-60abb6d993fc
 - [ ] Integrate Resource:  Helena's Air Table:  https://airtable.com/shrl9518byxXkEBhr
 - [ ] Integrate Resource:  Nick's Doc:  https://docs.google.com/document/d/1sB7YfI50lwAS3VbGpbqZ5FcVu6gVedtUYjwcpNkReJE/edit#heading=h.h9cv3wh1noa6 
 - [ ] Integrate Resource:  Mentorship Resources:  https://docs.google.com/document/d/1trH6GDbvwHLpE9TZw8hwGx5B--_5mlsL7eFRxSEtE_o/edit#heading=h.1igc0c9tb4wm 
