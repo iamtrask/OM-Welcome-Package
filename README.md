@@ -52,3 +52,4 @@ OpenMined's teams are split into 3 categories: [development](Development-Teams.m
 - [ ] Create a visual chart for all teams/groups and what they do (including the dev team leads group, organisational team, internal and external community teams, sub teams for each group, etc.)
 - [ ] Add Writing Team's *useful* readmes to each team
 - [ ] Once finished: Make sure to send to Madalin for auto message to all new Slack members
+- [ ] Add 'OpenMined Norms' section, like how do we schedule meetings, etc. (/poll on slack is usually best)
