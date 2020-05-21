@@ -24,7 +24,7 @@ Before getting started, it's important to understand OpenMined's mission, to
 
 ## Community Structure
 
-OpenMined is a community broken into various teams, and we all work together on Slack! There will be more about how to use our Slack organisation later, but if you haven't yet, [go join OpenMined's Slack here](slack.openmined.org). 
+OpenMined is a community broken into various teams, and we all work together on Slack! There will be more about how to use our Slack organisation later, but if you haven't yet, [go join OpenMined's Slack here](https://slack.openmined.org). 
 
 OpenMined's teams are split into 3 categories: [development](Development-Teams.md), [community](Community-Teams.md), and [research](Research-Teams.md), so there is room for everyone to contribute! The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
 
