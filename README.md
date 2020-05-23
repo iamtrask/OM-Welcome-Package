@@ -12,7 +12,6 @@
   - [Community Teams](Community-Teams.md)
   - [Development Teams](Development-Teams.md)
   - [Research Teams](Research-Teams.md)
-  - [Projects](#projects)
 
 <br><br><br>
 
@@ -30,22 +29,12 @@ OpenMined is a community broken into various teams, and we all work together on 
 
 OpenMined's teams are split into 3 categories: [development](Development-Teams.md), [community](Community-Teams.md), and [research](Research-Teams.md), so there is room for everyone to contribute! The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
 
-[Check out our **Community Teams** here](Community-Teams.md), for information on our Learning, Mentorship, Design, Writing, Social Media, Meetups, or Partnerships Teams.
+[Check out our **Community Teams** here](/Community Teams/Community-Teams.md), for information on our Learning, Mentorship, Design, Writing, Social Media, Meetups, or Partnerships Teams.
 
-[Or, check out our **Development Teams** here](Development-Teams.md), for information on our Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, or Syft Core Teams.
+[Or, check out our **Development Teams** here](/Development Teams/Development-Teams.md), for information on our Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, or Syft Core Teams.
 
-[Or, check out our **Research Teams** here](Research-Teams.md), for information on our Research Teams.
+[Or, check out our **Research Teams** here](Research Teams/Research-Teams.md), for information on our Research Teams.
 
-<br><br><br>
-
-## Projects
-OpenMined's teams work together on [many different projects](https://github.com/OpenMined). To see which projects each team works on, check out the links for specific [teams](#teams) above.
-
-To better understand how these projects work together, check out these handy charts detailing our development projects:
-- [All Repositories & Projects](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/tl7WrRrBFe~J?shared=true)
-- [High Level Organization](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/0_0?shared=true)
-- [Concepts & Use Cases](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/uZIWEWUiN~Db?shared=true)
-- [Products](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/.dNWx-JB4p7r?shared=true)
 
 <br><br><br>
 
