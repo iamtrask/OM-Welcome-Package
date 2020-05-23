@@ -9,8 +9,8 @@
 
 ## Table of Contents
 - [Who We Are](#who-we-are)
-  - [Community Teams](Community-Teams.md)
-  - [Development Teams](Development-Teams.md)
+  - [Community Teams](Community Teams/README.md)
+  - [Development Teams](/Development Teams/README.md)
   - [Research Teams](Research-Teams.md)
 
 <br><br><br>
