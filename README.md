@@ -24,7 +24,8 @@ To **lower the barrier to entry to privacy preserving technology.**
 <br><br>
 This means that we want to help **you** by both making your products and research better, **and** protecting you along the way.
 <br><br>
-The OpenMined community does most of its communicating on Slack. If you haven't joined our Slack team yet, [click here to join](https://slack.openmined.org)!
+The OpenMined community does most of its communicating on Slack.<br>
+If you haven't joined our Slack team yet, [click here to join](https://slack.openmined.org)!
 
 <br><br><br>
 
