@@ -66,7 +66,7 @@ Once you have joined the Slack organization, there are many channels that you ca
 ### Apply for Mentorship
 Next, you should [join our mentorship program](https://forms.gle/6b3HXZtufMwa9cxaA). OpenMined Mentors are here to help you get started, and to walk you through the steps to becoming an active member of OpenMined.
 
-To get an idea of what you can expect once joining the mentorship program, check out our [Mentorship Program infographic](/images/Mentorship-PROGRAM-2020-EXTERNAL.pdf). This is the program that your mentor will walk you through, from choosing a goal team to join, submitting your first pull request, working your way through our learning materials, applying for a team, to what comes after joining a team.
+To get an idea of what you can expect once joining the mentorship program, check out our [Mentorship Program infographic](/images/mentorship-program.png). This is the program that your mentor will walk you through, from choosing a goal team to join, submitting your first pull request, working your way through our learning materials, applying for a team, to what comes after joining a team.
 
 If you're interested in this type of guidance, [click here to receive mentorship](https://forms.gle/6b3HXZtufMwa9cxaA).
 
