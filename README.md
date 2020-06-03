@@ -21,19 +21,23 @@ Before getting started, it's important to understand OpenMined's mission:<br>
 To **lower the barrier to entry to privacy preserving technology.**
 <br><br>
 This means that we want to help **you** by both making your products and research better, **and** protecting you along the way.
+<br><br>
+The OpenMined community does most of its communicating on Slack. If you haven't joined our Slack team yet, [click here to join](https://slack.openmined.org)!
 
 <br><br><br>
 
 ## Teams
-OpenMined is a community broken into various teams, and we all work together on Slack! There will be more about how to use our Slack organisation later, but if you haven't yet, [go join OpenMined's Slack here](https://slack.openmined.org). 
-
 OpenMined's teams are split into 3 categories: [development](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), [community](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams), and [research](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams), so there is room for everyone to contribute! The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
 
-[Check out our **Community Teams** here](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams), for information on our Learning, Mentorship, Design, Writing, Social Media, Meetups, or Partnerships Teams.
+ ----->INSERT MIND NODE WITH TEAMS HERE<-----
+ 
+For more detailed information on each of our teams, click the links below:<br><br>
+ 
+[**Community Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams): Learning, Mentorship, Design, Writing, Social Media, Meetups, or Partnerships Teams.<br>
 
-[Or, check out our **Development Teams** here](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), for information on our Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, or Syft Core Teams.
+[**Development Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams): Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, or Syft Core Teams.<br>
 
-[Or, check out our **Research Teams** here](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams), for information on our Research Teams.
+[**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams): Research Teams. <----- @iamtrask, need more info
 
 
 <br><br><br>
