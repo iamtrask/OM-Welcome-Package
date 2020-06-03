@@ -14,6 +14,10 @@
   - [Development Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams)
   - [Research Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams)
 - [Getting Started](#getting-started)
+  - [Join Slack](#join-slack)
+  - [Apply for Mentorship](#apply-for-mentorship)
+  - [Setting Up](#setting-up)
+  - [Learning](#learning)
 
 <br><br><br>
 
@@ -36,17 +40,43 @@ OpenMined's teams are split into 3 categories: [development](https://github.com/
  
 For more detailed information on each of our teams, click the links below:<br>
  
-[**Community Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams): Learning, Mentorship, Design, Writing, Social Media, Meetups, or Partnerships Teams.<br>
+[**Community Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams): Learning, Mentorship, Design, Writing, Social Media, Meet-ups, Partnerships<br>
 
-[**Development Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams): Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, or Syft Core Teams.<br>
+[**Development Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams): Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, Syft Core<br>
 
-[**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams): Research Teams. <----- @iamtrask, need more info
+[**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams): Research Teams List <----- @iamtrask, need more info
 
 
 <br><br><br>
 
 ## Getting Started
-Once you have an idea of the best place for you to get involved in our community...
+
+<br><br>
+### Join Slack
+The first thing you should do is [join our Slack community](https://slack.openmined.org). This is the best place to ask questions, meet other team members, and stay up to date on what's going on in the community.<br>
+
+Once you have joined the Slack organization, there are many channels that you can join for help and community, including:
+
+- **Location Based Channels:**  Search for the closest major city or your country name to chat with others from your area!
+- **Topic Based Channels:**  Start your search with topic_, for instance, *#topic_beginner_questions* or *#topic_jobs_in_ai*
+- **Community Channels:**  Start your search with community_, for instance, *#community_udacity_course* or *#community_women-of-om*
+- **Library Channels:**  For questions/communication about specific OpenMined libraries. Start your search with lib_, for instance, *#lib_pysyft, #lib_pygrid, #lib_pydp, #lib_syft_js, #lib_syfertext,* etc.
+
+<br><br>
+### Apply for Mentorship
+Next, you should [join our mentorship program](https://forms.gle/6b3HXZtufMwa9cxaA). OpenMined Mentors are here to help you get started, and to walk you through the steps to becoming an active member of OpenMined.
+
+-----> INSERT EXTERNAL MENTORSHIP PIPELINE HERE <-----
+
+If you're interested in this type of guidance, [click here to receive mentorship](https://forms.gle/6b3HXZtufMwa9cxaA).
+
+<br><br>
+### Setting Up
+.... SHOULD INCLUDE THINGS LIKE DEPENDENCIES, WHAT TO LOAD, ETC.
+
+<br><br>
+### Learning
+.... SHOULD INCLUDE LINKS TO TUTORIALS, GOOD FIRST ISSUES, LEARNING TEAM RESOURCES, ETC. (SEE NICK's DOC AND HELENA's AIRTABLE)
 
 <br><br><br>
 
@@ -59,9 +89,6 @@ Once you have an idea of the best place for you to get involved in our community
 - [ ] Integrate Resource:  Mentorship Pipeline (INTERNAL):  https://drive.google.com/file/d/1m7OG7s3n8p0x8Dj0wBT6qMmvKIei3KGl/view?usp=sharing 
 - [ ] Integrate Resource:Mentorship Program (External):  https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing
 - [ ] Change all team member names to link to github profiles
-- [ ] Add roadmap links for each team
 - [ ] Order teams alphabetically
-- [ ] Create a visual chart for all teams/groups and what they do (including the dev team leads group, organisational team, internal and external community teams, sub teams for each group, etc.)
-- [ ] Add Writing Team's *useful* readmes to each team
 - [ ] Once finished: Make sure to send to Madalin for auto message to all new Slack members
 - [ ] Add 'OpenMined Norms' section, like how do we schedule meetings, etc. (/poll on slack is usually best)
