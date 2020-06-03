@@ -19,9 +19,11 @@
 <br><br><br>
 
 ## Projects
-OpenMined's development teams work together on [many different projects](https://github.com/OpenMined). To see which projects each team works on, check out the links for specific teams below.<br><br>
+OpenMined's development teams work together on [many different projects](https://github.com/OpenMined).<br><br>
 
-To better understand how these projects work together, check out these charts detailing our development projects:
+-----> INSERT WHO WORKS ON WHAT MINDNODE HERE <-----
+
+For more detailed information on how these projects work together, check out these charts detailing our development projects:
 - [All Repositories & Projects](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/tl7WrRrBFe~J?shared=true)
 - [High Level Organization](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/0_0?shared=true)
 - [Concepts & Use Cases](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/uZIWEWUiN~Db?shared=true)
