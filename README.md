@@ -62,7 +62,7 @@ Once you have joined the Slack organization, there are many channels that you ca
 
 <div align="center">
   <a href="https://slack.openmined.org">
-    <img alt="Join OM Slack" src="/images/join-slack.jpg" width="120">
+    <img alt="Join OM Slack" src="/images/join-slack.jpg" width="200">
   </a>
 </div>
 
@@ -92,3 +92,7 @@ If you're interested in this type of guidance, [click here to receive mentorship
 <br><br>
 ### Learning
 .... SHOULD INCLUDE LINKS TO TUTORIALS, GOOD FIRST ISSUES, LEARNING TEAM RESOURCES, ETC. (SEE NICK's DOC AND HELENA's AIRTABLE)
+
+<br><br>
+### Helpful Links
+.... SHOULD INCLUDE LINKS LIKE HOW TO DONATE, BUY SWAG, ETC (See mentorship resources doc)
