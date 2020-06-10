@@ -27,7 +27,8 @@
 Before getting started, it's important to understand OpenMined's mission:<br>
 To **lower the barrier to entry to privacy preserving technology.**
 <br><br>
-This means that we want to help **you** by both making your products and research better, **and** protecting you along the way.
+This means that we want to help **you** by both making your products and research better, **and** protecting you along the way.<br><br>
+[Check out OpenMined's 2020 Roadmap for more about how we plan to make this happen!](https://github.com/OpenMined/Roadmap)
 
 <br><br><br>
 
