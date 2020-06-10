@@ -18,6 +18,7 @@
   - [Apply for Mentorship](#apply-for-mentorship)
   - [Setting Up](#setting-up)
   - [Learning](#learning)
+- [Helpful Links](#helpful-links)
 
 <br><br><br>
 
@@ -72,7 +73,7 @@ Once you have joined the Slack organization, there are many channels that you ca
 Next, you should [join our mentorship program](https://forms.gle/6b3HXZtufMwa9cxaA). OpenMined Mentors are here to help you get started, and to walk you through the steps to becoming an active member of OpenMined.
 
 To get an idea of what you can expect once joining the mentorship program, check out our [Mentorship Program infographic](https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing).
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing">
@@ -95,4 +96,7 @@ If you're interested in this type of guidance, [click here to receive mentorship
 
 <br><br>
 ### Helpful Links
-.... SHOULD INCLUDE LINKS LIKE HOW TO DONATE, BUY SWAG, ETC (See mentorship resources doc)
+[OpenMined Website](https://www.openmined.org/)<br>
+[OpenMined Swag Store](https://teespring.com/stores/openmined)<br>
+[OpenMined Newsletter Signup](http://eepurl.com/cW1Fqj)<br>
+[Donate to OpenMined](https://opencollective.com/openmined)
