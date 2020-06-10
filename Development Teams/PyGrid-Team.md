@@ -2,6 +2,8 @@
 **Everything PyGrid**<br>
 *Works on extending the PySyft library to build a secure peer-to-peer platform. Also works on distributed systems protocols (using websockets), fault tolerance and systems deployment. Technologies of interest: Javascript, Python, PySyft and Flask.*<br>
 
+[**Check out our Grid Network Project!**](https://github.com/OpenMined/Roadmap/blob/master/pygrid_team/projects/grid_network.md)<br>
+
 **Team Lead:**  Ionesio Junior  /  @Ionesio<br>
 **Team Members:**<br>
 João Lucas  /  @João Lucas<br>
