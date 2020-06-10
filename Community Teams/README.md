@@ -17,6 +17,9 @@
 
 <br><br><br>
 
+-----> INSERT WHO WORKS ON WHAT INFOGRAPHIC HERE <-----<br>
+-----> INSERT COMMUNITY TEAMS INFOGRAPHIC HERE <-----<br><br><br>
+
 ## Learning Team
 **Organized learning of the OM code base and Secure & Private AI**<br>
 *Assists prospective contributors interested in learning Secure & Private AI concepts by organizing cohorts, study groups, code challenges, mini-hackathons, and other learning groups that help them understand PySyft and contribute to OM.*<br>
