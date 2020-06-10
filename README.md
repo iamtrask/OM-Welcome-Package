@@ -62,7 +62,7 @@ Once you have joined the Slack organization, there are many channels that you ca
 
 <div align="center">
   <a href="https://slack.openmined.org">
-    <img alt="Join OM Slack" src="/images/join-slack.jpg" width="200">
+    <img alt="Join OM Slack" src="/images/join-our-slack.png" width="200">
   </a>
 </div>
 
