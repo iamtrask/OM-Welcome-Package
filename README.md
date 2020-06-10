@@ -44,8 +44,7 @@ For more detailed information on each of our teams, click the links below:<br>
 
 [**Development Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams): Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, Syft Core<br>
 
-[**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams): Research Teams List <----- @iamtrask, need more info
-
+[**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams): Research Teams List <----- @iamtrask, need more info<br>
 
 <br><br><br>
 
@@ -67,7 +66,7 @@ Once you have joined the Slack organization, there are many channels that you ca
 Next, you should [join our mentorship program](https://forms.gle/6b3HXZtufMwa9cxaA). OpenMined Mentors are here to help you get started, and to walk you through the steps to becoming an active member of OpenMined.
 
 To get an idea of what you can expect once joining the mentorship program, check out our [Mentorship Program infographic](https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing).
-
+<br>
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing">
@@ -75,7 +74,7 @@ To get an idea of what you can expect once joining the mentorship program, check
   </a>
 </div>
 
-
+<br>
 This is the program that your mentor will walk you through, from choosing a goal team to join, submitting your first pull request, working your way through our learning materials, applying for a team, to what comes after joining a team.
 
 If you're interested in this type of guidance, [click here to receive mentorship](https://forms.gle/6b3HXZtufMwa9cxaA)!
@@ -87,18 +86,3 @@ If you're interested in this type of guidance, [click here to receive mentorship
 <br><br>
 ### Learning
 .... SHOULD INCLUDE LINKS TO TUTORIALS, GOOD FIRST ISSUES, LEARNING TEAM RESOURCES, ETC. (SEE NICK's DOC AND HELENA's AIRTABLE)
-
-<br><br><br>
-
-**Things still to do:**
-- [ ] Reorganise all of the text on each .md file to be more readable/digestable
-- [ ] Integrate Resource:  Helena's Air Table:  https://airtable.com/shrl9518byxXkEBhr
-- [ ] Integrate Resource:  Nick's Doc:  https://docs.google.com/document/d/1sB7YfI50lwAS3VbGpbqZ5FcVu6gVedtUYjwcpNkReJE/edit#heading=h.h9cv3wh1noa6 
-- [ ] Integrate Resource:  Mentorship Resources:  https://docs.google.com/document/d/1trH6GDbvwHLpE9TZw8hwGx5B--_5mlsL7eFRxSEtE_o/edit#heading=h.1igc0c9tb4wm 
-- [ ] Integrate Resource:  Educational Tools:  https://docs.google.com/document/d/1bPHFZVEno3zfSxwU1uXrQGpme4y1X42GRK2INQnASnA/edit# 
-- [ ] Integrate Resource:  Mentorship Pipeline (INTERNAL):  https://drive.google.com/file/d/1m7OG7s3n8p0x8Dj0wBT6qMmvKIei3KGl/view?usp=sharing 
-- [ ] Integrate Resource:Mentorship Program (External):  https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing
-- [ ] Change all team member names to link to github profiles
-- [ ] Order teams alphabetically
-- [ ] Once finished: Make sure to send to Madalin for auto message to all new Slack members
-- [ ] Add 'OpenMined Norms' section, like how do we schedule meetings, etc. (/poll on slack is usually best)
