@@ -97,9 +97,9 @@ If you're interested in this type of guidance, [click here to receive mentorship
 
 <br><br>
 ### Helpful Links
-[OpenMined Website](https://www.openmined.org/)<br>
 [OpenMined Blog](https://blog.openmined.org/)<br>
+[OpenMined Website](https://www.openmined.org/)<br>
 [Donate to OpenMined](https://opencollective.com/openmined)<br>
 [OpenMined Swag Store](https://teespring.com/stores/openmined)<br>
-[OpenMined Newsletter Signup](http://eepurl.com/cW1Fqj)<br>
 [OpenMined Brand Guide](https://www.openmined.org/assets/openmined-brand-guide.pdf)<br>
+[OpenMined Newsletter Signup](http://eepurl.com/cW1Fqj)<br>
