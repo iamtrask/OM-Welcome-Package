@@ -95,6 +95,10 @@ If you're interested in this type of guidance, [click here to receive mentorship
 ### Learning
 .... SHOULD INCLUDE LINKS TO TUTORIALS, GOOD FIRST ISSUES, LEARNING TEAM RESOURCES, ETC. (SEE NICK's DOC AND HELENA's AIRTABLE)
 
+[Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)<br>
+[Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series, 1hr](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)<br>
+[Privacy Preserving AI - Andrew Trask, OpenMined. | DevCon, 15min](https://www.youtube.com/watch?v=NJBBE_SN90A)<br>
+
 <br><br>
 ### Helpful Links
 [OpenMined Blog](https://blog.openmined.org/)<br>
