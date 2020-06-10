@@ -45,6 +45,8 @@ For more detailed information on each of our teams, click the links below:<br>
 
 [**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams): Research Teams List <----- @iamtrask, need more info<br>
 
+For more information on what projects these teams actually work on, [click here for development projects](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [click here for community projects](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!
+
 <br><br><br>
 
 ## Getting Started
