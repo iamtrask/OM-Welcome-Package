@@ -68,7 +68,13 @@ Next, you should [join our mentorship program](https://forms.gle/6b3HXZtufMwa9cx
 
 To get an idea of what you can expect once joining the mentorship program, check out our [Mentorship Program infographic](https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing).
 
-[![Mentorship Program](/images/mentorship-thumbnail.png)](https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing)
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing">
+    <img alt="OpenMined Logo" src="/images/mentorship-thumbnail.png" width="400">
+  </a>
+</div>
+
 
 This is the program that your mentor will walk you through, from choosing a goal team to join, submitting your first pull request, working your way through our learning materials, applying for a team, to what comes after joining a team.
 
