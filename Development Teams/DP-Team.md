@@ -1,6 +1,7 @@
 ## Differential Privacy Team
 **Provable Privacy for Deep Learning**<br>
-*Working industry tested and trusted provable privacy capabilities into the OpenMined ecosystem, and building a Python wrapper for the Google Differential Privacy library entitled PyDP.*
+*Working industry tested and trusted provable privacy capabilities into the OpenMined ecosystem, and building a Python wrapper for the Google Differential Privacy library entitled PyDP.*<br><br>
+[**Read their Roadmap blog post here!**](https://blog.openmined.org/making-algorithms-private/)
 
 **Team Lead:**  Benjamin Szymkow  /  @Ben S<br>
 **Team Members:**<br>
