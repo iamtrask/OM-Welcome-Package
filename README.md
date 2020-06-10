@@ -37,6 +37,9 @@ OpenMined's teams are split into 3 categories: [development](https://github.com/
 
  ----->INSERT MIND NODE WITH TEAMS HERE<-----
  
+ 
+For information on what **projects** these teams actually work on, [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!<br><br>
+ 
 For more detailed information on each of our teams, click the links below:<br>
  
 [**Community Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams): Learning, Mentorship, Design, Writing, Social Media, Meet-ups, Partnerships<br>
@@ -44,8 +47,6 @@ For more detailed information on each of our teams, click the links below:<br>
 [**Development Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams): Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, Syft Core<br>
 
 [**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams): Research Teams List <----- @iamtrask, need more info<br>
-
-For more information on what projects these teams actually work on, [click here for development projects](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [click here for community projects](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!
 
 <br><br><br>
 
