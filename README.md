@@ -27,9 +27,6 @@ Before getting started, it's important to understand OpenMined's mission:<br>
 To **lower the barrier to entry to privacy preserving technology.**
 <br><br>
 This means that we want to help **you** by both making your products and research better, **and** protecting you along the way.
-<br><br>
-The OpenMined community does most of its communicating on Slack.<br>
-If you haven't joined our Slack team yet, [click here to join](https://slack.openmined.org)!
 
 <br><br><br>
 
@@ -60,6 +57,15 @@ Once you have joined the Slack organization, there are many channels that you ca
 - **Topic Based Channels:**  Start your search with topic_, for instance, *#topic_beginner_questions* or *#topic_jobs_in_ai*
 - **Community Channels:**  Start your search with community_, for instance, *#community_udacity_course* or *#community_women-of-om*
 - **Library Channels:**  For questions/communication about specific OpenMined libraries. Start your search with lib_, for instance, *#lib_pysyft, #lib_pygrid, #lib_pydp, #lib_syft_js, #lib_syfertext,* etc.
+<br>
+
+
+<div align="center">
+  <a href="https://slack.openmined.org">
+    <img alt="Join OM Slack" src="/images/join-slack.jpg" width="120">
+  </a>
+</div>
+
 
 <br><br>
 ### Apply for Mentorship
