@@ -194,9 +194,9 @@ For more resources to help you learn about the specific technologies used in our
 
 <br>
 
-For more help from the community as you work through these materials, [check out our other Slack channels above](#join-slack). You can ask for help in the _#topic_beginner_questions_ channel, or the specific channel for the library you're working on (beginning with _#lib__).<br>
+For more help from the community as you work through these materials, [**check out our other Slack channels above**](#join-slack). You can ask for help in the _#topic_beginner_questions_ channel, or the specific channel for the library you're working on (beginning with _#lib__).<br>
 
-And lastly, we understand that many people within our community are not machine learning engineers professionally, so we have put together a list of common technical terms one might hear when working inside this community. [Check that out here](), and feel free to create issues for any terms you would like to see added to this list!
+We also understand that many people within our community are not machine learning engineers professionally, so we have put together a list of **Beginner Friendly OpenMined Terminology** that one might hear when working inside this community. [Check that out here](), and feel free to create issues for any terms you would like to see added to this list!
 
 <br><br>
 ### Helpful Links
