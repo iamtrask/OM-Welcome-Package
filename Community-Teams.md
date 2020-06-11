@@ -113,9 +113,9 @@ OpenMined's community teams work together on many different projects.<br><br>
 *Develops and manages relationships with organizations and individuals who are interested in deploying, funding, or promoting open-source privacy-preserving AI software.*<br>
 
 **Team Lead:**  Emma Bluemke  /  @Emma <br>
-[**Team Members**](https://github.com/orgs/OpenMined/teams/partnerships/members)<br><br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/partnerships/members)<br>
 
-**Requirements to Join:**  Informal<br><br>
+**Requirements to Join:**  Informal<br>
 
 **Accepting New Members?** No<br>
 **Application to Join:** n/a <br>
