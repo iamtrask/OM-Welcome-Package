@@ -143,7 +143,7 @@ A good way to get an overview of the technology OpenMined uses, is to watch one 
 
 #### Udacity Course
 
-If you're interested in taking a deep dive into these technologies, we have also released a **free Udacity course**! [**Check out our Udacity course here.**](https://www.udacity.com/course/secure-and-private-ai--ud185)<br><br>
+If you're interested in taking a deep dive into these technologies, we have also released a **free Udacity course**! [**Check out our Udacity course here.**](https://www.udacity.com/course/secure-and-private-ai--ud185)
 
 <br><br>
 
@@ -153,7 +153,6 @@ If you're interested in taking a deep dive into these technologies, we have also
   </a>
 </div>
 
-<br>
 
 #### Tutorials
 
@@ -186,7 +185,7 @@ For more resources to help you learn about the specific technologies used in our
 
 [**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel _#community_om-learners_!
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://blog.openmined.org/announcing-the-openmined-learning-team/">
