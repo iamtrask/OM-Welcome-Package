@@ -145,14 +145,13 @@ A good way to get an overview of the technology OpenMined uses, is to watch one 
 
 If you're interested in taking a deep dive into these technologies, we have also released a **free Udacity course**! [**Check out our Udacity course here.**](https://www.udacity.com/course/secure-and-private-ai--ud185)
 
-<br><br>
 
 <div align="center">
   <a href="https://www.udacity.com/course/secure-and-private-ai--ud185">
     <img alt="Udacity Course Thumbnail" src="/images/udacity-thumb.png" width="750">
   </a>
 </div>
-
+<br>
 
 #### Tutorials
 
