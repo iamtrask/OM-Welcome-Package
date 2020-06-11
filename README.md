@@ -39,7 +39,7 @@ Before getting started, it's important to understand OpenMined's mission:<br>
 To **lower the barrier to entry to privacy preserving technology.**
 <br><br>
 This means that we want to help **you** by both making your products and research better, **and** protecting you along the way.<br><br>
-[Check out OpenMined's 2020 Roadmap for more about how we plan to make this happen!](https://github.com/OpenMined/Roadmap)
+[**Check out OpenMined's 2020 Roadmap for more about how we plan to make this happen!**](https://github.com/OpenMined/Roadmap)
 
 <br><br><br>
 
@@ -63,7 +63,7 @@ For more detailed information on each of our teams, click the links below:<br>
 
 ## Projects And Repositories
 
-OpenMined's teams work together on [many different projects](https://github.com/OpenMined). Here is a short overview of our main development projects and what they do:<br><br>
+OpenMined's teams work together on [many different projects and repositories](https://github.com/OpenMined). Here is a short overview of our main development projects and what they do:<br><br>
 
 - [**PySyft:**](https://github.com/OpenMined/PySyft)  A library for encrypted, privacy preserving machine learning (in Python)
 - [**PyGrid:**](https://github.com/OpenMined/PyGrid)  A Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science (in Python)
@@ -72,7 +72,7 @@ OpenMined's teams work together on [many different projects](https://github.com/
 - [**syft.js:**](https://github.com/OpenMined/syft.js)  The official Syft worker for Web and Node (in Javascript)
 - And many more! [Check out all of our projects here.](https://github.com/OpenMined)<br><br>
 
-For more detailed information on how all of these projects work together, check out these charts detailing our development projects:<br><br>
+Check out these charts for more detailed information about how all of these projects work together:<br><br>
 
 <div align="center">
   <a href="https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/tl7WrRrBFe~J?shared=true">
@@ -89,7 +89,10 @@ For more detailed information on how all of these projects work together, check 
   </a>
 </div>
 
-<br>For information on which project(s) each team actually works on, [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!<br><br>
+<br>To see which project(s) each team actually works on:
+- [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams),
+- [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams),
+- and [**click here for research projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams).
 
 To get started working on these projects, **check out our [tutorials](#tutorials) below.**<br><br><br>
 
