@@ -7,8 +7,8 @@
 <br><br><br>
 
 ## Table of Contents:
-- [Project 1](#project1)
-- [Role 1](#role1)
+- [Project](#)
+- [Role](#)
 
 <br><br><br>
 
