@@ -53,12 +53,13 @@ Check out these charts for more detailed information about how all of these proj
 [**Team Road Map**](https://github.com/OpenMined/Roadmap/tree/master/crypto_team)<br>
 [**Good First Issues**](https://github.com/OpenMined/PySyft/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Crypto+Team%22++label%3A%22good+first+issue%22)<br>
 
-**Accepting New Members?** YES<br>
-[**Application to Join**](https://forms.gle/tG7KhwzJKubAeorv6)<br>
 **Requirements to Join:**
 - You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues below)
 - You have a basic knowledge of or interest in Encrypted Computation (Multi-Party Computation, Homomorphic Encryption or Functional Encryption)
 - You are highly motivated and wish to be involved on a regular basis
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://forms.gle/tG7KhwzJKubAeorv6)
 
 <br><br><br>
 
