@@ -88,7 +88,7 @@ For more detailed information on how all of these projects work together, check 
 
 <br>For information on which project(s) each team actually works on, [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!<br><br>
 
-To get started working on these projects, **check out our [tutorials](#learning) below.**<br><br><br>
+To get started working on these projects, **check out our [tutorials](#tutorials) below.**<br><br><br>
 
 
 ## Getting Started
