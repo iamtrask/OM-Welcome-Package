@@ -35,6 +35,7 @@ In addition to continuing to support open-source development, OpenMined will now
 - Have merged one or more pull requests into PySyft or PyGrid
 - Have read/understood key papers in Differential Privacy, Secure Multi-party Computation, Federated Learning, Zero-knowledge Proofs, and Homomorphic Encryption.
 
+[**Current OM Research Engineers List**](https://github.com/orgs/OpenMined/teams/research-engineers/members)<br>
 [**More Information on How to Become an OM Research Engineer!**](https://blog.openmined.org/apply-to-be-an-openmined-research-engineer/)<br>
 [**Apply to be an OM Research Engineer!**](https://docs.google.com/forms/d/e/1FAIpQLSc5fLCgn4gCWlquCP0dDfTw7MSeSoCRZL_DNK7j5PFCJ7s3tQ/viewform)
 
@@ -57,5 +58,6 @@ In addition to continuing to support open-source development, OpenMined will now
 - Have merged one or more pull requests into PySyft or PyGrid
 - Have read/understood key papers in Differential Privacy, Secure Multi-party Computation, Federated Learning, Zero-knowledge Proofs, and Homomorphic Encryption.
 
+[**Current OM Research Scientists List**](https://github.com/orgs/OpenMined/teams/research-scientists/members)<br>
 [**More Information on How to Become an OM Research Scientist!**](https://blog.openmined.org/apply-to-be-an-openmined-research-scientist/)<br>
 [**Apply to be an OM Research Scientist!**](https://docs.google.com/forms/d/e/1FAIpQLSe6pceSJd-ZMglNEMYKxNBKnpYXIS9nMixHk6Wh6TBFpE4XSw/viewform)
