@@ -114,7 +114,7 @@ To get an idea of what you can expect on joining the mentorship program, check o
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing">
-    <img alt="OpenMined Logo" src="/images/mentorship-thumbnail.png" width="400">
+    <img alt="OpenMined Logo" src="/images/mentorship-thumb.png" width="400">
   </a>
 </div>
 
