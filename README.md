@@ -51,9 +51,9 @@ OpenMined's teams are split into 3 categories: [development](https://github.com/
  
 For more detailed information on each of our teams, click the links below:<br>
  
-- [**Development Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams): Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, Syft Core<br>
+- [**Development Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams): Cryptography, Differential Privacy, Identity and Security, Natural Language Processing, PyGrid, Syft Core, Web and Mobile<br>
  
-- [**Community Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams): Learning, Mentorship, Design, Writing, Social Media, Meet-ups, Partnerships<br>
+- [**Community Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams): Design, Learning, Meet-ups, Mentorship, Operations, Partnerships, Social Media, Writing<br>
 
 - [**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams): Research Teams List <----- @iamtrask, need more info<br>
 
