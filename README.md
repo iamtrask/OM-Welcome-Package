@@ -164,7 +164,7 @@ Once you have an understanding of the technologies used, our tutorials are the b
 - [**Tutorials:  PyDP**](https://github.com/OpenMined/PyDP/tree/dev/examples)
 - [**Tutorials:  SyferText**](https://github.com/OpenMined/SyferText/tree/master/tutorials)
 
-For more information about what each of these libraries does, check out the [Projects](#projects) section above.
+For more information about what each of these libraries does, check out the [Projects and Repositories](#projects-and-repositories) section above.
 <br><br>
 
 ### Good First Issues
