@@ -9,12 +9,12 @@
 ## Table of Contents:
 - [Projects](#projects)
 - [Cryptography Team](#cryptography-team)
-- [PyGrid Team](#pygrid-team)
-- [Web and Mobile Team](#web-and-mobile-team)
-- [Natural Language Processing Team](#natural-language-processing-team)
 - [Differential Privacy Team](#differential-privacy-team)
-- [Identity and Security Team](#identity-and-security-team)
+- [Natural Language Processing Team](#natural-language-processing-team)
+- [PyGrid Team](#pygrid-team)
+- [Security and Identity Team](#security-and-identity-team)
 - [Syft Core Team](#syft-core-team)
+- [Web and Mobile Team](#web-and-mobile-team)
 
 <br><br><br>
 
@@ -54,27 +54,15 @@ For more detailed information on how all of these projects work together, check 
 
 <br><br><br>
 
-## PyGrid Team
-**Everything PyGrid**<br>
-*Works on extending the PySyft library to build a secure peer-to-peer platform. Also works on distributed systems protocols (using websockets), fault tolerance and systems deployment. Technologies of interest: Javascript, Python, PySyft and Flask.*<br>
+## Differential Privacy Team
+**Provable Privacy for Deep Learning**<br>
+*Working industry tested and trusted provable privacy capabilities into the OpenMined ecosystem, and building a Python wrapper for the Google Differential Privacy library entitled PyDP.*
 
-**Team Lead:**  Ionesio Junior  /  @Ionesio<br>
-**Projects/Repos Working In:** [PyGrid](https://github.com/OpenMined/PyGrid)<br>
+**Team Lead:**  Benjamin Szymkow  /  @Ben S<br>
+**Projects/Repos Working In:** [PyDP](https://github.com/OpenMined/PyDP)<br>
 **Accepting New Members?** YES
 <br><br>
-[**MORE ABOUT PYGRID TEAM**](PyGrid-Team.md)
-
-<br><br><br>
-
-## Web and Mobile Team
-**Federated Learning for web and mobile**<br>
-*Building federated learning into the OM ecosystem with support for Android and iOS phones, as well as the browser. This team also works on various user interfaces used with the OM codebase.*<br>
-
-**Team Lead:**  Patrick Cason  /  @cereallarceny<br>
-**Projects/Repos Working In:** [KotlinSyft](https://github.com/OpenMined/KotlinSyft), [syft-proto](https://github.com/OpenMined/syft-proto), [PySyft](https://github.com/OpenMined/PySyft), [SwiftSyft](https://github.com/OpenMined/SwiftSyft), [Threepio](https://github.com/OpenMined/Threepio), [syft.js](https://github.com/OpenMined/syft.js)<br>
-**Accepting New Members?** YES
-<br><br>
-[**MORE ABOUT WEB & MOBILE TEAM**](Web-And-Mobile-Team.md)
+[**MORE ABOUT DP TEAM**](DP-Team.md)
 
 <br><br><br>
 
@@ -90,15 +78,15 @@ For more detailed information on how all of these projects work together, check 
 
 <br><br><br>
 
-## Differential Privacy Team
-**Provable Privacy for Deep Learning**<br>
-*Working industry tested and trusted provable privacy capabilities into the OpenMined ecosystem, and building a Python wrapper for the Google Differential Privacy library entitled PyDP.*
+## PyGrid Team
+**Everything PyGrid**<br>
+*Works on extending the PySyft library to build a secure peer-to-peer platform. Also works on distributed systems protocols (using websockets), fault tolerance and systems deployment. Technologies of interest: Javascript, Python, PySyft and Flask.*<br>
 
-**Team Lead:**  Benjamin Szymkow  /  @Ben S<br>
-**Projects/Repos Working In:** [PyDP](https://github.com/OpenMined/PyDP)<br>
+**Team Lead:**  Ionesio Junior  /  @Ionesio<br>
+**Projects/Repos Working In:** [PyGrid](https://github.com/OpenMined/PyGrid)<br>
 **Accepting New Members?** YES
 <br><br>
-[**MORE ABOUT DP TEAM**](DP-Team.md)
+[**MORE ABOUT PYGRID TEAM**](PyGrid-Team.md)
 
 <br><br><br>
 
@@ -123,3 +111,15 @@ For more detailed information on how all of these projects work together, check 
 **Accepting New Members?** YES
 <br><br>
 [**MORE ABOUT SYFT CORE TEAM**](Syft-Core-Team.md)
+
+<br><br><br>
+
+## Web and Mobile Team
+**Federated Learning for web and mobile**<br>
+*Building federated learning into the OM ecosystem with support for Android and iOS phones, as well as the browser. This team also works on various user interfaces used with the OM codebase.*<br>
+
+**Team Lead:**  Patrick Cason  /  @cereallarceny<br>
+**Projects/Repos Working In:** [KotlinSyft](https://github.com/OpenMined/KotlinSyft), [syft-proto](https://github.com/OpenMined/syft-proto), [PySyft](https://github.com/OpenMined/PySyft), [SwiftSyft](https://github.com/OpenMined/SwiftSyft), [Threepio](https://github.com/OpenMined/Threepio), [syft.js](https://github.com/OpenMined/syft.js)<br>
+**Accepting New Members?** YES
+<br><br>
+[**MORE ABOUT WEB & MOBILE TEAM**](Web-And-Mobile-Team.md)
