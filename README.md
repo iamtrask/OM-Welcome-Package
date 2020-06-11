@@ -2,7 +2,13 @@
 <div align="center">
   <img alt="OpenMined Logo" src="/images/logo.png">
   <h1><strong>OpenMined Welcome Package</strong></h1>
-  <p>Welcome to OpenMined! This guide will walk you through how to get started and contribute in the OpenMined community.<br>We're happy you're here. :)</p>
+  <p>Welcome to OpenMined! The goal of this Welcome Package is to help you:
+    <ul>
+      <li>get to know who we are and what we do,</li>
+      <li>find the best place for you to fit into the community,</li>
+      <li>and get started on your path to contributing in your unique way!</li>
+    </ul>
+  We're happy you're here. :)</p>
 </div>
 
 <br><br><br>
@@ -13,10 +19,10 @@
   - [Community Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams)
   - [Development Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams)
   - [Research Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams)
+- [Projects](#projects)
 - [Getting Started](#getting-started)
   - [Join Slack](#join-slack)
   - [Apply for Mentorship](#apply-for-mentorship)
-  - [Setting Up](#setting-up)
   - [Learning](#learning)
 - [Helpful Links](#helpful-links)
 
@@ -33,22 +39,41 @@ This means that we want to help **you** by both making your products and researc
 <br><br><br>
 
 ## Teams
-OpenMined's teams are split into 3 categories: [development](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), [community](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams), and [research](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams), so there is room for everyone to contribute! The goal of this Beginner's Guide is to help you know the best place for you to fit into the community, and to get you started on your path to contributing in your unique way.
+
+OpenMined's teams are split into 3 categories: [development](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), [community](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams), and [research](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams), so there is room for everyone to contribute!
 
  ----->INSERT MIND NODE WITH TEAMS HERE<-----
  
- 
-For information on what **projects** these teams actually work on, [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!<br><br>
- 
 For more detailed information on each of our teams, click the links below:<br>
  
-[**Community Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams): Learning, Mentorship, Design, Writing, Social Media, Meet-ups, Partnerships<br>
+- [**Development Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams): Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, Syft Core<br>
+ 
+- [**Community Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams): Learning, Mentorship, Design, Writing, Social Media, Meet-ups, Partnerships<br>
 
-[**Development Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams): Cryptography, PyGrid, Web and Mobile, Natural Language Processing, Differential Privacy, Identity and Security, Syft Core<br>
-
-[**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams): Research Teams List <----- @iamtrask, need more info<br>
+- [**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams): Research Teams List <----- @iamtrask, need more info<br>
 
 <br><br><br>
+
+## Projects
+
+OpenMined's teams work together on [many different projects](https://github.com/OpenMined). Here is a short overview of our main development projects and what they do:<br><br>
+
+- [PySyft:](https://github.com/OpenMined/PySyft)  A library for encrypted, privacy preserving machine learning
+- [PyGrid:](https://github.com/OpenMined/PyGrid)  A Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science
+- [PyDP:](https://github.com/OpenMined/PyDP)  A python wrapper for https://github.com/google/differential-privacy
+- [SyferText:](https://github.com/OpenMined/SyferText)  A privacy preserving NLP framework
+- [syft.js:](https://github.com/OpenMined/syft.js)  The official Syft worker for Web and Node, built in Javascript
+- And many more! [Check out all of our projects here.](https://github.com/OpenMined)<br><br>
+
+For more detailed information on how all of these projects work together, check out these charts detailing our development projects:
+- [All Repositories & Projects](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/tl7WrRrBFe~J?shared=true)
+- [High Level Organization](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/0_0?shared=true)
+- [Concepts & Use Cases](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/uZIWEWUiN~Db?shared=true)
+- [Products](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/.dNWx-JB4p7r?shared=true)
+<br><br>
+For information on which project(s) each team actually works on, [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!<br><br>
+And to get started working on these projects, check out our [tutorials](#learning) below.<br><br><br>
+
 
 ## Getting Started
 
@@ -91,22 +116,29 @@ This is the program that your mentor will walk you through, from choosing a goal
 If you're interested in this type of guidance, [click here to receive mentorship](https://forms.gle/6b3HXZtufMwa9cxaA)!
 
 <br><br>
-### Setting Up
-.... SHOULD INCLUDE THINGS LIKE DEPENDENCIES, WHAT TO LOAD, ETC.
-
-<br><br>
 ### Learning
-.... SHOULD INCLUDE LINKS TO TUTORIALS, GOOD FIRST ISSUES, LEARNING TEAM RESOURCES, ETC. (SEE NICK's DOC AND HELENA's AIRTABLE)
+A good way to get an overview of the technology OpenMined uses, is to watch one of [Andrew Trask](https://github.com/iamtrask)'s presentations. Here are two examples, one shorter and one longer, that will give you a good starting point:
 
-[Building Safe A.I.: A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)<br>
-[Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series, 1hr](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)<br>
-[Privacy Preserving AI - Andrew Trask, OpenMined. | DevCon, 15min](https://www.youtube.com/watch?v=NJBBE_SN90A)<br>
+- **15 Minutes:** [Privacy Preserving AI - Andrew Trask, OpenMined. | DevCon](https://www.youtube.com/watch?v=NJBBE_SN90A)<br>
+- **1 Hour:** [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)<br>
 
+Once you have in idea of the technologies used, our tutorials are one of the best places you can get started. Here are links to our tutorials, in case you're ready to jump right into the code:
+
+- [**Building Safe A.I.:** A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)<br>
+- [**PySyft Tutorials**](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
+- [**PyGrid Tutorials**](https://github.com/OpenMined/PyGrid/tree/dev/examples)
+- [**syft.js Tutorials**](https://github.com/OpenMined/syft.js/tree/master/examples/mnist)
+- [**PyDP Tutorials**](https://github.com/OpenMined/PyDP/tree/dev/examples)
+- [**SyferText Tutorials**](https://github.com/OpenMined/SyferText/tree/master/tutorials)
 <br><br>
+
+For more information about what each of these libraries does, check out the [Projects](#projects) section above.
+
+<br><br><br>
 ### Helpful Links
-[OpenMined Blog](https://blog.openmined.org/)<br>
-[OpenMined Website](https://www.openmined.org/)<br>
-[Donate to OpenMined](https://opencollective.com/openmined)<br>
-[OpenMined Swag Store](https://teespring.com/stores/openmined)<br>
-[OpenMined Brand Guide](https://www.openmined.org/assets/openmined-brand-guide.pdf)<br>
-[OpenMined Newsletter Signup](http://eepurl.com/cW1Fqj)<br>
+- [OpenMined Blog](https://blog.openmined.org/)<br>
+- [OpenMined Website](https://www.openmined.org/)<br>
+- [Donate to OpenMined](https://opencollective.com/openmined)<br>
+- [OpenMined Swag Store](https://teespring.com/stores/openmined)<br>
+- [OpenMined Brand Guide](https://www.openmined.org/assets/openmined-brand-guide.pdf)<br>
+- [OpenMined Newsletter Signup](http://eepurl.com/cW1Fqj)<br>
