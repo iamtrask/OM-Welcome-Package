@@ -21,7 +21,9 @@
 ## Projects
 OpenMined's community teams work together on many different projects.<br><br>
 
------> INSERT WHO WORKS ON WHAT MINDNODE HERE <----- <br><br>
+-----> INSERT WHO WORKS ON WHAT MINDNODE HERE <----- 
+
+<br><br><br>
 
 ## Learning Team
 **Organized learning of the OM code base and Secure & Private AI**<br>
