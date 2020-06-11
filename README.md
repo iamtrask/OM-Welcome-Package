@@ -47,7 +47,11 @@ This means that we want to help **you** by both making your products and researc
 
 OpenMined's teams are split into 3 categories: [development](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), [community](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams), and [research](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams), so there is room for everyone to contribute!
 
- ----->INSERT MIND NODE WITH TEAMS HERE<-----
+<div align="center">
+    <img alt="OM Teams Diagram" src="/images/om-teams-diagram.png">
+</div>
+
+<br><br>
  
 For more detailed information on each of our teams, click the links below:<br>
  
