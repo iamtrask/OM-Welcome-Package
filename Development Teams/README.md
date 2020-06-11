@@ -25,7 +25,7 @@ OpenMined's development teams work together on [many different projects](https:/
   <img alt="Who Works On What Diagram" src="/images/proj-diagram.png">
 </div><br><br>
 
-For more detailed information on how all of these projects work together, check out these charts detailing our development projects:<br><br>
+Check out these charts for more detailed information about how all of these projects work together:<br><br>
 
 <div align="center">
   <a href="https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/tl7WrRrBFe~J?shared=true">
