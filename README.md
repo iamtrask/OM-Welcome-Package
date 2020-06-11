@@ -14,8 +14,8 @@
 ## Table of Contents
 - [Who We Are](#who-we-are)
 - [Teams](#teams)
-  - [Community Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams)
   - [Development Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams)
+  - [Community Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams)
   - [Research Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams)
 - [Projects](#projects)
 - [Getting Started](#getting-started)
