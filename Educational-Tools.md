@@ -3,7 +3,7 @@
 <br>
 
 #### Python (coding language)
-[Free Youtube Tutoria](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+[Free Youtube Tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 [“Learn Python The Hard Way” textbook](https://www.amazon.co.uk/Learn-Python-Hard-Way-Introduction/dp/0321884914)
 
 <br>
