@@ -132,7 +132,7 @@ Once you have in idea of the technologies used, our tutorials are one of the bes
 - [**syft.js Tutorials**](https://github.com/OpenMined/syft.js/tree/master/examples/mnist)
 - [**PyDP Tutorials**](https://github.com/OpenMined/PyDP/tree/dev/examples)
 - [**SyferText Tutorials**](https://github.com/OpenMined/SyferText/tree/master/tutorials)
-<br><br>
+<br>
 
 For more information about what each of these libraries does, check out the [Projects](#projects) section above.
 
