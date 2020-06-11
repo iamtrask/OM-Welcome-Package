@@ -29,7 +29,7 @@ OpenMined's community teams work together on many different projects.<br><br>
 
 **Team Lead:** Yemissi B. Kifouly  /  @Yemi<br>
 [**Application to Join**](https://docs.google.com/forms/d/e/1FAIpQLSelt05UbqIivQOoddG7fk17tZQJgNd2Km7hAQaTa0vZEFsoxA/viewform)<br>
-**Accepting New Members?** YES<br><br>
+**Accepting New Members?** YES<br>
 
 [**MORE ABOUT LEARNING TEAM**](Learning-Team.md)
 
@@ -41,7 +41,7 @@ OpenMined's community teams work together on many different projects.<br><br>
 
 **Team Lead:**  Sourav Das  /  @Sourav<br>
 [**Application to Join**](https://forms.gle/WRp4r5GU4QbraPH3A)<br>
-**Accepting New Members?** YES<br><br>
+**Accepting New Members?** YES<br>
 
 [**MORE ABOUT MENTORSHIP TEAM**](Mentorship-Team.md)
 
@@ -53,7 +53,7 @@ OpenMined's community teams work together on many different projects.<br><br>
 
 **Team Lead:**  Bennett Farkas  /  @bennett <br>
 [**Application to Join**](https://forms.gle/MEJBEU1P1PfCTN3D8)<br>
-**Accepting New Members?** YES<br><br>
+**Accepting New Members?** YES<br>
 
 [**MORE ABOUT DESIGN TEAM**](Design-Team.md)
 
@@ -65,7 +65,7 @@ OpenMined's community teams work together on many different projects.<br><br>
 
 **Team Lead:**  Emma Bluemke  /  @Emma <br>
 [**Application to Join**](https://forms.gle/URTqQEENRQr6RHFL8)<br>
-**Accepting New Members?** YES<br><br>
+**Accepting New Members?** YES<br>
 
 [**MORE ABOUT WRITING TEAM**](Writing-Team.md)
 
@@ -77,7 +77,7 @@ OpenMined's community teams work together on many different projects.<br><br>
 
 **Team Lead:**  Madalin Mamuleanu  /  @Madalin Mamuleanu<br>
 [**Application to Join**](https://forms.gle/TLyc8FYVmthsmkV66)<br>
-**Accepting New Members?** YES<br><br>
+**Accepting New Members?** YES<br>
 
 [**MORE ABOUT SOCIAL MEDIA TEAM**](Social-Media-Team.md)
 
@@ -89,7 +89,7 @@ OpenMined's community teams work together on many different projects.<br><br>
 
 **Team Lead:**  TBD<br>
 [**Application to Join**](https://forms.gle/Bzm7SxLs3xBsgwiZ9)<br>
-**Accepting New Members?** YES<br><br>
+**Accepting New Members?** YES<br>
 
 [**MORE ABOUT MEET-UPS TEAM**](Meet-Ups-Team.md)
 
@@ -101,7 +101,7 @@ OpenMined's community teams work together on many different projects.<br><br>
 
 **Team Lead:**  Emma Bluemke  /  @Emma <br>
 **Application to Join:** n/a <br>
-**Accepting New Members?** No<br><br>
+**Accepting New Members?** No<br>
 
 [**MORE ABOUT PARTNERSHIPS TEAM**](Partnerships-Team.md)
 
@@ -113,7 +113,7 @@ OpenMined's community teams work together on many different projects.<br><br>
 
 **Team Lead:**  Peter Smith  /  @petersmith <br>
 **Application to Join:** TBA <br>
-**Accepting New Members?** Yes<br><br>
+**Accepting New Members?** Yes<br>
 
 [**MORE ABOUT OPERATIONS TEAM**](Operations-Team.md)
 
