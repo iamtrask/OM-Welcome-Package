@@ -2,13 +2,13 @@
 <div align="center">
   <img alt="OpenMined Logo" src="/images/logo.png">
   <h1><strong>OpenMined Welcome Package</strong></h1>
-  <p>Welcome to OpenMined! The goal of this Welcome Package is to help you:
-    <ul>
+  <p>Welcome to OpenMined! The goal of this Welcome Package is to help you:</p>
+    <ul style="list-style-type: none;">
       <li>get to know who we are and what we do,</li>
       <li>find the best place for you to fit into the community,</li>
       <li>and get started on your path to contributing in your unique way!</li>
     </ul>
-  We're happy you're here. :)</p>
+  <p>We're happy you're here. :)</p>
 </div>
 
 <br><br><br>
