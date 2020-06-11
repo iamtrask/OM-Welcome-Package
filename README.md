@@ -113,7 +113,7 @@ To get an idea of what you can expect once joining the mentorship program, check
 </div>
 
 <br>
-This is the program that your mentor will walk you through, from choosing a goal team to join, submitting your first pull request, working your way through our learning materials, applying for a team, to what comes after joining a team.
+This is the program that your mentor will walk you through, from choosing a goal team to join, submitting your first pull request, working your way through our learning materials, applying for a team, to what comes after joining a team.<br><br>
 
 If you're interested in this type of guidance, [click here to receive mentorship](https://forms.gle/6b3HXZtufMwa9cxaA)!
 
