@@ -188,6 +188,7 @@ Once you have an understanding of the technologies used, our tutorials are the b
 - [**Tutorials:  syft.js**](https://github.com/OpenMined/syft.js/tree/master/examples/mnist)
 - [**Tutorials:  PyDP**](https://github.com/OpenMined/PyDP/tree/dev/examples)
 - [**Tutorials:  SyferText**](https://github.com/OpenMined/SyferText/tree/master/tutorials)
+- [For translations of our tutorials into various non-English languages, click here!](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials/translations)
 
 For more information about what each of these libraries does, check out the [Projects and Repositories](#projects-and-repositories) section above.
 <br><br>
