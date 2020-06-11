@@ -122,14 +122,14 @@ To get an idea of what you can expect on joining the mentorship program, check o
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing">
-    <img alt="OpenMined Logo" src="/images/mentorship-thumb.png" width="400">
+    <img alt="Mentorship Program Thumbnail" src="/images/mentorship-thumb.png" width="500">
   </a>
 </div>
 
 <br>
 This is the program that your mentor will walk you through, from choosing a goal team to join, submitting your first pull request, working your way through our learning materials, applying for a team, to what comes after joining a team.<br><br>
 
-If you're interested in this type of guidance, [click here to receive mentorship](https://forms.gle/6b3HXZtufMwa9cxaA)!
+If you're interested in this type of guidance, [**Click Here to Receive Mentorship**](https://forms.gle/6b3HXZtufMwa9cxaA)!
 
 <br><br>
 ### Learning
@@ -145,8 +145,15 @@ A good way to get an overview of the technology OpenMined uses, is to watch one 
 
 If you're interested in taking a deep dive into these technologies, we have also released a **free Udacity course**! [**Check out our Udacity course here.**](https://www.udacity.com/course/secure-and-private-ai--ud185)<br><br>
 
------> INSERT UDACITY THUMBNAIL HERE <-----
 <br><br>
+
+<div align="center">
+  <a href="https://www.udacity.com/course/secure-and-private-ai--ud185">
+    <img alt="Udacity Course Thumbnail" src="/images/udacity-thumb.png" width="750">
+  </a>
+</div>
+
+<br>
 
 #### Tutorials
 
@@ -177,7 +184,17 @@ For more resources to help you learn about the specific technologies used in our
 
 #### Learning Initiatives
 
-[**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel _#community_om-learners!_<br>
+[**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel _#community_om-learners_!
+
+<br><br>
+
+<div align="center">
+  <a href="https://blog.openmined.org/announcing-the-openmined-learning-team/">
+    <img alt="Learning Team Thumbnail" src="/images/learning-thumb.png" width="500">
+  </a>
+</div>
+
+<br>
 
 For more help from the community as you work through these materials, [check out our other Slack channels above](#join-slack). You can ask for help in the _#topic_beginner_questions_ channel, or the specific channel for the library you're working on (beginning with _#lib__).<br>
 
