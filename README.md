@@ -136,6 +136,8 @@ This is the program that your mentor will walk you through, from choosing a goal
 
 If you're interested in this type of guidance, [**Click Here to Receive Mentorship**](https://forms.gle/6b3HXZtufMwa9cxaA)!
 
+<br><br>
+
 ### Step 3: Learning Initiatives
 
 [**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel _#community_om-learners_!
