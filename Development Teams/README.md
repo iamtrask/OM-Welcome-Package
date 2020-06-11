@@ -68,10 +68,21 @@ Check out these charts for more detailed information about how all of these proj
 *Working industry tested and trusted provable privacy capabilities into the OpenMined ecosystem, and building a Python wrapper for the Google Differential Privacy library entitled PyDP.*
 
 **Team Lead:**  Benjamin Szymkow  /  @Ben S<br>
-**Projects/Repos Working In:** [PyDP](https://github.com/OpenMined/PyDP)<br>
-**Accepting New Members?** YES
-<br><br>
-[**MORE ABOUT DP TEAM**](DP-Team.md)
+[**Sub-Teams & Team Members**](https://github.com/orgs/OpenMined/teams/differential-privacy/teams) <br>
+[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/pydp_team)<br>
+[**Good First Issues**](https://github.com/OpenMined/PyDP/labels/good%20first%20issue)<br>
+
+**Requirements to Join:**
+- You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below)
+- Language competencies: C++ (strong) and Python
+- Able to quickly learn build systems (Bazel, CMake)
+- Desirable: docker container design
+- Passionate about privacy
+- Able to attend fortnightly dial-ups
+- Enjoy creative problem solving!
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://docs.google.com/forms/d/1XXlPDBkV2xOZmMZMSyw-_KAAjs93CLWmp4Gb0Ql-s_g)
 
 <br><br><br>
 
