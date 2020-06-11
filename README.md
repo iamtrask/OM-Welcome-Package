@@ -27,9 +27,10 @@
   - [**Step 5:** Udacity Course](#step-5-udacity-course)
   - [**Step 6:** Tutorials](#step-6-tutorials)
   - [**Step 7:** Good First Issues](#step-7-good-first-issues)
+  - [**Step 8:** Join a Team!](#step-8-join-a-team)
+- [**Helpful Links**](#helpful-links)
   - [Educational Tools](Educational-Tools.md)
   - [Beginner Friendly Terms](Beginner-Friendly-OM-Terms.md)
-- [**Helpful Links**](#helpful-links)
 
 <br><br><br>
 
@@ -200,17 +201,29 @@ Once you have a bit of an idea of how these libraries work, our Good First Issue
 - [**Good First Issues:  syft.js**](https://github.com/OpenMined/syft.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
 - [**Good First Issues:  PyDP**](https://github.com/OpenMined/PyDP/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
 - [**Good First Issues:  SyferText**](https://github.com/OpenMined/SyferText/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
+<br><br>
+
+### Step 8: Join A Team
+
+The learning materials above prepare you to join a team and become a contributing member of OpenMined! Once you have gotten to know our code base a bit, check out the links below for information on how to join the team you're most interested in!
+
+- [**Development Teams**](Development-Teams.md)
+- [**Community Teams**](Community-Teams.md)
+- [**Research Teams**](Research-Teams.md)
+
+<br><br>
+
+## Helpful Links
+- [OpenMined Blog](https://blog.openmined.org/)
+- [OpenMined Website](https://www.openmined.org/)
+- [Donate to OpenMined](https://opencollective.com/openmined)
+- [OpenMined Swag Store](https://teespring.com/stores/openmined)
+- [OpenMined Brand Guide](https://www.openmined.org/assets/openmined-brand-guide.pdf)
+- [OpenMined Newsletter Signup](http://eepurl.com/cW1Fqj)
+
+<br>
 
 For more resources to help you learn about the specific technologies used in our projects, **[check out our collection of Educational Tools here](Educational-Tools.md).**
-<br><br>
+<br>
 
 We also understand that many people within our community are not machine learning engineers professionally, so we have put together a list of [**Beginner Friendly OpenMined Terminology**](Beginner-Friendly-OM-Terms.md) that one might hear when working inside this community. [Check that out here](Beginner-Friendly-OM-Terms.md), and feel free to create issues for any terms you would like to see added to this list!
-
-<br><br>
-## Helpful Links
-- [OpenMined Blog](https://blog.openmined.org/)<br>
-- [OpenMined Website](https://www.openmined.org/)<br>
-- [Donate to OpenMined](https://opencollective.com/openmined)<br>
-- [OpenMined Swag Store](https://teespring.com/stores/openmined)<br>
-- [OpenMined Brand Guide](https://www.openmined.org/assets/openmined-brand-guide.pdf)<br>
-- [OpenMined Newsletter Signup](http://eepurl.com/cW1Fqj)<br>
