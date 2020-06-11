@@ -36,6 +36,6 @@ Zszazi  /  @zszazi<br>
 **Repos Working In:** COMING SOON<br>
 **Good First Issues:** COMING SOON<br>
 [**Application to Join**](https://forms.gle/URTqQEENRQr6RHFL8)<br>
-**Accepting New Members?** YES<br><br>
+**Accepting New Members?** YES<br>
 
 [**WRITING TEAM ROAD MAP**](https://github.com/OpenMined/Roadmap/tree/master/writing_team)
