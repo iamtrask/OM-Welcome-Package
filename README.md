@@ -63,13 +63,17 @@ OpenMined's teams work together on [many different projects](https://github.com/
 - [syft.js:](https://github.com/OpenMined/syft.js)  The official Syft worker for Web and Node, built in Javascript
 - And many more! [Check out all of our projects here.](https://github.com/OpenMined)<br><br>
 
-For more detailed information on how all of these projects work together, check out these charts detailing our development projects:
+For more detailed information on how all of these projects work together, check out these charts detailing our development projects:<br><br>
+
 - [All Repositories & Projects](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/tl7WrRrBFe~J?shared=true)
 - [High Level Organization](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/0_0?shared=true)
 - [Concepts & Use Cases](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/uZIWEWUiN~Db?shared=true)
 - [Products](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/.dNWx-JB4p7r?shared=true)
-<br><br>
-For information on which project(s) each team actually works on, [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!<br><br>
+
+
+
+<br>For information on which project(s) each team actually works on, [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!<br><br>
+
 And to get started working on these projects, check out our [tutorials](#learning) below.<br><br><br>
 
 
