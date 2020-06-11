@@ -108,7 +108,7 @@ Once you have joined the Slack organization, there are many channels that you ca
 
 <div align="center">
   <a href="https://slack.openmined.org">
-    <img alt="Join OM Slack" src="/images/join-our-slack.png" width="200">
+    <img alt="Join OM Slack" src="/images/join-our-slack.png" width="185">
   </a>
 </div>
 
@@ -122,7 +122,7 @@ To get an idea of what you can expect on joining the mentorship program, check o
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing">
-    <img alt="Mentorship Program Thumbnail" src="/images/mentorship-thumb.png" width="500">
+    <img alt="Mentorship Program Thumbnail" src="/images/mentorship-thumb.png" width="450">
   </a>
 </div>
 
@@ -148,7 +148,7 @@ If you're interested in taking a deep dive into these technologies, we have also
 
 <div align="center">
   <a href="https://www.udacity.com/course/secure-and-private-ai--ud185">
-    <img alt="Udacity Course Thumbnail" src="/images/udacity-thumb.png" width="750">
+    <img alt="Udacity Course Thumbnail" src="/images/udacity-thumb.png" width="650">
   </a>
 </div>
 <br>
@@ -188,7 +188,7 @@ For more resources to help you learn about the specific technologies used in our
 
 <div align="center">
   <a href="https://blog.openmined.org/announcing-the-openmined-learning-team/">
-    <img alt="Learning Team Thumbnail" src="/images/learning-thumb.png" width="500">
+    <img alt="Learning Team Thumbnail" src="/images/learning-thumb.png" width="450">
   </a>
 </div>
 
