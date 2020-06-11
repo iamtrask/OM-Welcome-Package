@@ -22,6 +22,12 @@
   - [Join Slack](#join-slack)
   - [Apply for Mentorship](#apply-for-mentorship)
   - [Learning](#learning)
+    - [Introductory Videos](#introductory-videos)
+    - [Udacity Course](#udacity-course)
+    - [Tutorials](#tutorials)
+    - [Good First Issues](#good-first-issues)
+    - [Learning Initiatives](#learning-initiatives)
+    - [Beginner Friendly Terms]()
 - [Helpful Links](#helpful-links)
 
 <br><br><br>
@@ -74,7 +80,7 @@ For more detailed information on how all of these projects work together, check 
 
 <br>For information on which project(s) each team actually works on, [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!<br><br>
 
-And to get started working on these projects, check out our [tutorials](#learning) below.<br><br><br>
+To get started working on these projects, check out our [tutorials](#learning) below.<br><br><br>
 
 
 ## Getting Started
@@ -119,16 +125,25 @@ If you're interested in this type of guidance, [click here to receive mentorship
 
 <br><br>
 ### Learning
+
+<br><br>
+#### Introductory Videos
 A good way to get an overview of the technology OpenMined uses, is to watch one of [Andrew Trask](https://github.com/iamtrask)'s presentations. Here are two examples, one shorter and one longer, that will give you a good starting point:
 
 - **15 Minutes:** [Privacy Preserving AI - Andrew Trask, OpenMined. | DevCon](https://www.youtube.com/watch?v=NJBBE_SN90A)<br>
-- **1 Hour:** [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)<br>
+- **1 Hour:** [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)
+
+<br><br>
+#### Udacity Course
 
 If you're interested in taking a deep dive into these technologies, we have also released a **free Udacity course**! [**Check out our Udacity course here.**](https://www.udacity.com/course/secure-and-private-ai--ud185)<br><br>
 
 -----> INSERT UDACITY THUMBNAIL HERE <-----
 
-<br><br>Once you have an understanding of the technologies used, our tutorials are the best places you can get started. Here are links to our tutorials, once you're ready to jump in:
+<br><br>
+#### Tutorials
+
+Once you have an understanding of the technologies used, our tutorials are the best places you can get started. Here are links to our tutorials, once you're ready to jump in:
 
 - [**Building Safe A.I.:** A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)<br>
 - [**Tutorials:  PySyft**](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
@@ -139,6 +154,9 @@ If you're interested in taking a deep dive into these technologies, we have also
 
 For more information about what each of these libraries does, check out the [Projects](#projects) section above.<br><br>
 
+<br><br>
+#### Good First Issues
+
 Once you have a bit of an idea of how these libraries work, our Good First Issues are a great place to start contributing:
 
 - [**Good First Issues:  PySyft**](https://github.com/OpenMined/PySyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
@@ -148,6 +166,9 @@ Once you have a bit of an idea of how these libraries work, our Good First Issue
 - [**Good First Issues:  SyferText**](https://github.com/OpenMined/SyferText/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
 
 For more resources to help you learn about the specific technologies used in our projects, check out our collection of [Educational Tools]() here.<br><br>
+
+<br><br>
+#### Learning Initiatives
 
 [**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel _#community_om-learners!_<br><br>
 
