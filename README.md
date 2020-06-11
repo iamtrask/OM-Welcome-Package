@@ -62,11 +62,11 @@ For more detailed information on each of our teams, click the links below:<br>
 
 OpenMined's teams work together on [many different projects](https://github.com/OpenMined). Here is a short overview of our main development projects and what they do:<br><br>
 
-- [PySyft:](https://github.com/OpenMined/PySyft)  A library for encrypted, privacy preserving machine learning
-- [PyGrid:](https://github.com/OpenMined/PyGrid)  A Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science
-- [PyDP:](https://github.com/OpenMined/PyDP)  A python wrapper for https://github.com/google/differential-privacy
-- [SyferText:](https://github.com/OpenMined/SyferText)  A privacy preserving NLP framework
-- [syft.js:](https://github.com/OpenMined/syft.js)  The official Syft worker for Web and Node, built in Javascript
+- [PySyft:](https://github.com/OpenMined/PySyft)  A library for encrypted, privacy preserving machine learning (in Python)
+- [PyGrid:](https://github.com/OpenMined/PyGrid)  A Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science (in Python)
+- [PyDP:](https://github.com/OpenMined/PyDP)  A python wrapper for https://github.com/google/differential-privacy (in C++ and Python)
+- [SyferText:](https://github.com/OpenMined/SyferText)  A privacy preserving NLP framework (in Python)
+- [syft.js:](https://github.com/OpenMined/syft.js)  The official Syft worker for Web and Node (in Javascript)
 - And many more! [Check out all of our projects here.](https://github.com/OpenMined)<br><br>
 
 For more detailed information on how all of these projects work together, check out these charts detailing our development projects:<br><br>
