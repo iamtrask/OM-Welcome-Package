@@ -12,24 +12,24 @@
 <br><br><br>
 
 ## Table of Contents
-- [Who We Are](#who-we-are)
-- [Teams](#teams)
+- [**Who We Are**](#who-we-are)
+- [**Teams**](#teams)
   - [Development Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams)
   - [Community Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams)
   - [Research Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams)
-- [Projects & Repositories](#projects-and-repositories)
-- [Getting Started](#getting-started)
-  - [Join Slack](#join-slack)
-  - [Apply for Mentorship](#apply-for-mentorship)
-- [Learning](#learning)
-  - [Introductory Videos](#introductory-videos)
-  - [Udacity Course](#udacity-course)
-  - [Tutorials](#tutorials)
-  - [Good First Issues](#good-first-issues)
-  - [Learning Initiatives](#learning-initiatives)
+- [**Projects & Repositories**](#projects-and-repositories)
+- [**Getting Started**](#getting-started)
+  - [**Step 1:** Join Slack](#step-1-join-slack)
+  - [**Step 2:** Apply for Mentorship](#apply-for-mentorship)
+  - [**Step 3:** Learning Initiatives](#learning-initiatives)
+- [**Learning**](#learning)
+  - [**Step 4:** Introductory Videos](#introductory-videos)
+  - [**Step 5:** Udacity Course](#udacity-course)
+  - [**Step 6:** Tutorials](#tutorials)
+  - [**Step 7:** Good First Issues](#good-first-issues)
   - [Educational Tools](Educational-Tools.md)
   - [Beginner Friendly Terms](Beginner-Friendly-OM-Terms.md)
-- [Helpful Links](#helpful-links)
+- [**Helpful Links**](#helpful-links)
 
 <br><br><br>
 
@@ -99,7 +99,7 @@ To get started working on these projects, **check out our [tutorials](#tutorials
 
 ## Getting Started
 
-### Join Slack
+### Step 1: Join Slack
 The first thing you should do is [join our Slack community](https://slack.openmined.org). This is the best place to ask questions, meet other team members, and stay up to date on what's going on in the community.<br>
 
 Once you have joined the Slack organization, there are many channels that you can join for help and community, including:
