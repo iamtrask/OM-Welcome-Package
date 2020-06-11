@@ -219,7 +219,7 @@ The learning materials above prepare you to join a team and become a contributin
 - [OpenMined Website](https://www.openmined.org/)
 - [Donate to OpenMined](https://opencollective.com/openmined)
 - [OpenMined Swag Store](https://teespring.com/stores/openmined)
-- [OpenMined Brand Guide](https://www.openmined.org/assets/openmined-brand-guide.pdf)
+- [OpenMined Brand Guide](https://www.dropbox.com/sh/rijf5z48riafcu6/AAD2wKm34wfBRpoNJ5_0sC0fa?dl=0)
 - [OpenMined Newsletter Signup](http://eepurl.com/cW1Fqj)
 
 <br>
