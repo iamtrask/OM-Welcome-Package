@@ -177,7 +177,7 @@ Once you have a bit of an idea of how these libraries work, our Good First Issue
 - [**Good First Issues:  PyDP**](https://github.com/OpenMined/PyDP/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
 - [**Good First Issues:  SyferText**](https://github.com/OpenMined/SyferText/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
 
-For more resources to help you learn about the specific technologies used in our projects, check out our collection of [Educational Tools](Educational-Tools.md) here.
+For more resources to help you learn about the specific technologies used in our projects, **[check out our collection of Educational Tools here](Educational-Tools.md).**
 <br><br>
 
 #### Learning Initiatives
