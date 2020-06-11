@@ -11,7 +11,7 @@
 - [Cryptography Team](#cryptography-team)
 - [Differential Privacy Team](#differential-privacy-team)
 - [Natural Language Processing Team](#natural-language-processing-team)
-- [PyGrid Team](#pygrid-team)
+- [Grid Team](#grid-team)
 - [Security and Identity Team](#security-and-identity-team)
 - [Syft Core Team](#syft-core-team)
 - [Web and Mobile Team](#web-and-mobile-team)
@@ -86,27 +86,68 @@ Check out these charts for more detailed information about how all of these proj
 
 <br><br><br>
 
+## Grid Team
+**Everything Grid**<br>
+*Works on extending the PySyft library to build a secure peer-to-peer platform. Also works on distributed systems protocols (using websockets), fault tolerance and systems deployment. Technologies of interest: Javascript, Python, PySyft and Flask.*<br>
+
+[**Check out our Grid Network Project!**](https://github.com/OpenMined/Roadmap/blob/master/pygrid_team/projects/grid_network.md)<br>
+
+**Team Lead:**  Ionesio Junior  /  @Ionesio<br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/grid/members)<br>
+[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/pygrid_team)<br>
+[**Good First Issues**](https://github.com/OpenMined/PyGrid/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)<br>
+
+**Requirements to Join:**
+- You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues below)
+- You have a knowledge on UX Design and REST API's
+- You have basic knowledge or are interested in Distributed Systems
+- You have at least an intuitive understanding about how PySyft works from the ground up (e.g. from the hooks to the crypto, and everything in between)
+- You are interested in learning details about how PySyft works from the ground up, and would eventually like to propose modifications/improvements to PySyft and how the various projects in the OpenMined ecosystem fit together with it
+- You are highly motivated and want to get involved on a regular basis
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://forms.gle/dzDLyKGC8hfjL48z5)
+
+<br><br><br>
+
 ## Natural Language Processing Team
 **Secure & Private NLP on encrypted text**<br>
 *Builds SyferText, a framework that leverages PySyft to tackle real-world challenges in  using Encrypted Computations and Federated Learning on sensitive, private datasets.*<br>
 
 **Team Lead:**  Alan Aboudib  /  @Alan.Aboudib<br>
-**Projects/Repos Working In:** [SyferText](https://github.com/OpenMined/SyferText)<br>
-**Accepting New Members?** YES
-<br><br>
-[**MORE ABOUT NLP TEAM**](NLP-Team.md)
+[**Team Members**](https://github.com/orgs/OpenMined/teams/natural-language-processing/members)<br>
+[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/nlp_team)<br>
+[**Good First Issues**](https://github.com/OpenMined/SyferText/issues)<br>
+
+**Requirements to Join:**
+- You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below)
+- To be fluent in Python
+- To be fluent in Git and Github
+- To be familiar with PySyft, and have followed its tutorials
+- To have experience in implementing deep learning models in general, and NLP models in particular
+- To be willing to commit to our weekly calls and to contribute regularly to the development of SyferText
+- To be passionate and highly motivated about our project, and to its potential impact
+- To be curious and willing to learn new things
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://forms.gle/8eo1MNN3tteBLGak6)
 
 <br><br><br>
 
-## PyGrid Team
-**Everything PyGrid**<br>
-*Works on extending the PySyft library to build a secure peer-to-peer platform. Also works on distributed systems protocols (using websockets), fault tolerance and systems deployment. Technologies of interest: Javascript, Python, PySyft and Flask.*<br>
+## Private Set Intersection Team
+**tbd**<br>
+*tbd*<br>
 
-**Team Lead:**  Ionesio Junior  /  @Ionesio<br>
-**Projects/Repos Working In:** [PyGrid](https://github.com/OpenMined/PyGrid)<br>
-**Accepting New Members?** YES
-<br><br>
-[**MORE ABOUT PYGRID TEAM**](PyGrid-Team.md)
+**Team Lead:**  tbd<br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/private-set-intersection/members)<br>
+[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/private_set_intersection_team)<br>
+**Good First Issues**: tbd<br>
+
+**Requirements to Join:**
+- tbd
+
+**Accepting New Members?** YES<br>
+**Application to Join**: tbd
 
 <br><br><br>
 
@@ -115,10 +156,23 @@ Check out these charts for more detailed information about how all of these proj
 *Works on distributed, zero-knowledge identity in PyGrid. Develops OM's defense strategy, hardening of infrastructure and information security governance frameworks. Tests OM through bug bounty, Capture the Flag and performance challenges.*
 
 **Team Lead:**  Adam Hall  /  @Adam J Hall<br>
-**Projects/Repos Working In:** [PyGrid](https://github.com/OpenMined/PyGrid)<br>
-**Accepting New Members?** YES
-<br><br>
-[**MORE ABOUT SECURITY AND IDENTITY TEAM**](Security-And-Identity-Team.md)
+[**Team Members**](https://github.com/orgs/OpenMined/teams/security-and-identity/members)<br>
+[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/security_and_identity_team)<br>
+**Good First Issues:** tbd<br>
+
+**Requirements to Join:**
+- You have made at least one significant contribution to the OpenMined Github repository (see Good First Issues below)
+- Comfortable working with Docker
+- Demonstrated interest in information security
+- Working knowledge of the OpenMined stack
+- Interested in compliance and governance procedures for information storage and processing
+- Working knowledge of distributed identifiers and verifiable credentials
+- Familiar with Hyperledger Indy and Aries
+- Demonstrated knowledge and ability in penetration testing and network, memory and hardware forensics
+- You are a distributed identity or information security enthusiast who wants to become more involved in developing the tool and building security challenges
+
+**Accepting New Members?** YES<br>
+**Application to Join:** tbd
 
 <br><br><br>
 
