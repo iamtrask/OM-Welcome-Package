@@ -93,7 +93,6 @@ To get started working on these projects, check out our [tutorials](#learning) b
 
 ## Getting Started
 
-<br><br>
 ### Join Slack
 The first thing you should do is [join our Slack community](https://slack.openmined.org). This is the best place to ask questions, meet other team members, and stay up to date on what's going on in the community.<br>
 
