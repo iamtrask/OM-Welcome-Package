@@ -27,7 +27,7 @@
   - [Tutorials](#tutorials)
   - [Good First Issues](#good-first-issues)
   - [Learning Initiatives](#learning-initiatives)
-  - [Beginner Friendly Terms]()
+  - [Beginner Friendly Terms](Beginner-Friendly-OM-Terms.md)
 - [Helpful Links](#helpful-links)
 
 <br><br><br>
