@@ -149,9 +149,11 @@ Once you have a bit of an idea of how these libraries work, our Good First Issue
 
 For more resources to help you learn about the specific technologies used in our projects, check out our collection of [Educational Tools]() here.<br><br>
 
-[**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel #community_om-learners!<br><br>
+[**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel _#community_om-learners!_<br><br>
 
-For more help from the community as you work through these materials, [check out our other Slack channels above](#join-slack). You can ask for help in the #topic_beginner_questions channel, or the specific channel for the library you're working on (beginning with #lib_).
+For more help from the community as you work through these materials, [check out our other Slack channels above](#join-slack). You can ask for help in the _#topic_beginner_questions_ channel, or the specific channel for the library you're working on (beginning with _#lib__).<br><br>
+
+And lastly, we understand that many people within our community are not machine learning engineers professionally, so we have put together a list of common technical terms one might hear when working inside this community. [Check that out here](), and feel free to create issues for any terms you would like to see added to this list!
 
 <br><br>
 ### Helpful Links
