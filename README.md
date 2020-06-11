@@ -17,7 +17,7 @@
   - [Development Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams)
   - [Community Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams)
   - [Research Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams)
-- [Projects](#projects)
+- [Projects & Repositories](#projects-and-repositories)
 - [Getting Started](#getting-started)
   - [Join Slack](#join-slack)
   - [Apply for Mentorship](#apply-for-mentorship)
@@ -59,7 +59,7 @@ For more detailed information on each of our teams, click the links below:<br>
 
 <br><br><br>
 
-## Projects
+## Projects And Repositories
 
 OpenMined's teams work together on [many different projects](https://github.com/OpenMined). Here is a short overview of our main development projects and what they do:<br><br>
 
