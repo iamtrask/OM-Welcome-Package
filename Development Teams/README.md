@@ -23,14 +23,22 @@ OpenMined's development teams work together on [many different projects](https:/
 
 -----> INSERT WHO WORKS ON WHAT MINDNODE HERE <-----
 
-For more detailed information on how these projects work together, check out these charts detailing our development projects:
-- [All Repositories & Projects](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/tl7WrRrBFe~J?shared=true)
-- [High Level Organization](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/0_0?shared=true)
-- [Concepts & Use Cases](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/uZIWEWUiN~Db?shared=true)
-- [Products](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/.dNWx-JB4p7r?shared=true)
+For more detailed information on how all of these projects work together, check out these charts detailing our development projects:<br><br>
 
-<br><br>
------> INSERT DEV TEAMS INFOGRAPHIC HERE <-----
+<div align="center">
+  <a href="https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/tl7WrRrBFe~J?shared=true">
+    <img alt="All Repositories & Projects" src="/images/repos-and-projs.png" width="200">
+  </a>
+  <a href="https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/0_0?shared=true">
+    <img alt="High Level Organization" src="/images/hi-lvl-org.png" width="200">
+  </a>
+  <a href="https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/uZIWEWUiN~Db?shared=true">
+    <img alt="Concepts & Use Cases" src="/images/concepts-and-uses.png" width="200">
+  </a>
+  <a href="https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/.dNWx-JB4p7r?shared=true">
+    <img alt="Products" src="/images/products.png" width="200">
+  </a>
+</div>
 
 <br><br><br>
 
