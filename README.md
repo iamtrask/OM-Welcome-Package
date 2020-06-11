@@ -90,9 +90,9 @@ Check out these charts for more detailed information about how all of these proj
 </div>
 
 <br>To see which project(s) each team actually works on:
-- [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams),
-- [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams),
-- and [**click here for research projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams).
+- [click here for **Development Projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams),
+- [click here for **Community Projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams),
+- and [click here for **Research Projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams).
 
 To get started working on these projects, **check out our [tutorials](#tutorials) below.**<br><br><br>
 
