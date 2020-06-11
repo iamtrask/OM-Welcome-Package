@@ -10,7 +10,7 @@
 - [Projects](#projects)
 - [Design Team](#design-team)
 - [Learning Team](#learning-team)
-- [Meetups Team](#meetups-team)
+- [Meet-ups Team](#meet-ups-team)
 - [Mentorship Team](#mentorship-team)
 - [Operations Team](#operations-team)
 - [Partnerships Team](#partnerships-team)
@@ -22,7 +22,9 @@
 ## Projects
 OpenMined's community teams work together on many different projects.<br><br>
 
------> INSERT WHO WORKS ON WHAT MINDNODE HERE <----- 
+<div align="center">
+    <img alt="Community Teams Projects Diagram" src="/images/com-proj-diagram.png">
+</div>
 
 <br><br><br>
 
@@ -31,10 +33,18 @@ OpenMined's community teams work together on many different projects.<br><br>
 *Highly skilled graphic designers, web designers, illustrators, animators, photographers, and other creatives, with a passion for maintaining the integrity of the OpenMined brand and creating cool stuff to help promote our community.*
 
 **Team Lead:**  Bennett Farkas  /  @bennett <br>
-[**Application to Join**](https://forms.gle/MEJBEU1P1PfCTN3D8)<br>
-**Accepting New Members?** YES<br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/design/members)
 
-[**MORE ABOUT DESIGN TEAM**](Design-Team.md)
+**Requirements to Join:**
+- You possess a skill set that would add to our team's capacity or capabilities
+- You have a high-quality portfolio that passes the team lead's screening
+- You are proficient with core design software (InDesign, Illustrator, Photoshop, XD, Sketch)
+- You are good at satisfying design requirements and facilitating and changes in a timely manner
+- You are a strong team player that doesn’t take anything too seriously, or too personally :-)
+- You have a strong desire to maintain and expand OpenMined's brand
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://forms.gle/MEJBEU1P1PfCTN3D8)
 
 <br><br><br>
 
@@ -43,10 +53,13 @@ OpenMined's community teams work together on many different projects.<br><br>
 *Assists prospective contributors interested in learning Secure & Private AI concepts by organizing cohorts, study groups, code challenges, mini-hackathons, and other learning groups that help them understand PySyft and contribute to OM.*<br>
 
 **Team Lead:** Yemissi B. Kifouly  /  @Yemi<br>
-[**Application to Join**](https://docs.google.com/forms/d/e/1FAIpQLSelt05UbqIivQOoddG7fk17tZQJgNd2Km7hAQaTa0vZEFsoxA/viewform)<br>
-**Accepting New Members?** YES<br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/learning/members)
 
-[**MORE ABOUT LEARNING TEAM**](Learning-Team.md)
+**Requirements to Join:**
+- tbd
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://docs.google.com/forms/d/e/1FAIpQLSelt05UbqIivQOoddG7fk17tZQJgNd2Km7hAQaTa0vZEFsoxA/viewform)
 
 <br><br><br>
 
@@ -55,10 +68,13 @@ OpenMined's community teams work together on many different projects.<br><br>
 *Plans Meetup events in their local area so that like-minded OpenMineders can meet to discuss and hear talks on releveant issues to OM.*<br>
 
 **Team Lead:**  TBD<br>
-[**Application to Join**](https://forms.gle/Bzm7SxLs3xBsgwiZ9)<br>
-**Accepting New Members?** YES<br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/meetups)<br>
 
-[**MORE ABOUT MEET-UPS TEAM**](Meet-Ups-Team.md)
+**Requirements to Join:**
+- tbd
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://forms.gle/Bzm7SxLs3xBsgwiZ9)
 
 <br><br><br>
 
@@ -67,22 +83,28 @@ OpenMined's community teams work together on many different projects.<br><br>
 *Provides new members of the OM community with resources to learn and contribute to the code base and the community itself.*<br>
 
 **Team Lead:**  Sourav Das  /  @Sourav<br>
-[**Application to Join**](https://forms.gle/WRp4r5GU4QbraPH3A)<br>
-**Accepting New Members?** YES<br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/mentorship/members)<br>
 
-[**MORE ABOUT MENTORSHIP TEAM**](Mentorship-Team.md)
+**Requirements to Join:**
+- tbd
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://forms.gle/WRp4r5GU4QbraPH3A)
 
 <br><br><br>
 
 ## Operations Team
-**TBA**<br>
-*TBA*<br>
+**tbd**<br>
+*tbd*<br>
 
 **Team Lead:**  Peter Smith  /  @petersmith <br>
-**Application to Join:** TBA <br>
-**Accepting New Members?** Yes<br>
+**Team Members**: tbd<br>
 
-[**MORE ABOUT OPERATIONS TEAM**](Operations-Team.md)
+**Requirements to Join:**
+- tbd
+
+**Accepting New Members?** Yes<br>
+**Application to Join:** tbd
 
 <br><br><br>
 
@@ -91,10 +113,12 @@ OpenMined's community teams work together on many different projects.<br><br>
 *Develops and manages relationships with organizations and individuals who are interested in deploying, funding, or promoting open-source privacy-preserving AI software.*<br>
 
 **Team Lead:**  Emma Bluemke  /  @Emma <br>
-**Application to Join:** n/a <br>
-**Accepting New Members?** No<br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/partnerships/members)<br><br>
 
-[**MORE ABOUT PARTNERSHIPS TEAM**](Partnerships-Team.md)
+**Requirements to Join:**  Informal<br><br>
+
+**Accepting New Members?** No<br>
+**Application to Join:** n/a <br>
 
 <br><br><br>
 
@@ -103,10 +127,13 @@ OpenMined's community teams work together on many different projects.<br><br>
 *Members of the OM community passionate about content creation and building engagement by analyzing the impact of social media activity on the community initiatives.*<br>
 
 **Team Lead:**  Madalin Mamuleanu  /  @Madalin Mamuleanu<br>
-[**Application to Join**](https://forms.gle/TLyc8FYVmthsmkV66)<br>
-**Accepting New Members?** YES<br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/social-media/members)<br>
 
-[**MORE ABOUT SOCIAL MEDIA TEAM**](Social-Media-Team.md)
+**Requirements to Join:**
+- tbd
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://forms.gle/TLyc8FYVmthsmkV66)
 
 <br><br><br>
 
@@ -115,7 +142,12 @@ OpenMined's community teams work together on many different projects.<br><br>
 *Data scientists who can train models in the NLP/Computer Vision space, and writers who have experience with and interest in technical and non-technical blog post writing join together to create extensive OM-related resources.*
 
 **Team Lead:**  Emma Bluemke  /  @Emma <br>
-[**Application to Join**](https://forms.gle/URTqQEENRQr6RHFL8)<br>
-**Accepting New Members?** YES<br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/writing/members)<br>
+[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/writing_team)<br>
 
-[**MORE ABOUT WRITING TEAM**](Writing-Team.md)
+**Requirements to Join:**
+- You are EITHER: A data scientist who can train models in the NLP/Computer Vision space, OR a writer who has some experience with and interest in technical/blogpost writing
+- You are interested in contributing to OpenMined Blogposts & Demos, Tutorial Notebooks & Demos, or Library Documentation
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://forms.gle/URTqQEENRQr6RHFL8)
