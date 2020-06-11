@@ -71,12 +71,20 @@ OpenMined's teams work together on [many different projects](https://github.com/
 
 For more detailed information on how all of these projects work together, check out these charts detailing our development projects:<br><br>
 
-- [All Repositories & Projects](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/tl7WrRrBFe~J?shared=true)
-- [High Level Organization](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/0_0?shared=true)
-- [Concepts & Use Cases](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/uZIWEWUiN~Db?shared=true)
-- [Products](https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/.dNWx-JB4p7r?shared=true)
-
-
+<div align="center">
+  <a href="https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/tl7WrRrBFe~J?shared=true">
+    <img alt="All Repositories & Projects" src="/images/repos-and-projs.png" width="200">
+  </a>
+  <a href="https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/0_0?shared=true">
+    <img alt="High Level Organization" src="/images/hi-lvl-org.png" width="200">
+  </a>
+  <a href="https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/uZIWEWUiN~Db?shared=true">
+    <img alt="Concepts & Use Cases" src="/images/concepts-and-uses.png" width="200">
+  </a>
+  <a href="https://app.lucidchart.com/documents/edit/4171bac3-56e3-490a-85cd-cc7c120151c9/.dNWx-JB4p7r?shared=true">
+    <img alt="Products" src="/images/products.png" width="200">
+  </a>
+</div>
 
 <br>For information on which project(s) each team actually works on, [**click here for development projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), and [**click here for community projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams). <---- AND CLICK HERE FOR RESEARCH PROJECTS?!<br><br>
 
