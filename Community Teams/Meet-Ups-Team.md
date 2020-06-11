@@ -2,7 +2,7 @@
 **Host a meetup near you**<br>
 *Plans Meetup events in their local area so that like-minded OpenMineders can meet to discuss and hear talks on releveant issues to OM.*<br>
 
-**Team Lead:**  TBD
+**Team Lead:**  TBD<br>
 **Team Members:**<br>
 COMING SOON<br>
 
