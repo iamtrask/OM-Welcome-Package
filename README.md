@@ -14,9 +14,9 @@
 ## Table of Contents
 - [**Who We Are**](#who-we-are)
 - [**Teams**](#teams)
-  - [Development Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams)
-  - [Community Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams)
-  - [Research Teams](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams)
+  - [Development Teams](Development-Teams.md)
+  - [Community Teams](Community-Teams.md)
+  - [Research Teams](Research-Teams.md)
 - [**Projects & Repositories**](#projects-and-repositories)
 - [**Getting Started**](#getting-started)
   - [**Step 1:** Join Slack](#step-1-join-slack)
@@ -45,7 +45,7 @@ This means that we want to help **you** by both making your products and researc
 
 ## Teams
 
-OpenMined's teams are split into 3 categories: [development](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams), [community](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams), and [research](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams), so there is room for everyone to contribute!
+OpenMined's teams are split into 3 categories: [development](Development-Teams.md), [community](Community-Teams.md), and [research](Research-Teams.md), so there is room for everyone to contribute!
 
 <div align="center">
     <img alt="OM Teams Diagram" src="/images/om-teams-diagram.png">
@@ -55,9 +55,9 @@ OpenMined's teams are split into 3 categories: [development](https://github.com/
  
 For more detailed information on each of our teams, click the links below:<br>
  
-- [**Development Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams)
-- [**Community Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams)
-- [**Research Teams**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams)
+- [**Development Teams**](Development-Teams.md)
+- [**Community Teams**](Community-Teams.md)
+- [**Research Teams**](Research-Teams.md)
 
 <br><br><br>
 
@@ -90,9 +90,9 @@ Check out these charts for more detailed information about how all of these proj
 </div>
 
 <br>To see which project(s) each team actually works on:
-- [click here for **Development Projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Development%20Teams),
-- [click here for **Community Projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Community%20Teams),
-- and [click here for **Research Projects**](https://github.com/4mber/OM-Welcome-Package/tree/master/Research%20Teams).
+- [click here for **Development Projects**](Development-Teams.md),
+- [click here for **Community Projects**](Community-Teams.md),
+- and [click here for **Research Projects**](Research-Teams.md).
 
 To get started working on these projects, **check out our [tutorials](#tutorials) below.**<br><br><br>
 
