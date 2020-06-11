@@ -397,6 +397,7 @@ PyGrid does a lot of things, but in short, PyGrid takes PySyft and deploys it to
 Syft.js (which is lowercased when not starting a sentence) is a Javascript “worker library”, meaning that can execute PySyft plans in the browser. This is cool because PySyft has code written in Python, while syft.js only speaks Javascript - they communicate with PyGrid sending messages between them. Another project, Threepio, allows for Python and Javascript to translate messages between themselves so that they can understand each other.
 
 <br>
+
 #### KotlinSyft
 KotlinSyft is the Android worker library for PySyft. This means that just like syft.js it can execute PySyft plans and train federated learning models on an Android phone.
 
