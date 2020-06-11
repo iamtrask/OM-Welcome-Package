@@ -103,7 +103,7 @@ Once you have joined the Slack organization, there are many channels that you ca
 ### Apply for Mentorship
 Next, you should [join our mentorship program](https://forms.gle/6b3HXZtufMwa9cxaA). OpenMined Mentors are here to help you get started, and to walk you through the steps to becoming an active member of OpenMined.
 
-To get an idea of what you can expect once joining the mentorship program, check out our [Mentorship Program infographic](https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing).
+To get an idea of what you can expect on joining the mentorship program, check out our [Mentorship Program infographic](https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing).
 <br><br>
 
 <div align="center">
@@ -124,16 +124,34 @@ A good way to get an overview of the technology OpenMined uses, is to watch one 
 - **15 Minutes:** [Privacy Preserving AI - Andrew Trask, OpenMined. | DevCon](https://www.youtube.com/watch?v=NJBBE_SN90A)<br>
 - **1 Hour:** [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)<br>
 
-Once you have in idea of the technologies used, our tutorials are one of the best places you can get started. Here are links to our tutorials, in case you're ready to jump right into the code:
+If you're interested in taking a deep dive into these technologies, we have also released a **free Udacity course**! [**Check out our Udacity course here.**](https://www.udacity.com/course/secure-and-private-ai--ud185)<br><br>
+
+-----> INSERT UDACITY THUMBNAIL HERE <-----
+
+<br><br>Once you have an understanding of the technologies used, our tutorials are the best places you can get started. Here are links to our tutorials, once you're ready to jump in:
 
 - [**Building Safe A.I.:** A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)<br>
-- [**PySyft Tutorials**](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
-- [**PyGrid Tutorials**](https://github.com/OpenMined/PyGrid/tree/dev/examples)
-- [**syft.js Tutorials**](https://github.com/OpenMined/syft.js/tree/master/examples/mnist)
-- [**PyDP Tutorials**](https://github.com/OpenMined/PyDP/tree/dev/examples)
-- [**SyferText Tutorials**](https://github.com/OpenMined/SyferText/tree/master/tutorials)
+- [**Tutorials:  PySyft**](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
+- [**Tutorials:  PyGrid**](https://github.com/OpenMined/PyGrid/tree/dev/examples)
+- [**Tutorials:  syft.js**](https://github.com/OpenMined/syft.js/tree/master/examples/mnist)
+- [**Tutorials:  PyDP**](https://github.com/OpenMined/PyDP/tree/dev/examples)
+- [**Tutorials:  SyferText**](https://github.com/OpenMined/SyferText/tree/master/tutorials)
 
-For more information about what each of these libraries does, check out the [Projects](#projects) section above.
+For more information about what each of these libraries does, check out the [Projects](#projects) section above.<br><br>
+
+Once you have a bit of an idea of how these libraries work, our Good First Issues are a great place to start contributing:
+
+- [**Good First Issues:  PySyft**](https://github.com/OpenMined/PySyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
+- [**Good First Issues:  PyGrid**](https://github.com/OpenMined/PyGrid/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
+- [**Good First Issues:  syft.js**](https://github.com/OpenMined/syft.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
+- [**Good First Issues:  PyDP**](https://github.com/OpenMined/PyDP/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
+- [**Good First Issues:  SyferText**](https://github.com/OpenMined/SyferText/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
+
+For more resources to help you learn about the specific technologies used in our projects, check out our collection of [Educational Tools]() here.<br><br>
+
+[**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel #community_om-learners!<br><br>
+
+For more help from the community as you work through these materials, [check out our other Slack channels above](#join-slack). You can ask for help in the #topic_beginner_questions channel, or the specific channel for the library you're working on (beginning with #lib_).
 
 <br><br>
 ### Helpful Links
