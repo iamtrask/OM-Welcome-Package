@@ -138,7 +138,7 @@ A good way to get an overview of the technology OpenMined uses, is to watch one 
 If you're interested in taking a deep dive into these technologies, we have also released a **free Udacity course**! [**Check out our Udacity course here.**](https://www.udacity.com/course/secure-and-private-ai--ud185)<br><br>
 
 -----> INSERT UDACITY THUMBNAIL HERE <-----
-<br>
+<br><br>
 
 #### Tutorials
 
@@ -152,7 +152,7 @@ Once you have an understanding of the technologies used, our tutorials are the b
 - [**Tutorials:  SyferText**](https://github.com/OpenMined/SyferText/tree/master/tutorials)
 
 For more information about what each of these libraries does, check out the [Projects](#projects) section above.
-<br>
+<br><br>
 
 #### Good First Issues
 
@@ -165,13 +165,13 @@ Once you have a bit of an idea of how these libraries work, our Good First Issue
 - [**Good First Issues:  SyferText**](https://github.com/OpenMined/SyferText/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
 
 For more resources to help you learn about the specific technologies used in our projects, check out our collection of [Educational Tools]() here.
-<br>
+<br><br>
 
 #### Learning Initiatives
 
-[**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel _#community_om-learners!_<br><br>
+[**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel _#community_om-learners!_<br>
 
-For more help from the community as you work through these materials, [check out our other Slack channels above](#join-slack). You can ask for help in the _#topic_beginner_questions_ channel, or the specific channel for the library you're working on (beginning with _#lib__).<br><br>
+For more help from the community as you work through these materials, [check out our other Slack channels above](#join-slack). You can ask for help in the _#topic_beginner_questions_ channel, or the specific channel for the library you're working on (beginning with _#lib__).<br>
 
 And lastly, we understand that many people within our community are not machine learning engineers professionally, so we have put together a list of common technical terms one might hear when working inside this community. [Check that out here](), and feel free to create issues for any terms you would like to see added to this list!
 
