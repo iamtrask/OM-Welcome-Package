@@ -181,10 +181,15 @@ Check out these charts for more detailed information about how all of these proj
 *Works on the aspects of PySyft which are shared by all users of PySyft. This includes things like basic framework support, the ability to extend tensors with custom types, the serialization standard for all objects across the Syft ecosystem, and the creation and serialization of portable functions via Plans and Protocols.*
 
 **Team Lead:**  Andrew Trask / @trask<br>
-**Projects/Repos Working In:** [PySyft](https://github.com/OpenMined/PySyft)<br>
-**Accepting New Members?** YES
-<br><br>
-[**MORE ABOUT SYFT CORE TEAM**](Syft-Core-Team.md)
+[**Team Members**](https://github.com/orgs/OpenMined/teams/syft-core/members)<br>
+[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/syft_core_team)<br>
+**Good First Issues**: tbd<br>
+
+**Requirements to Join:**
+- tbd
+
+**Accepting New Members?** YES<br>
+**Application to Join:** tbd
 
 <br><br><br>
 
@@ -193,7 +198,22 @@ Check out these charts for more detailed information about how all of these proj
 *Building federated learning into the OM ecosystem with support for Android and iOS phones, as well as the browser. This team also works on various user interfaces used with the OM codebase.*<br>
 
 **Team Lead:**  Patrick Cason  /  @cereallarceny<br>
-**Projects/Repos Working In:** [KotlinSyft](https://github.com/OpenMined/KotlinSyft), [syft-proto](https://github.com/OpenMined/syft-proto), [PySyft](https://github.com/OpenMined/PySyft), [SwiftSyft](https://github.com/OpenMined/SwiftSyft), [Threepio](https://github.com/OpenMined/Threepio), [syft.js](https://github.com/OpenMined/syft.js)<br>
-**Accepting New Members?** YES
-<br><br>
-[**MORE ABOUT WEB & MOBILE TEAM**](Web-And-Mobile-Team.md)
+[**Team Members**](https://github.com/orgs/OpenMined/teams/web-and-mobile/members)<br>
+[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/web_and_mobile_team)<br>
+**Good First Issues:**
+[Kotlin](https://github.com/OpenMined/KotlinSyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), 
+[Javascript - syft.js](https://github.com/OpenMined/syft.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), [Javascript - grid.js](https://github.com/OpenMined/grid.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%2), [Android development](https://github.com/OpenMined/AndroidWorker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), [Swift](https://github.com/OpenMined/SwiftSyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)<br>
+
+**Requirements to Join:**
+- You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues above), particularly a Javascript-related issue
+- You work with Javascript in your daily work
+- You have a UX or UI design background
+- You know React and Node like the back of your hand
+- You have experience writing Javascript libraries from scratch (not just UI components)
+- You have experience working with socket servers
+- You have experience working with WebRTC
+- You have experience with dev ops, including cloud deployment, scaling, and load-balancing
+- You are highly motivated and want to get involved on a regular basis
+
+**Accepting New Members?** YES<br>
+[**Application to Join**](https://forms.gle/BZePckWpq9vftDF48)
