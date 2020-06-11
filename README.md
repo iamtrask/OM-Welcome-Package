@@ -140,7 +140,7 @@ If you're interested in this type of guidance, [**Click Here to Receive Mentorsh
 
 ### Step 3: Learning Initiatives
 
-[**The OpenMined Learning Team**]() is also here to help you get started and work through the materials above! To join one of our cohorts, bootcamps, or study/discussion groups, [join our Slack org](https://slack.openmined.org) and join the channel _#community_om-learners_!
+[**The OpenMined Learning Team**](https://blog.openmined.org/announcing-the-openmined-learning-team/) is here to help you get started and work through the materials. To join our community of learners (and any of our cohorts, bootcamps, or study/discussion groups), [join our Slack org](https://slack.openmined.org) and join the channel _#community_om-learners_!
 
 <br>
 
@@ -152,7 +152,7 @@ If you're interested in this type of guidance, [**Click Here to Receive Mentorsh
 
 <br>
 
-For more help from the community as you work through these materials, [**check out our other Slack channels above**](#join-slack). You can ask for help in the _#topic_beginner_questions_ channel, or the specific channel for the library you're working on (beginning with _#lib__).<br>
+For more help from the community as you work through these materials, [**check out our other Slack channels above**](#step-1-join-slack). You can ask for help in the **_#topic_beginner_questions_** channel, or the specific channel for the library you're working on (beginning with _#lib__).<br>
 
 <br><br>
 
