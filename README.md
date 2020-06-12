@@ -40,7 +40,8 @@ Before getting started, it's important to understand OpenMined's mission:<br>
 To **lower the barrier to entry to privacy preserving technology.**
 <br><br>
 This means that we want to help **you** by both making your products and research better, **and** protecting you along the way.<br><br>
-[**Check out OpenMined's 2020 Roadmap for more about how we plan to make this happen!**](https://github.com/OpenMined/Roadmap)
+[**Check out OpenMined's 2020 Roadmap for more about how we plan to make this happen!**](https://github.com/OpenMined/Roadmap)<br><br>
+We also want to make sure that OpenMined is a welcoming community to anyone who wants to join. To that end, check out our [**code of conduct**](https://github.com/OpenMined/.github/blob/master/CODE_OF_CONDUCT.md) for information on how to make sure we continue to be such.
 
 <br><br><br>
 
