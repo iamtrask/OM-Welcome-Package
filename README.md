@@ -155,9 +155,9 @@ If you're interested in this type of guidance, [**Click Here to Receive Mentorsh
 
 <br>
 
-For more help from the community as you work through these materials, [**check out our other Slack channels above**](#step-1-join-slack). You can ask for help in the **_#topic_beginner_questions_** channel, or the specific channel for the library you're working on (beginning with _#lib__).<br>
+For more help from the community as you work through these materials, [**check out our other Slack channels above**](#step-1-join-slack). You can ask for help in the **_#topic_beginner_questions_** channel, or the specific channel for the library you're working on (beginning with _#lib__).
 
-<br><br>
+<br><br><br>
 
 ## Learning
 
