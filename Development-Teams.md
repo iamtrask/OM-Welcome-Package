@@ -7,7 +7,7 @@
 <br><br><br>
 
 ## Table of Contents:
-- [Projects](#projects)
+- [Projects and Repositories](#projects-and-repositories)
 - [Cryptography Team](#cryptography-team)
 - [Differential Privacy Team](#differential-privacy-team)
 - [Natural Language Processing Team](#natural-language-processing-team)
@@ -18,8 +18,8 @@
 
 <br><br><br>
 
-## Projects
-OpenMined's development teams work together on [many different projects](https://github.com/OpenMined). Here's a diagram of who works on what:<br><br>
+## Projects And Repositories
+OpenMined's development teams work together on [many different projects and repositories](https://github.com/OpenMined). Here's a diagram of who works on what:<br><br>
 
 <div align="center">
   <img alt="Who Works On What Diagram" src="/images/proj-diagram.png">
