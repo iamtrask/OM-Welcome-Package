@@ -96,8 +96,9 @@ Check out these charts for more detailed information about how all of these proj
 - [click here for **Community Projects**](Community-Teams.md),
 - and [click here for **Research Projects**](Research-Teams.md).
 
-To get started working on these projects, **check out our [tutorials](#tutorials) below.**<br><br><br>
+To get started working on these projects, **check out our [tutorials](#tutorials) below.**
 
+<br><br><br>
 
 ## Getting Started
 
