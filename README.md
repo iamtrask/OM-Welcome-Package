@@ -120,8 +120,8 @@ Once you have joined the Slack organization, there are many channels that you ca
   </a>
 </div>
 
+<br>
 
-<br><br>
 ### Step 2: Apply for Mentorship
 Next, you should [join our mentorship program](https://forms.gle/6b3HXZtufMwa9cxaA). OpenMined Mentors are here to help you get started, and to walk you through the steps to becoming an active member of OpenMined.
 
@@ -139,7 +139,7 @@ This is the program that your mentor will walk you through, from choosing a goal
 
 If you're interested in this type of guidance, [**Click Here to Receive Mentorship**](https://forms.gle/6b3HXZtufMwa9cxaA)!
 
-<br><br>
+<br>
 
 ### Step 3: Learning Initiatives
 
