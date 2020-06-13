@@ -183,7 +183,7 @@ Check out these charts for more detailed information about how all of these proj
 **Team Lead:**  Andrew Trask / @trask<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/syft-core/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/syft_core_team)<br>
-**Good First Issues**: tbd<br>
+[**Good First Issues**](https://github.com/OpenMined/PySyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
 
 **Requirements to Join:**
 - tbd
