@@ -20,7 +20,7 @@
 <br><br><br>
 
 ## Projects
-OpenMined's community teams work together on many different projects.<br><br>
+OpenMined's community teams work together on many different projects. Here is a diagram to show you who works on what:<br><br>
 
 <div align="center">
     <img alt="Community Teams Projects Diagram" src="/images/com-proj-diagram.png">
