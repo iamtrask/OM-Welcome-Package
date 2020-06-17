@@ -103,7 +103,7 @@ OpenMined's community teams work together on many different projects. Here is a 
 **Requirements to Join:**
 - tbd
 
-**Accepting New Members?** Yes<br>
+**Accepting New Members?** No<br>
 **Application to Join:** tbd
 
 <br><br><br>
