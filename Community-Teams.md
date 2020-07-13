@@ -85,22 +85,17 @@ OpenMined's community teams work together on many different projects. Here is a 
 **Team Lead:**  Sourav Das  /  @Sourav<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/mentorship/members)<br>
 
-**Community Mentor**
-
-**Requirements to Join:**
+**Requirements to Join as a Community Mentor:**
 - Be personable and kind!
 - There are no technical requirements, but the mentor must be committed to making sure their mentees find accurate answers to their questions (whether from a Technical Mentor, dev team member/lead, etc.), and when asked a question they don’t know the answer to, finding someone to answer it rather than making up a partially-incorrect answer or guessing.
 - Have read through the Mentorship Pipeline and Welcome Package, and watched the Mentor Onboarding Video thoroughly.
 - Will commit to joining the team’s weekly sync meeting
 (Saturdays, 4-4:30PM GMT+1)
 
-**Technical Mentor**
-
-**Requirements to Join:**
+**Requirements to Join as a Technical Mentor:**
 
 - All of the Community Mentor requirements
 - They must have a basic understanding of Deep Learning concepts and OpenMined’s PySyft library, and
-- They must be willing to stay up to date and familiarise themselves with the curriculum of all ongoing LT initiatives, and the curriculum they are based on (such as OM code tutorials, etc.).
 - They must be willing to stay up to date and familiarise themselves with the curriculum of all ongoing LT initiatives, and the curriculum they are based on (such as OM code tutorials, etc.).
 
 **Accepting New Members?** YES<br>
