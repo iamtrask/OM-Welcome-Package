@@ -94,7 +94,7 @@ OpenMined's community teams work together on many different projects. Here is a 
 - Will commit to joining the team’s weekly sync meeting
 (Saturdays, 4-4:30PM GMT+1)
 
-**Technical Mentors**
+**Technical Mentor**
 
 **Requirements to Join:**
 
