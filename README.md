@@ -110,6 +110,7 @@ Once you have joined the Slack organization, there are many channels that you ca
 - **Location Based Channels:**  Search for the closest major city or your country name to chat with others from your area!
 - **Topic Based Channels:**  Start your search with topic_, for instance, *#topic_beginner_questions* or *#topic_jobs_in_ai*
 - **Community Channels:**  Start your search with community_, for instance, *#community_udacity_course* or *#community_women-of-om*
+- **Education Channels:**  Start your search with edu_, for instance, *#edu_learners* for info from the Learning Team, or #*edu_mentorship* for info from the Mentorship Team.
 - **Library Channels:**  For questions/communication about specific OpenMined libraries. Start your search with lib_, for instance, *#lib_pysyft, #lib_pygrid, #lib_pydp, #lib_syft_js, #lib_syfertext,* etc.
 <br>
 
