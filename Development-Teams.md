@@ -12,6 +12,7 @@
 - [Differential Privacy Team](#differential-privacy-team)
 - [Natural Language Processing Team](#natural-language-processing-team)
 - [Grid Team](#grid-team)
+- [Private Set Intersection Team](#private-set-intersection-team)
 - [Security and Identity Team](#security-and-identity-team)
 - [Syft Core Team](#syft-core-team)
 - [Web and Mobile Team](#web-and-mobile-team)
