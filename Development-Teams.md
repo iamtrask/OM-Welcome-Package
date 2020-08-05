@@ -137,7 +137,7 @@ Check out these charts for more detailed information about how all of these proj
 
 ## Private Set Intersection Team
 **Private Set Intersection**<br>
-*Work on the Private Set Intersection protocol based on ECDH and Bloom Filters.*<br>
+*Works on a library implementing the Private Set Intersection protocol, which is based on ECDH and Bloom Filters.*<br>
 
 **Team Lead:**  tbd<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/private-set-intersection/members)<br>
