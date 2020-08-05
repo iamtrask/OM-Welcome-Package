@@ -135,16 +135,20 @@ Check out these charts for more detailed information about how all of these proj
 <br><br><br>
 
 ## Private Set Intersection Team
-**tbd**<br>
-*tbd*<br>
+**Private Set Intersection**<br>
+*Work on the Private Set Intersection protocol based on ECDH and Bloom Filters.*<br>
 
 **Team Lead:**  tbd<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/private-set-intersection/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/private_set_intersection_team)<br>
-**Good First Issues**: tbd<br>
+**Good First Issues**: https://github.com/OpenMined/PSI/issues/83<br>
 
 **Requirements to Join:**
-- tbd
+- You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues above).
+- You are fluent in a programming language like C++, JavaScript, Python, Go, Rust, or Java.
+- You are familiar with the Bazel build system and Git.
+- You are curious and willing to learn about Private Set Intersection protocols.
+- You are passionate about our project and willing to contribute.
 
 **Accepting New Members?** YES<br>
 **Application to Join**: tbd
