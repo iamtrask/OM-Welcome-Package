@@ -142,7 +142,7 @@ Check out these charts for more detailed information about how all of these proj
 **Team Lead:**  tbd<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/private-set-intersection/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/private_set_intersection_team)<br>
-**Good First Issues**: https://github.com/OpenMined/PSI/issues/83<br>
+[**Good First Issues**](https://github.com/OpenMined/PSI/issues/83)<br>
 
 **Requirements to Join:**
 - You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues above).
