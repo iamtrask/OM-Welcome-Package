@@ -10,7 +10,7 @@
 - [Projects](#projects)
 - [Design Team](#design-team)
 - [Learning Team](#learning-team)
-- [Meet-ups Team](#meet-ups-team)
+- [Events Team](#events-team)
 - [Mentorship Team](#mentorship-team)
 - [Operations Team](#operations-team)
 - [Partnerships Team](#partnerships-team)
@@ -63,18 +63,18 @@ OpenMined's community teams work together on many different projects. Here is a 
 
 <br><br><br>
 
-## Meet-ups Team
-**Host a meetup near you**<br>
-*Plans Meetup events in their local area so that like-minded OpenMineders can meet to discuss and hear talks on releveant issues to OM.*<br>
+## Events Team
+**Hosting OpenMined Events**<br>
+*Plans Meetups, Webinars, and other events so that like-minded OpenMineders can meet to discuss and hear talks on releveant issues to OM.*<br>
 
-**Team Lead:**  TBD<br>
+**Team Lead:**  Helena Barmer<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/meetups)<br>
 
 **Requirements to Join:**
 - tbd
 
 **Accepting New Members?** YES<br>
-[**Application to Join**](https://forms.gle/Bzm7SxLs3xBsgwiZ9)
+**Application to Join**
 
 <br><br><br>
 
