@@ -16,6 +16,7 @@
 - [Security and Identity Team](#security-and-identity-team)
 - [Syft Core Team](#syft-core-team)
 - [Web and Mobile Team](#web-and-mobile-team)
+- [Federated Learning Team](#federated-learning-team)
 
 <br><br><br>
 
@@ -222,3 +223,11 @@ Check out these charts for more detailed information about how all of these proj
 
 **Accepting New Members?** YES<br>
 [**Application to Join**](https://forms.gle/BZePckWpq9vftDF48)
+
+<br><br><br>
+
+## Federated Learning Team
+*The Federated Learning Team is a new team which combines the Web & Mobile Team, the Grid Team, and two new teams: Workers Team, and RecSys Team. More details are coming soon, but in the meantime contact the team lead below for more information.*<br>
+
+**Team Lead:**  Patrick Cason  /  @cereallarceny<br>
+**Accepting New Members?** YES<br>
