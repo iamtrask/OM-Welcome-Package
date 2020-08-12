@@ -72,7 +72,7 @@ Check out these charts for more detailed information about how all of these proj
 **Team Lead:**  Benjamin Szymkow  /  @Ben S<br>
 [**Sub-Teams & Team Members**](https://github.com/orgs/OpenMined/teams/differential-privacy/teams) <br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/pydp_team)<br>
-[**Good First Issues**](https://github.com/OpenMined/PyDP/labels/good%20first%20issue)<br>
+[**Good First Issues**](https://github.com/OpenMined/PyDP/labels/Good%20first%20issue%20%3Amortar_board%3A)<br>
 
 **Requirements to Join:**
 - You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below)
@@ -119,7 +119,7 @@ Check out these charts for more detailed information about how all of these proj
 **Team Lead:**  Alan Aboudib  /  @Alan.Aboudib<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/natural-language-processing/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/nlp_team)<br>
-[**Good First Issues**](https://github.com/OpenMined/SyferText/issues)<br>
+[**Good First Issues**](https://github.com/OpenMined/SyferText/labels/Good%20first%20issue%20%3Amortar_board%3A)<br>
 
 **Requirements to Join:**
 - You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues below)
@@ -207,8 +207,8 @@ Check out these charts for more detailed information about how all of these proj
 [**Team Members**](https://github.com/orgs/OpenMined/teams/web-and-mobile/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/web_and_mobile_team)<br>
 **Good First Issues:**
-[Kotlin](https://github.com/OpenMined/KotlinSyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), 
-[Javascript - syft.js](https://github.com/OpenMined/syft.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), [Javascript - grid.js](https://github.com/OpenMined/grid.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%2), [Android development](https://github.com/OpenMined/AndroidWorker/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22), [Swift](https://github.com/OpenMined/SwiftSyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)<br>
+[Kotlin - KotlinSyft](https://github.com/OpenMined/KotlinSyft/labels/Good%20first%20issue%20%3Amortar_board%3A), 
+[Javascript - syft.js](https://github.com/OpenMined/syft.js/labels/Good%20first%20issue%20%3Amortar_board%3A), [Swift - SwiftSyft](https://github.com/OpenMined/SwiftSyft/labels/Good%20first%20issue%20%3Amortar_board%3A)<br>
 
 **Requirements to Join:**
 - You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues above), particularly a Javascript-related issue
