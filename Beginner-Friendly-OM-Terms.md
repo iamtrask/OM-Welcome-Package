@@ -213,22 +213,22 @@ _(Coming Soon)_
 <br>
 
 #### Hyperparameter
-_(Coming Soon)_
+Like a parameter but is usually something that you adjust in a model that effects the way the model behaves.
 
 <br>
 
 #### Batching
-_(Coming Soon)_
+A way of grouping subsets of data to be used to train a model.
 
 <br>
 
 #### Normalization
-_(Coming Soon)_
+Taking data and putting it on a consistent scale that makes doing analysis on it more convenient. It is usually a reversible operation meaning that you can undo the normalization to put it back into the original scale.
 
 <br>
 
 #### Confidence Interval (also called “Confidence”)
-_(Coming Soon)_
+Usually an upper and lower bound on a model or prediction. For example a model returns that the probablility of an event occuring is 0.8 plus or minus 10%.
 
 <br>
 
@@ -263,12 +263,12 @@ _(Coming Soon)_
 <br>
 
 #### Tokenization
-_(Coming Soon)_
+This has two definitions depending on the field you are talking about. In Data Security it is a way to represent sensitive information in a way that allows it to be used in computation but protects the original source. For example tokens are often used instead of your actual password when interacting with certain programs on the internet. In Natural Language Processing (NLP) it is a technique where you break down a sentence or words into it's core meaning to make it easier to analyse. For example labelling words to be nouns, verbs, adjectives or the like.
 
 <br>
 
 #### Homomorphic Encryption (also called “HME” or “HE”)
-_(Coming Soon)_
+A type of encryption that allows you to be able to do some computation on data without needing to decrypt it. The benefits of that is you don't need to store any sensitive data.
 
 <br>
 
