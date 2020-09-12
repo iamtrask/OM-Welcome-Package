@@ -31,6 +31,7 @@
 - [**Helpful Links**](#helpful-links)
   - [Educational Tools](Educational-Tools.md)
   - [Beginner Friendly Terms](Beginner-Friendly-OM-Terms.md)
+- [**Social-Media-Links**](#social-media-links)
 
 <br><br><br>
 
@@ -231,3 +232,14 @@ For more resources to help you learn about the specific technologies used in our
 <br>
 
 We also understand that many people within our community are not machine learning engineers professionally, so we have put together a list of [**Beginner Friendly OpenMined Terminology**](Beginner-Friendly-OM-Terms.md) that one might hear when working inside this community. [Check that out here](Beginner-Friendly-OM-Terms.md), and feel free to create issues for any terms you would like to see added to this list!
+
+<br><br>
+
+## Social Media Links
+If you're interested in seeing what's going on in the world of OpenMined feel free to follow on the OpenMined Social Media channels!
+
+- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/github.svg" width=15></i> GitHub](https://github.com/OpenMined)
+- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter.svg" width=15></i> Twitter](https://twitter.com/openminedorg)
+- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/youtube.svg" width=15></i> Youtube](https://www.youtube.com/c/OpenMinedOrg)
+- [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/facebook.svg" width=15></i> Facebook](https://www.facebook.com/openminedorg/)
+
