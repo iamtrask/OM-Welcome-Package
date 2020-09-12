@@ -426,14 +426,14 @@ _(Coming Soon)_
 <br>
 
 #### TenSEAL
-_(Coming Soon)_
+TenSEAL is a library for doing homomorphic encryption operations on tensors, built on top of Microsoft SEAL. It provides ease of use through a Python API, while preserving efficiency by implementing most of its operations using C++.
 
 <br>
 
 #### PyDP
-_(Coming Soon)_
+In 2020, OpenMined created a Python wrapper for Google's Differential Privacy project called PyDP. The library provides a set of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information. Therefore, with PyDP you can control the privacy guarantee and accuracy of your model written in Python.
 
 <br>
 
 #### SyferText
-_(Coming Soon)_
+SyferText is a library for privacy preserving Natural Language Processing in Python. It leverages PySyft to perform Federated Learning and Encrypted Computations (Multi-Party Computation (MPC)) on text data.
