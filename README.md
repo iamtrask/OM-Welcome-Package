@@ -55,9 +55,9 @@ OpenMined's teams are split into 3 categories: [development](Development-Teams.m
 </div>
 
 <br><br>
- 
+
 For more detailed information on each of our teams, click the links below:<br>
- 
+
 - [**Development Teams**](Development-Teams.md)
 - [**Community Teams**](Community-Teams.md)
 - [**Research Teams**](Research-Teams.md)
@@ -215,6 +215,7 @@ The learning materials above prepare you to join a team and become a contributin
 - [**Development Teams**](Development-Teams.md)
 - [**Community Teams**](Community-Teams.md)
 - [**Research Teams**](Research-Teams.md)
+- [**Placements**](https://placements.openmined.org/)
 
 <br><br>
 
