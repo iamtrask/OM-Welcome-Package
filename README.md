@@ -31,7 +31,7 @@
 - [**Helpful Links**](#helpful-links)
   - [Educational Tools](Educational-Tools.md)
   - [Beginner Friendly Terms](Beginner-Friendly-OM-Terms.md)
-- [**Social-Media-Links**](#social-media-links)
+- [**Social Media Links**](#social-media-links)
 
 <br><br><br>
 
@@ -215,7 +215,7 @@ The learning materials above prepare you to join a team and become a contributin
 - [**Development Teams**](Development-Teams.md)
 - [**Community Teams**](Community-Teams.md)
 - [**Research Teams**](Research-Teams.md)
-- [**Placements**](https://placements.openmined.org/)
+- [**All Team Placements**](https://placements.openmined.org/)
 
 <br><br>
 
