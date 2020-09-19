@@ -2,6 +2,47 @@
 
 <br>
 
+## Table of Contents
+- [Adversarial ML Security](adversarial-ml-security)
+- [AGI & AI Safety](agi-&-ai-safety)
+- [Convolutional Neural Networks (CNNs)](convolutional-neural-networks-(cnns))
+- [Computer Vision (CV)](computer-vision-(cv))
+- [Deep Learning (DL)](deep-learning-(dl))
+- [Devops](devops)
+- [Differential Privacy](differential-privacy)
+- [Distributed Systems](distributed-systems)
+- [Federated Learning (FL)](federated-learning-(fl))
+- [Flask](flask)
+- [Functional Encryption (FE)](functional-encryption-(fe))
+- [Generative Adversarial Networks (GANs)](generative-adversarial-networks-(gans))
+- [Git & Github](git-&-github)
+- [Homomorphic Encryption (HE)](homomorphic-encryption-(he))
+- [Intro to Open Source Contribution](intro-to-open-source-contribution)
+- [Javascript](javascript)
+- [Keras](keras)
+- [Kotlin](kotlin)
+- [Machine Learning](machine-learning)
+- [Multi-Party Computation (MPC)](multi-party-computation-(mpc))
+- [Natural Language Processing (NLP)](natural-language-processing-(nlp))
+- [Node.js](node.js)
+- [Private AI](private-ai)
+- [PySyft (OpenMined library)](pysyft-(openmined-library))
+- [Python (coding language)](python-(coding-language))
+- [PyTorch](pytorch)
+- [React.js](react.js)
+- [Recurrent Neural Networks (RNNs)](recurrent-neural-networks-(rnns))
+- [Reinforcement Learning (RL)](reinforcement-learning-(rl))
+- [Secure Computation](secure-computation)
+- [Speech Recognition](speech-recognition)
+- [Swift](swift)
+- [TensorFlow](tensorflow)
+- [Transformers](transformers)
+- [UI/UX Design](ui/ux-design)
+- [WebRTC](webrtc)
+- [Websockets](websockets)
+
+<br>
+
 #### Adversarial ML Security
 - [Advanced Article: Membership Inference Attacks Against ML Models](arxiv.org/abs/1610.05820)
 
@@ -17,7 +58,7 @@
 
 <br>
 
-#### Computer Vision  (CV)
+#### Computer Vision (CV)
 - [Free Udacity Course](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 <br>
@@ -90,13 +131,13 @@
 
 <br>
 
-#### Javascript  
+#### Javascript
 - [Modern Javascript Tutorial](https://javascript.info/)
 - [Intro to Javascript](https://codecademy.com/learn/introduction-to-javascript)
 
 <br>
 
-#### Keras  
+#### Keras
 - [Keras Guide](https://www.tensorflow.org/guide/keras)
 
 <br>
@@ -108,7 +149,7 @@
 
 <br>
 
-#### Machine Learning  
+#### Machine Learning
 - [ML from scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 - [Intro to ML, free Udacity course (hands on)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [Introduction to ML for Coders (top-down learning)](http://course18.fast.ai/ml.html)
