@@ -24,7 +24,7 @@
 - [Machine Learning](#machine-learning)
 - [Multi-Party Computation (MPC)](#multi-party-computation-mpc)
 - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-- [Node.js](#node.js)
+- [Node.js](#nodejs)
 - [Private AI](#private-ai)
 - [PySyft (OpenMined library)](#pysyft-openmined-library)
 - [Python (coding language)](#python-coding-language)
