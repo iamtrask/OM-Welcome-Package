@@ -3,6 +3,7 @@
 <br>
 
 ## Table of Contents
+- [Beginner Friendly OpenMined Terminology](#beginner-friendly-openmined-terminology)
 - [Adversarial ML Security](#adversarial-ml-security)
 - [AGI & AI Safety](#agi--ai-safety)
 - [Convolutional Neural Networks (CNNs)](#convolutional-neural-networks-cnns)
@@ -42,6 +43,9 @@
 - [Websockets](#websockets)
 
 <br>
+
+#### Beginner Friendly OpenMined Terminology
+- [Beginner Friendly OpenMined Terminology](https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md)
 
 #### Adversarial ML Security
 - [Advanced Article: Membership Inference Attacks Against ML Models](arxiv.org/abs/1610.05820)
