@@ -5,6 +5,13 @@
 ## Introduction
 There is nothing easy about what we’re doing here at OpenMined. Likewise, many people within our community are not machine learning engineers professionally. The following is a list of common technical terms one might hear when working inside this community.
 
+These definitions have also been put into a form which can be easily learnt/revised using [Anki](https://apps.ankiweb.net/) a cross platform app specifically designed for long term knowledge retention.
+
+- [Introductory video on how to use the flashcards](https://www.youtube.com/watch?v=Dji_h7PILrw)
+- [OpenMined beginner friendly terms](https://www.darigovresearch.com/beginner-friendly-openmined-terms-flashcards)
+
+More helpful flashcards on various topics can be found in the Flashcards section of the [Educational Tools](https://github.com/OpenMined/OM-Welcome-Package/blob/master/Educational-Tools.md#flashcards).
+
 <br>
 
 ## Table of Contents

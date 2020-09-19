@@ -41,11 +41,14 @@
 - [UI/UX Design](#uiux-design)
 - [WebRTC](#webrtc)
 - [Websockets](#websockets)
+- [Flashcards](#flashcards)
 
 <br>
 
 #### Beginner Friendly OpenMined Terminology
 - [Beginner Friendly OpenMined Terminology](https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md)
+
+<br>
 
 #### Adversarial ML Security
 - [Advanced Article: Membership Inference Attacks Against ML Models](arxiv.org/abs/1610.05820)
@@ -279,3 +282,26 @@
 
 #### Websockets
 - [API Overview](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+
+<br>
+
+#### Flashcards
+Below are a few sets of flashcards that have been put into a form which can be easily learnt/revised using [Anki](https://apps.ankiweb.net/) a cross platform app specifically designed for long term knowledge retention.
+
+- [Introductory video on how to use the flashcards](https://www.youtube.com/watch?v=Dji_h7PILrw)
+- [OpenMined beginner friendly terms](https://www.darigovresearch.com/beginner-friendly-openmined-terms-flashcards)
+- AI/ML
+  - [Machine Learning](https://www.darigovresearch.com/google-machine-learning-glossary-flashcards)
+  - [Machine Vision](https://www.darigovresearch.com/wikipedia-glossary-of-machine-vision-flashcards)
+  - [AI](https://www.darigovresearch.com/wikipedia-glossary-of-artificial-intelligence-flashcards)
+- Biology
+  - [Clinical Research](https://www.darigovresearch.com/wikipedia-glossary-of-clinical-research-flashcards)
+  - [Genetics](https://www.darigovresearch.com/wikipedia-glossary-of-genetics-flashcards)
+  - [Biology](https://www.darigovresearch.com/wikipedia-glossary-of-biology-flashcards)
+- Mathematics
+  - [Areas of Mathematics](https://www.darigovresearch.com/wikipedia-glossary-of-areas-of-mathematics-flashcards)
+  - [Calculus](https://www.darigovresearch.com/wikipedia-glossary-of-calculus-flashcards)
+  - [Game Theory](https://www.darigovresearch.com/wikipedia-glossary-of-game-theory-flashcards)
+  - [Graph Theory](https://www.darigovresearch.com/wikipedia-glossary-of-graph-theory-terms-flashcards)
+  - [Category Theory](https://www.darigovresearch.com/wikipedia-glossary-of-category-theory-flashcards)
+  - [Algebraic Topology](https://www.darigovresearch.com/wikipedia-glossary-of-algebraic-topology-flashcards)
