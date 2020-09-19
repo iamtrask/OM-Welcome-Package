@@ -29,7 +29,7 @@
 - [PySyft (OpenMined library)](#pysyft-openmined-library)
 - [Python (coding language)](#python-coding-language)
 - [PyTorch](#pytorch)
-- [React.js](#react.js)
+- [React.js](#reactjs)
 - [Recurrent Neural Networks (RNNs)](#recurrent-neural-networks-rnns)
 - [Reinforcement Learning (RL)](#reinforcement-learning-rl)
 - [Secure Computation](#secure-computation)
