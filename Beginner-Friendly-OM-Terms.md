@@ -308,11 +308,6 @@ A protocol is a series of plans that allow multiple different users to execute d
 
 <br>
 
-#### Python
-Python is the main language used by data scientists today. It’s used because the language is relatively easy to learn and is visually quite simple and expressive. It also carries very strong library support for mathematical computation through libraries like “NumPy”.
-
-<br>
-
 #### Javascript
 Javascript is the main language of the web browser. Traditionally, machine learning is not run in Javascript because of the limited access to computational power that Python and other languages possess. However, since much personal user data is stored and accessed in a web browser by Javascript, it’s the ideal candidate for federated learning. This allows for data to remain in the controls of the user, while also benefitting the data scientist training on their data.
 
@@ -320,21 +315,6 @@ Javascript is the main language of the web browser. Traditionally, machine learn
 
 #### Kotlin
 Kotlin is the main language of modern Android development. Java was used to write Android apps for quite some time, but then the Kotlin language was created to address some shortcomings that Java had with respect to Android - particularly with it being so difficult to write. Kotlin is the language used in OpenMined’s federated learning system for Android.
-
-<br>
-
-#### Swift
-Swift is the main language of modern iOS development. Objective-C (different from C, and C#, and C++) was used to write iOS apps for quite some time, but then the Swift language was created to address some shortcomings that Objective-C had with respect to iOS - particularly with it being so difficult to write. Swift is the language used in OpenMined’s federated learning system for iOS.
-
-<br>
-
-#### PyTorch
-PyTorch is one of the two most popular deep learning frameworks on the planet. Written by Facebook’s AI research team, this framework is the main library extended by the PySyft project. It’s more commonly used in research environments, but can be equally useful in production environments.
-
-<br>
-
-#### TensorFlow
-TensorFlow is the other deep learning framework that I mentioned above. It’s written by Google’s AI research team, and is also extended in the PySyft project (under the name “PySyft TensorFlow”). While it’s used more in production environments, TensorFlow is equally useful in research environments.
 
 <br>
 
@@ -348,6 +328,26 @@ Protocol Buffers, or as it’s more commonly known “Protobuf”, is a tool wri
 
 <br>
 
+#### Python
+Python is the main language used by data scientists today. It’s used because the language is relatively easy to learn and is visually quite simple and expressive. It also carries very strong library support for mathematical computation through libraries like “NumPy”.
+
+<br>
+
+#### PyTorch
+PyTorch is one of the two most popular deep learning frameworks on the planet. Written by Facebook’s AI research team, this framework is the main library extended by the PySyft project. It’s more commonly used in research environments, but can be equally useful in production environments.
+
+<br>
+
+#### Swift
+Swift is the main language of modern iOS development. Objective-C (different from C, and C#, and C++) was used to write iOS apps for quite some time, but then the Swift language was created to address some shortcomings that Objective-C had with respect to iOS - particularly with it being so difficult to write. Swift is the language used in OpenMined’s federated learning system for iOS.
+
+<br>
+
+#### TensorFlow
+TensorFlow is the other deep learning framework that I mentioned above. It’s written by Google’s AI research team, and is also extended in the PySyft project (under the name “PySyft TensorFlow”). While it’s used more in production environments, TensorFlow is equally useful in research environments.
+
+<br>
+
 ## Cloud Providers and Deployment
 
 <br>
@@ -357,23 +357,8 @@ AWS is the cloud provider from Amazon. While they offer dozens of specific produ
 
 <br>
 
-#### Microsoft Azure (also called “Azure”)
-To avoid defining the phrase again - you can think of Azure as the same thing as AWS, but built by Microsoft.
-
-<br>
-
-#### Google Cloud Platform (also called “GCP”)
-To avoid defining the phrase again - you can think of GCP as the same thing as AWS, but built by Google.
-
-<br>
-
 #### DigitalOcean
 To avoid defining the phrase again - you can think of Digital Ocean as the same thing as AWS, but built by… DigitalOcean. These guys have been in the web hosting business since before AWS, Azure, and GCP, but they didn’t invent cloud computing (AWS did).
-
-<br>
-
-#### Heroku
-To avoid defining the phrase again - you can think of Heroku as the same thing as AWS, but built by Salesforce. It’s a lot easier than most of the other cloud providers.
 
 <br>
 
@@ -386,7 +371,37 @@ Docker was one of the first major projects to incorporate the concept of “cont
 
 <br>
 
+#### Google Cloud Platform (also called “GCP”)
+To avoid defining the phrase again - you can think of GCP as the same thing as AWS, but built by Google.
+
+<br>
+
+#### Heroku
+To avoid defining the phrase again - you can think of Heroku as the same thing as AWS, but built by Salesforce. It’s a lot easier than most of the other cloud providers.
+
+<br>
+
+#### Microsoft Azure (also called “Azure”)
+To avoid defining the phrase again - you can think of Azure as the same thing as AWS, but built by Microsoft.
+
+<br>
+
 ## OpenMined Projects
+
+<br>
+
+#### Crypten
+_(Coming Soon)_
+
+<br>
+
+#### KotlinSyft
+KotlinSyft is the Android worker library for PySyft. This means that just like syft.js it can execute PySyft plans and train federated learning models on an Android phone.
+
+<br>
+
+#### PyDP
+In 2020, OpenMined created a Python wrapper for Google's Differential Privacy project called PyDP. The library provides a set of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information. Therefore, with PyDP you can control the privacy guarantee and accuracy of your model written in Python.
 
 <br>
 
@@ -400,18 +415,18 @@ PyGrid does a lot of things, but in short, PyGrid takes PySyft and deploys it to
 
 <br>
 
-#### syft.js
-Syft.js (which is lowercased when not starting a sentence) is a Javascript “worker library”, meaning that can execute PySyft plans in the browser. This is cool because PySyft has code written in Python, while syft.js only speaks Javascript - they communicate with PyGrid sending messages between them. Another project, Threepio, allows for Python and Javascript to translate messages between themselves so that they can understand each other.
-
-<br>
-
-#### KotlinSyft
-KotlinSyft is the Android worker library for PySyft. This means that just like syft.js it can execute PySyft plans and train federated learning models on an Android phone.
-
-<br>
-
 #### SwiftSyft
 To avoid having to define the phrase again, SwiftSyft is the same thing as KotlinSyft, but for iOS (written in Swift).
+
+<br>
+
+#### SyferText
+SyferText is a library for privacy preserving Natural Language Processing in Python. It leverages PySyft to perform Federated Learning and Encrypted Computations (Multi-Party Computation (MPC)) on text data.
+
+<br>
+
+#### syft.js
+Syft.js (which is lowercased when not starting a sentence) is a Javascript “worker library”, meaning that can execute PySyft plans in the browser. This is cool because PySyft has code written in Python, while syft.js only speaks Javascript - they communicate with PyGrid sending messages between them. Another project, Threepio, allows for Python and Javascript to translate messages between themselves so that they can understand each other.
 
 <br>
 
@@ -420,27 +435,12 @@ Syft-proto (also lowercased when not starting a sentence) is a project sitting b
 
 <br>
 
-#### Threepio
-Threepio is the translation layer between Javascript and Python, but more specifically the translation layer between TensorFlow.js (which is TensorFlow, a Python library, written in Javascript), TensorFlow (Python), and PyTorch (also, Python). Since TensorFlow, PyTorch, and TensorFlow.js all do more-or-less the same thing but in different languages and different styles, it’s important to be able to translate between them.
-
-Javascript can’t understand Python and vice-versa. To get a PySyft plan (using PyTorch) to be understood by Javascript, it must be run through Threepio first, so that syft.js may execute the appropriate commands in TensorFlow.js. If this is still confusing, think of this as a “translation layer between deep learning frameworks in multiple languages”.
-
-<br>
-
-#### Crypten
-_(Coming Soon)_
-
-<br>
-
 #### TenSEAL
 TenSEAL is a library for doing homomorphic encryption operations on tensors, built on top of Microsoft SEAL. It provides ease of use through a Python API, while preserving efficiency by implementing most of its operations using C++.
 
 <br>
 
-#### PyDP
-In 2020, OpenMined created a Python wrapper for Google's Differential Privacy project called PyDP. The library provides a set of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information. Therefore, with PyDP you can control the privacy guarantee and accuracy of your model written in Python.
+#### Threepio
+Threepio is the translation layer between Javascript and Python, but more specifically the translation layer between TensorFlow.js (which is TensorFlow, a Python library, written in Javascript), TensorFlow (Python), and PyTorch (also, Python). Since TensorFlow, PyTorch, and TensorFlow.js all do more-or-less the same thing but in different languages and different styles, it’s important to be able to translate between them.
 
-<br>
-
-#### SyferText
-SyferText is a library for privacy preserving Natural Language Processing in Python. It leverages PySyft to perform Federated Learning and Encrypted Computations (Multi-Party Computation (MPC)) on text data.
+Javascript can’t understand Python and vice-versa. To get a PySyft plan (using PyTorch) to be understood by Javascript, it must be run through Threepio first, so that syft.js may execute the appropriate commands in TensorFlow.js. If this is still confusing, think of this as a “translation layer between deep learning frameworks in multiple languages”.
