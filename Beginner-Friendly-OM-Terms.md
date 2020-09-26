@@ -26,6 +26,90 @@ More helpful flashcards on various topics can be found in the Flashcards section
 
 <br>
 
+#### Accuracy
+_(Coming Soon)_
+
+<br>
+
+#### Artificial Intelligence (also called “AI”)
+Techniques that enable computers to mimic human behavior
+
+<br>
+
+#### Association
+Association is a type of problem in unsupervised learning where you try to determine rules from patterns in your input data. This is useful in making predictions about behavior, like a recommendation engine: people who like X product will probably also like Y product... or people who the movie “Pulp Fiction” will probably also like the movie “Jackie Brown”.
+
+<br>
+
+#### Back Propagation
+_(Coming Soon)_
+
+<br>
+
+#### Batching
+A way of grouping subsets of data to be used to train a model.
+
+<br>
+
+#### Classification
+Classification is a type of problem in supervised learning where your output needs to fall into a specific category, or “class”. For instance: does this CT scan show the presence of a tumor or not? Or, is this picture a picture of a puppy, cat, bird, or none of those?
+
+<br>
+
+#### Clustering
+Clustering is a type of problem in unsupervised learning where you try to form categories from patterns in your input data. It’s kind of like “classification”, but where you don’t know what the categories are going to be in advance. Remember that unsupervised learning doesn’t know the output - it needs to figure out the most logical output given whatever input it receives.
+
+<br>
+
+#### Computer Vision (also called “Machine Vision”)
+Computer vision is the process of teaching a machine to identify objects in the world given a particular image. This is how automated cars learn how to drive or when a computer can tell the difference between different facial expressions.
+
+<br>
+
+#### Confidence Interval (also called “Confidence”)
+Usually an upper and lower bound on a model or prediction. For example a model returns that the probablility of an event occuring is 0.8 plus or minus 10%.
+
+<br>
+
+#### Data Science
+Loosely speaking, data science is the study of information, particularly as it relates to digital information. It’s sometimes referred to as the study of the intersection between mathematics, software engineering, and database theory.
+
+<br>
+
+#### Deep Learning (also called “DL”)
+A subset of machine learning that allows you to layer the algorithms used in machine learning to create more accurate predictions or fine-tune the algorithm to be more specific. Deep learning increases the complexity of the calculations significantly, and thus requires powerful computers to be trained effectively.
+
+It’s worth noting that data scientists will often choose to use the graphical processing unit (GPU) in a computer as opposed to the processor (CPU). The GPU is hardware internal to a computer that allows for mathematical calculations to be run very quickly, while a CPU is generally better at delegating tasks.
+
+<br>
+
+#### Differential Privacy
+_(Coming Soon)_
+
+<br>
+
+#### Encrypted Machine Learning as a Service (also called “EMLaaS”)
+Encrypted machine learning is the core tool that OpenMined provides developers - the ability to encrypt the data or model that they use in training and inference. EMLaaS is the process of deploying encrypted machine learning to a cloud environment where it can be generalized for use by other people. Basically, you can turn machine learning and prediction into a service that you can sell to people, all while protecting the privacy of your model and your data (or other people’s data).
+
+<br>
+
+#### Error Rate
+_(Coming Soon)_
+
+<br>
+
+#### Federated Learning (also called “FL”)
+Traditionally, machine learning algorithms are trained on computers or servers (remote computers that a user can rent) that are very powerful. These can be quite expensive to run and often require very expensive and specific hardware to do so effectively. Likewise, it’s often quite difficult for a data scientist to obtain data unless they work for the company giving them the data to learn from. Often times, the best data on people is found on people’s personal devices: mobile phones, tablets, and computers.
+
+Federated learning is another subset of machine learning that allows people’s devices to train a machine learning (or deep learning) algorithm on the device itself, rather than at a data center. This allows the individual training the algorithm the ability to keep the data on their personal device private, while still allowing the algorithm to learn effectively.
+
+<br>
+
+#### Forward Propagation
+_(Coming Soon)_
+
+<br>
+
 #### Function (also called “Method”)
 Any block of code that can be run multiple times. For instance:
 
@@ -43,18 +127,48 @@ Functions exist in all programming languages, although they may look slightly di
 
 <br>
 
-#### Parameters (also called “Arguments”)
-Parameters are the values that you put into a function - in other words, your “input”. These are also sometimes called the function’s “arguments”. In the previous code sample (in the “Functions” section above), we had a function called “addTwoNumbers”. In this case, the parameters for that function were “a” and “b” (they’re always put between the parentheses).
+#### Generative Adversarial Network (also called “GAN”)
+A GAN is a neural network commonly used in generating fake information. This is a fairly new technique and one of the most exciting recent developments in AI. It’s often difficult for a data scientist to get access to quality information that’s properly labeled. Using a GAN, you can synthetically generate this data to use in training or validating a model.
 
 <br>
 
-#### Data Science
-Loosely speaking, data science is the study of information, particularly as it relates to digital information. It’s sometimes referred to as the study of the intersection between mathematics, software engineering, and database theory.
+#### Gradient Descent
+_(Coming Soon)_
 
 <br>
 
-#### Artificial Intelligence (also called “AI”)
-Techniques that enable computers to mimic human behavior
+#### Homomorphic Encryption (also called “HME” or “HE”)
+A type of encryption that allows you to be able to do some computation on data without needing to decrypt it. The benefits of that is you don't need to store any sensitive data.
+
+<br>
+
+#### Hyperparameter
+Like a parameter but is usually something that you adjust in a model that effects the way the model behaves.
+
+<br>
+
+#### Inference (also called “Prediction”)
+You can think of inference as the result of putting data into your model to make a prediction. For instance, if I have “trained” a neural network to recognize photos of puppies, I can now ask the neural network “is this picture of my face a picture or a puppy or a picture of something else?” If the neural network is well trained, it will correctly predict that my face is not the face of a puppy - you can say the neural network made an “inference” or a “prediction”.
+
+<br>
+
+#### Labeled Dataset (also called “Labels”)
+Your labeled dataset, which is more commonly called your “labels”, is a dataset that mirrors your raw dataset one-to-one, describing what each item in your dataset is. In other words, if I have 5 images in my raw dataset consisting of 3 puppies, 1 parrot, and 1 cat, then my labeled dataset might be: [‘puppy’, ‘parrot’, ‘cat’, ‘puppy’, ‘puppy’]. The order is very important here as each image in the raw dataset must correspond to the label in the exact same order in your labeled dataset.
+
+<br>
+
+#### Learning Rate
+_(Coming Soon)_
+
+<br>
+
+#### Long Short Term Memory (also called “LSTM”)
+One big problem with neural networks is that they operate entirely off of their “short-term memory”, meaning that they are good at following trends in a specific direction. You may say that these models are “accurate, but unwise” - think of Dory from Finding Nemo. LSTM’s are a type of neural network that introduces long-term memory to traditional neural networks. LSTM’s are actually close to the way that human brains remember things - allowing for a core set of beliefs (like human instincts) to modify slightly over time given new information.
+
+<br>
+
+#### Loss
+_(Coming Soon)_
 
 <br>
 
@@ -63,17 +177,13 @@ A subset of artificial intelligence that uses statistics to help computers impro
 
 <br>
 
-#### Deep Learning (also called “DL”)
-A subset of machine learning that allows you to layer the algorithms used in machine learning to create more accurate predictions or fine-tune the algorithm to be more specific. Deep learning increases the complexity of the calculations significantly, and thus requires powerful computers to be trained effectively.
-
-It’s worth noting that data scientists will often choose to use the graphical processing unit (GPU) in a computer as opposed to the processor (CPU). The GPU is hardware internal to a computer that allows for mathematical calculations to be run very quickly, while a CPU is generally better at delegating tasks.
+#### Model
+A model is the resulting data structure that you get from putting data into a neural network - in other words, your “output”.
 
 <br>
 
-#### Federated Learning (also called “FL”)
-Traditionally, machine learning algorithms are trained on computers or servers (remote computers that a user can rent) that are very powerful. These can be quite expensive to run and often require very expensive and specific hardware to do so effectively. Likewise, it’s often quite difficult for a data scientist to obtain data unless they work for the company giving them the data to learn from. Often times, the best data on people is found on people’s personal devices: mobile phones, tablets, and computers.
-
-Federated learning is another subset of machine learning that allows people’s devices to train a machine learning (or deep learning) algorithm on the device itself, rather than at a data center. This allows the individual training the algorithm the ability to keep the data on their personal device private, while still allowing the algorithm to learn effectively.
+#### Natural Language Processing (also called “NLP”)
+NLP is the process of teaching a machine to make sense of written or spoken language, providing it the ability to figure out a sentence’s structure. NLP can even be used to determine the meaning or emotion related to text: is this speaker being sarcastic?... is this speak talking about Barack Obama when they say “president”?
 
 <br>
 
@@ -94,38 +204,8 @@ The image below is a very simple neural network. If you’re still confused, jus
 
 <br>
 
-#### Model
-A model is the resulting data structure that you get from putting data into a neural network - in other words, your “output”.
-
-<br>
-
-#### Training (also called “Learning”)
-Training is the process of getting a neural network to learn something. The more data you have, and the better it’s described (or “labeled”, which we will get to later), the more accurate your model is likely to. Your output (model) will always only be as good as your input (data).
-
-<br>
-
-#### Inference (also called “Prediction”)
-You can think of inference as the result of putting data into your model to make a prediction. For instance, if I have “trained” a neural network to recognize photos of puppies, I can now ask the neural network “is this picture of my face a picture or a puppy or a picture of something else?” If the neural network is well trained, it will correctly predict that my face is not the face of a puppy - you can say the neural network made an “inference” or a “prediction”.
-
-<br>
-
-#### Raw Dataset (also called “Training Data”)
-Your raw dataset, which is more commonly called your “training data” is your input to a neural network in its purest form. Using the puppy example from the “Inference” section above, the raw dataset would be images of animals. Remember, it’s important for a neural network to train on a variety of images, not just images of puppies (sadly).
-
-<br>
-
-#### Labeled Dataset (also called “Labels”)
-Your labeled dataset, which is more commonly called your “labels”, is a dataset that mirrors your raw dataset one-to-one, describing what each item in your dataset is. In other words, if I have 5 images in my raw dataset consisting of 3 puppies, 1 parrot, and 1 cat, then my labeled dataset might be: [‘puppy’, ‘parrot’, ‘cat’, ‘puppy’, ‘puppy’]. The order is very important here as each image in the raw dataset must correspond to the label in the exact same order in your labeled dataset.
-
-<br>
-
-#### Validation Dataset (also called “Validation Data” or “Test Data”)
-Your validation dataset is a different set of raw data with labels that you set aside explicitly for validating how accurate your model is. For instance, if you have 10,000 photos of animals (with labels, that’s important), then a data scientist may decide to use 6,000 of those photos and labels as their “training dataset” and 4,000 photos and labels as their “validation dataset”. Besides, if you used all 10,000 photos and labels to train on, you’d have no images left to prove that your model actually learned anything! If you show a neural network the same image twice, it won’t tell you what it thinks it might be because it actually knows - you already showed it that image. However, if you show the neural network an image it’s never seen before, then it’s a more statistically “true” test of the accuracy of the model.
-
-<br>
-
-#### Tensor
-A tensor is an array of values, which you can think of as an ordered list of numbers. Tensors can also be nested so that can contain many layers of tensors within themselves. These are referred to as the number of “dimensions” to a tensor. Tensors are the technical term for the structure of data that goes in and out of a neural network. If you remember some math from grade school or university, these are also called “matrices” (or a “matrix, singular). Even if the input data of your neural network is a picture of a puppy, the picture will need to first be converted into a tensor. Without going into detail about how to do that, just know that it’s a data structure that a neural network receives and produces and that there are many ways to convert data (pictures, text, financial information, etc.) into tensors so that they may be understood by a neural network.
+#### Normalization
+Taking data and putting it on a consistent scale that makes doing analysis on it more convenient. It is usually a reversible operation meaning that you can undo the normalization to put it back into the original scale.
 
 <br>
 
@@ -134,78 +214,8 @@ Overfitting is where a neural network has learned “too much” and is unable t
 
 <br>
 
-#### Underfitting
-Underfitting is where a neural network hasn’t learned enough and is unable to make good predictions - the opposite of “overfitting”. This usually happens when a dataset doesn’t contain much data on what you’re trying to learn about. For instance, feeding a neural network 10,000 images of puppies will not tell the neural network how to recognize a screwdriver.
-
-<br>
-
-#### Pretrained Model
-A pretrained model is a model that has been trained by someone else previously - therefore it should be capable of making a prediction.
-
-<br>
-
-#### Transfer Learning
-Transfer learning is the process of taking a “pretrained model” (see above) and continuing the training process further. Sometimes this is to improve the accuracy of the predictions the model is already making. However, sometimes the model is repurposed to do something else entirely. Either way, it’s simply the process of taking a model that’s already been trained for a specific purpose and improving it for your own needs.
-
-<br>
-
-#### Supervised Learning
-Supervised learning is where you have a clearly defined input and output. You want a model to receive some data and work towards being able to predict a specific output with the best accuracy possible. There are generally two types of problems in supervised learning: classification and regression.
-
-<br>
-
-#### Classification
-Classification is a type of problem in supervised learning where your output needs to fall into a specific category, or “class”. For instance: does this CT scan show the presence of a tumor or not? Or, is this picture a picture of a puppy, cat, bird, or none of those?
-
-<br>
-
-#### Regression
-Regression is a type of problem in supervised learning where your output needs to be a specific value. For instance: taking a historical view of stock prices for a given company and trying to predict the stock price of that company in the future.
-
-<br>
-
-#### Unsupervised Learning
-Unsupervised learning is where you have a clearly defined input, but you don’t have a specific output. This is where you may need your machine learning model to “discover” patterns in your data. Sometimes this can be helpful when you’re searching for answers in data, but you don’t know the right question to ask. There are generally two types of problems in unsupervised learning: clustering and association.
-
-<br>
-
-#### Clustering
-Clustering is a type of problem in unsupervised learning where you try to form categories from patterns in your input data. It’s kind of like “classification”, but where you don’t know what the categories are going to be in advance. Remember that unsupervised learning doesn’t know the output - it needs to figure out the most logical output given whatever input it receives.
-
-<br>
-
-#### Association
-Association is a type of problem in unsupervised learning where you try to determine rules from patterns in your input data. This is useful in making predictions about behavior, like a recommendation engine: people who like X product will probably also like Y product... or people who the movie “Pulp Fiction” will probably also like the movie “Jackie Brown”.
-
-<br>
-
-#### Reinforcement Learning (also called “RL”)
-Reinforcement learning is where you teach a computer to do a task given certain positive and negative conditions. For instance, if you’re teaching an AI bot in a video game, you’ll need to tell them “you’re allowed to walk on land (positive), but not water (negative), find the quickest way to get from one side to the other”. From there, the model will iterate one step at a time until it figures out the optimal path.
-
-<br>
-
-#### Natural Language Processing (also called “NLP”)
-NLP is the process of teaching a machine to make sense of written or spoken language, providing it the ability to figure out a sentence’s structure. NLP can even be used to determine the meaning or emotion related to text: is this speaker being sarcastic?... is this speak talking about Barack Obama when they say “president”?
-
-<br>
-
-#### Computer Vision (also called “Machine Vision”)
-Computer vision is the process of teaching a machine to identify objects in the world given a particular image. This is how automated cars learn how to drive or when a computer can tell the difference between different facial expressions.
-
-<br>
-
-#### Generative Adversarial Network (also called “GAN”)
-A GAN is a neural network commonly used in generating fake information. This is a fairly new technique and one of the most exciting recent developments in AI. It’s often difficult for a data scientist to get access to quality information that’s properly labeled. Using a GAN, you can synthetically generate this data to use in training or validating a model.
-
-<br>
-
-#### Long Short Term Memory (also called “LSTM”)
-One big problem with neural networks is that they operate entirely off of their “short-term memory”, meaning that they are good at following trends in a specific direction. You may say that these models are “accurate, but unwise” - think of Dory from Finding Nemo. LSTM’s are a type of neural network that introduces long-term memory to traditional neural networks. LSTM’s are actually close to the way that human brains remember things - allowing for a core set of beliefs (like human instincts) to modify slightly over time given new information.
-
-<br>
-
-#### Encrypted Machine Learning as a Service (also called “EMLaaS”)
-Encrypted machine learning is the core tool that OpenMined provides developers - the ability to encrypt the data or model that they use in training and inference. EMLaaS is the process of deploying encrypted machine learning to a cloud environment where it can be generalized for use by other people. Basically, you can turn machine learning and prediction into a service that you can sell to people, all while protecting the privacy of your model and your data (or other people’s data).
+#### Parameters (also called “Arguments”)
+Parameters are the values that you put into a function - in other words, your “input”. These are also sometimes called the function’s “arguments”. In the previous code sample (in the “Functions” section above), we had a function called “addTwoNumbers”. In this case, the parameters for that function were “a” and “b” (they’re always put between the parentheses).
 
 <br>
 
@@ -214,78 +224,33 @@ Hackers! Pen testing is the process of attempting to hack into a system (intenti
 
 <br>
 
-#### Gradient Descent
-_(Coming Soon)_
+#### Plan
+A plan is what’s created when you want to turn a function into a string of text. Why would you want to do this? If you’re trying to run machine learning code in two different environments (like a web browser and a server, for instance), the languages that are used in these two environments are going to be different. A plan allows you to zip up your code in one environment and allow it to be understood by another environment. This is, of course, an oversimplification, but just understand that plans are an integral piece of the OpenMined ecosystem.
 
 <br>
 
-#### Hyperparameter
-Like a parameter but is usually something that you adjust in a model that effects the way the model behaves.
+#### Pretrained Model
+A pretrained model is a model that has been trained by someone else previously - therefore it should be capable of making a prediction.
 
 <br>
 
-#### Batching
-A way of grouping subsets of data to be used to train a model.
+#### Protocol
+A protocol is a series of plans that allow multiple different users to execute different plans together. The protocol may dictate that 3 different users are to perform 3 different operations and then combine their results at the end. If this is vague, then just understand that, like plans, protocols are integral to the OpenMined ecosystem.
 
 <br>
 
-#### Normalization
-Taking data and putting it on a consistent scale that makes doing analysis on it more convenient. It is usually a reversible operation meaning that you can undo the normalization to put it back into the original scale.
+#### Raw Dataset (also called “Training Data”)
+Your raw dataset, which is more commonly called your “training data” is your input to a neural network in its purest form. Using the puppy example from the “Inference” section above, the raw dataset would be images of animals. Remember, it’s important for a neural network to train on a variety of images, not just images of puppies (sadly).
 
 <br>
 
-#### Confidence Interval (also called “Confidence”)
-Usually an upper and lower bound on a model or prediction. For example a model returns that the probablility of an event occuring is 0.8 plus or minus 10%.
+#### Reinforcement Learning (also called “RL”)
+Reinforcement learning is where you teach a computer to do a task given certain positive and negative conditions. For instance, if you’re teaching an AI bot in a video game, you’ll need to tell them “you’re allowed to walk on land (positive), but not water (negative), find the quickest way to get from one side to the other”. From there, the model will iterate one step at a time until it figures out the optimal path.
 
 <br>
 
-#### Learning Rate
-_(Coming Soon)_
-
-<br>
-
-#### Accuracy
-_(Coming Soon)_
-
-<br>
-
-#### Loss
-_(Coming Soon)_
-
-<br>
-
-#### Error Rate
-_(Coming Soon)_
-
-<br>
-
-#### Back Propagation
-_(Coming Soon)_
-
-<br>
-
-#### Forward Propagation
-_(Coming Soon)_
-
-<br>
-
-#### Tokenization
-This has two definitions depending on the field you are talking about. In Data Security it is a way to represent sensitive information in a way that allows it to be used in computation but protects the original source. For example tokens are often used instead of your actual password when interacting with certain programs on the internet. In Natural Language Processing (NLP) it is a technique where you break down a sentence or words into it's core meaning to make it easier to analyse. For example labelling words to be nouns, verbs, adjectives or the like.
-
-<br>
-
-#### Homomorphic Encryption (also called “HME” or “HE”)
-A type of encryption that allows you to be able to do some computation on data without needing to decrypt it. The benefits of that is you don't need to store any sensitive data.
-
-<br>
-
-#### Secure Multi-Party Computation (also called “SMPC”)
-_(Coming Soon)_
-
-<br>
-
-#### Differential Privacy
-_(Coming Soon)_
+#### Regression
+Regression is a type of problem in supervised learning where your output needs to be a specific value. For instance: taking a historical view of stock prices for a given company and trying to predict the stock price of that company in the future.
 
 <br>
 
@@ -294,13 +259,48 @@ _(Coming Soon)_
 
 <br>
 
-#### Plan
-A plan is what’s created when you want to turn a function into a string of text. Why would you want to do this? If you’re trying to run machine learning code in two different environments (like a web browser and a server, for instance), the languages that are used in these two environments are going to be different. A plan allows you to zip up your code in one environment and allow it to be understood by another environment. This is, of course, an oversimplification, but just understand that plans are an integral piece of the OpenMined ecosystem.
+#### Secure Multi-Party Computation (also called “SMPC”)
+_(Coming Soon)_
 
 <br>
 
-#### Protocol
-A protocol is a series of plans that allow multiple different users to execute different plans together. The protocol may dictate that 3 different users are to perform 3 different operations and then combine their results at the end. If this is vague, then just understand that, like plans, protocols are integral to the OpenMined ecosystem.
+#### Supervised Learning
+Supervised learning is where you have a clearly defined input and output. You want a model to receive some data and work towards being able to predict a specific output with the best accuracy possible. There are generally two types of problems in supervised learning: classification and regression.
+
+<br>
+
+#### Tensor
+A tensor is an array of values, which you can think of as an ordered list of numbers. Tensors can also be nested so that can contain many layers of tensors within themselves. These are referred to as the number of “dimensions” to a tensor. Tensors are the technical term for the structure of data that goes in and out of a neural network. If you remember some math from grade school or university, these are also called “matrices” (or a “matrix, singular). Even if the input data of your neural network is a picture of a puppy, the picture will need to first be converted into a tensor. Without going into detail about how to do that, just know that it’s a data structure that a neural network receives and produces and that there are many ways to convert data (pictures, text, financial information, etc.) into tensors so that they may be understood by a neural network.
+
+<br>
+
+#### Tokenization
+This has two definitions depending on the field you are talking about. In Data Security it is a way to represent sensitive information in a way that allows it to be used in computation but protects the original source. For example tokens are often used instead of your actual password when interacting with certain programs on the internet. In Natural Language Processing (NLP) it is a technique where you break down a sentence or words into it's core meaning to make it easier to analyse. For example labelling words to be nouns, verbs, adjectives or the like.
+
+<br>
+
+#### Training (also called “Learning”)
+Training is the process of getting a neural network to learn something. The more data you have, and the better it’s described (or “labeled”, which we will get to later), the more accurate your model is likely to. Your output (model) will always only be as good as your input (data).
+
+<br>
+
+#### Transfer Learning
+Transfer learning is the process of taking a “pretrained model” (see above) and continuing the training process further. Sometimes this is to improve the accuracy of the predictions the model is already making. However, sometimes the model is repurposed to do something else entirely. Either way, it’s simply the process of taking a model that’s already been trained for a specific purpose and improving it for your own needs.
+
+<br>
+
+#### Underfitting
+Underfitting is where a neural network hasn’t learned enough and is unable to make good predictions - the opposite of “overfitting”. This usually happens when a dataset doesn’t contain much data on what you’re trying to learn about. For instance, feeding a neural network 10,000 images of puppies will not tell the neural network how to recognize a screwdriver.
+
+<br>
+
+#### Unsupervised Learning
+Unsupervised learning is where you have a clearly defined input, but you don’t have a specific output. This is where you may need your machine learning model to “discover” patterns in your data. Sometimes this can be helpful when you’re searching for answers in data, but you don’t know the right question to ask. There are generally two types of problems in unsupervised learning: clustering and association.
+
+<br>
+
+#### Validation Dataset (also called “Validation Data” or “Test Data”)
+Your validation dataset is a different set of raw data with labels that you set aside explicitly for validating how accurate your model is. For instance, if you have 10,000 photos of animals (with labels, that’s important), then a data scientist may decide to use 6,000 of those photos and labels as their “training dataset” and 4,000 photos and labels as their “validation dataset”. Besides, if you used all 10,000 photos and labels to train on, you’d have no images left to prove that your model actually learned anything! If you show a neural network the same image twice, it won’t tell you what it thinks it might be because it actually knows - you already showed it that image. However, if you show the neural network an image it’s never seen before, then it’s a more statistically “true” test of the accuracy of the model.
 
 <br>
 
