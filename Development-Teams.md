@@ -186,7 +186,7 @@ Check out these charts for more detailed information about how all of these proj
 **Core PySyft Abstractions, Functionalities, & Framework Support**<br>
 *Works on the aspects of PySyft which are shared by all users of PySyft. This includes things like basic framework support, the ability to extend tensors with custom types, the serialization standard for all objects across the Syft ecosystem, and the creation and serialization of portable functions via Plans and Protocols.*
 
-**Team Lead:**  [Andrew Trask](https://github.com/iamtras)<br>
+**Team Lead:**  [Andrew Trask](https://github.com/iamtrask)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/syft-core/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/syft_core_team)<br>
 [**Good First Issues**](https://github.com/OpenMined/PySyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
