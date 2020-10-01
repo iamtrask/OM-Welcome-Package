@@ -151,7 +151,7 @@ OpenMined's community teams work together on many different projects. Here is a 
 **Blog Posts, Demos, Tutorials, & Documentation**<br>
 *Data scientists who can train models in the NLP/Computer Vision space, and writers who have experience with and interest in technical and non-technical blog post writing join together to create extensive OM-related resources.*
 
-**Team Lead:**  Emma Bluemke  /  @Emma <br>
+**Team Lead:**  [Emma Bluemke](https://github.com/em-blue) <br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/writing/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/writing_team)<br>
 
