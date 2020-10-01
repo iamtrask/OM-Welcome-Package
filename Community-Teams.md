@@ -3,7 +3,7 @@
   <h1><strong>OpenMined Community Teams</strong></h1>
   <p>Below is a list of all of our <strong>community</strong> teams, as well as all of the information you need to join. (For information on our <strong>development</strong> teams, <a href="Development-Teams.md">click here</a>.) <em>Any time you see an "@", that's a member's Slack handle! <a href="https://slack.openmined.org">Click here to join our Slack organisation!</a></em>
     </p></div>
-    
+
 <br><br><br>
 
 ## Table of Contents:
@@ -52,7 +52,7 @@ OpenMined's community teams work together on many different projects. Here is a 
 **Organized learning of the OM code base and Secure & Private AI**<br>
 *Assists prospective contributors interested in learning Secure & Private AI concepts by organizing cohorts, study groups, code challenges, mini-hackathons, and other learning groups that help them understand PySyft and contribute to OM.*<br>
 
-**Team Lead:** Yemissi B. Kifouly  /  @Yemi<br>
+**Team Lead:** [Yemissi B. Kifouly](https://github.com/yemikifouly)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/learning/members)
 
 **Requirements to Join:**
@@ -67,7 +67,7 @@ OpenMined's community teams work together on many different projects. Here is a 
 **Hosting OpenMined Events**<br>
 *Plans Meetups, Webinars, and other events so that like-minded OpenMineders can meet to discuss and hear talks on releveant issues to OM.*<br>
 
-**Team Lead:**  Helena Barmer<br>
+**Team Lead:**  [Helena Barmer](https://github.com/helenabarmer)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/meetups)<br>
 
 **Requirements to Join:**
@@ -122,7 +122,7 @@ OpenMined's community teams work together on many different projects. Here is a 
 **Partnering with like-minded people and organizations**<br>
 *Develops and manages relationships with organizations and individuals who are interested in deploying, funding, or promoting open-source privacy-preserving AI software.*<br>
 
-**Team Lead:**  Emma Bluemke  /  @Emma <br>
+**Team Lead:**  [Emma Bluemke](https://github.com/em-blue) <br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/partnerships/members)<br>
 
 **Requirements to Join:**  Informal<br>
