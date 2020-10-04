@@ -405,13 +405,13 @@ In 2020, OpenMined created a Python wrapper for Google's Differential Privacy pr
 
 <br>
 
-#### PySyft
-PySyft is the main project of the OpenMined community, allowing for developers to write machine learning code in either PyTorch or TensorFlow “flavors” and get the benefits of privacy preservation “for free”. It’s as if PyTorch and TensorFlow were extended to have added privacy and security benefits.
+#### PyGrid
+PyGrid does a lot of things, but in short, PyGrid takes PySyft and deploys it to the cloud. This way you can control multiple PySyft workers (for training) at the same time, rather than having to issue commands to each individual machine. PyGrid is also the “coordinator” of OpenMined’s federated learning process, allowing various machines (web browsers and mobile devices) the ability to work together to train a model.
 
 <br>
 
-#### PyGrid
-PyGrid does a lot of things, but in short, PyGrid takes PySyft and deploys it to the cloud. This way you can control multiple PySyft workers (for training) at the same time, rather than having to issue commands to each individual machine. PyGrid is also the “coordinator” of OpenMined’s federated learning process, allowing various machines (web browsers and mobile devices) the ability to work together to train a model.
+#### PySyft
+PySyft is the main project of the OpenMined community, allowing for developers to write machine learning code in either PyTorch or TensorFlow “flavors” and get the benefits of privacy preservation “for free”. It’s as if PyTorch and TensorFlow were extended to have added privacy and security benefits.
 
 <br>
 
