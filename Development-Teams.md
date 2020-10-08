@@ -3,7 +3,7 @@
   <h1><strong>OpenMined Development Teams</strong></h1>
   <p>Below is a list of all of our <strong>development</strong> teams, as well as all of the information you need to join. (For information on our <strong>community</strong> teams, <a href="Community-Teams.md">click here</a>.) <em>Any time you see an "@", that's a member's Slack handle!</em> <a href="https://slack.openmined.org">Click here to join our Slack organisation!</a>
     </p></div>
-    
+
 <br><br><br>
 
 ## Table of Contents:
@@ -50,7 +50,7 @@ Check out these charts for more detailed information about how all of these proj
 **Encrypted computation in the context of Deep Learning** <br>
 *Works on a wide range of protocols including Secure Multi-Party Computation and Homomorphic Encryption to evaluate and train neural networks on private datasets distributed across several owners.* <br>
 
-**Team Lead:**  Théo Ryffel  /  @Théo Ryffel <br>
+**Team Lead:**  [Théo Ryffel](https://github.com/LaRiffle)<br>
 [**Sub-Teams & Team Members**](https://github.com/orgs/OpenMined/teams/cryptography/teams) <br>
 [**Team Road Map**](https://github.com/OpenMined/Roadmap/tree/master/crypto_team)<br>
 [**Good First Issues**](https://github.com/OpenMined/PySyft/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Crypto+Team%22++label%3A%22good+first+issue%22)<br>
@@ -69,7 +69,7 @@ Check out these charts for more detailed information about how all of these proj
 **Provable Privacy for Deep Learning**<br>
 *Working industry tested and trusted provable privacy capabilities into the OpenMined ecosystem, and building a Python wrapper for the Google Differential Privacy library entitled PyDP.*
 
-**Team Lead:**  Benjamin Szymkow  /  @Ben S<br>
+**Team Lead:**  [Benjamin Szymkow](https://github.com/simcof)<br>
 [**Sub-Teams & Team Members**](https://github.com/orgs/OpenMined/teams/differential-privacy/teams) <br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/pydp_team)<br>
 [**Good First Issues**](https://github.com/OpenMined/PyDP/labels/Good%20first%20issue%20%3Amortar_board%3A)<br>
@@ -94,7 +94,7 @@ Check out these charts for more detailed information about how all of these proj
 
 [**Check out our Grid Network Project!**](https://github.com/OpenMined/Roadmap/blob/master/pygrid_team/projects/grid_network.md)<br>
 
-**Team Lead:**  Ionesio Junior  /  @Ionesio<br>
+**Team Lead:**  [Ionesio Junior](https://github.com/IonesioJunior)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/grid/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/pygrid_team)<br>
 [**Good First Issues**](https://github.com/OpenMined/PyGrid/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)<br>
@@ -116,7 +116,7 @@ Check out these charts for more detailed information about how all of these proj
 **Secure & Private NLP on encrypted text**<br>
 *Builds SyferText, a framework that leverages PySyft to tackle real-world challenges in  using Encrypted Computations and Federated Learning on sensitive, private datasets.*<br>
 
-**Team Lead:**  Alan Aboudib  /  @Alan.Aboudib<br>
+**Team Lead:**  [Alan Aboudib](https://github.com/AlanAboudib)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/natural-language-processing/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/nlp_team)<br>
 [**Good First Issues**](https://github.com/OpenMined/SyferText/labels/Good%20first%20issue%20%3Amortar_board%3A)<br>
@@ -161,7 +161,7 @@ Check out these charts for more detailed information about how all of these proj
 **Identity Management, Red / Blue Team Security**<br>
 *Works on distributed, zero-knowledge identity in PyGrid. Develops OM's defense strategy, hardening of infrastructure and information security governance frameworks. Tests OM through bug bounty, Capture the Flag and performance challenges.*
 
-**Team Lead:**  Adam Hall  /  @Adam J Hall<br>
+**Team Lead:**  [Adam Hall](https://github.com/H4LL)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/security-and-identity/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/security_and_identity_team)<br>
 **Good First Issues:** tbd<br>
@@ -186,7 +186,7 @@ Check out these charts for more detailed information about how all of these proj
 **Core PySyft Abstractions, Functionalities, & Framework Support**<br>
 *Works on the aspects of PySyft which are shared by all users of PySyft. This includes things like basic framework support, the ability to extend tensors with custom types, the serialization standard for all objects across the Syft ecosystem, and the creation and serialization of portable functions via Plans and Protocols.*
 
-**Team Lead:**  Andrew Trask / @trask<br>
+**Team Lead:**  [Andrew Trask](https://github.com/iamtrask)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/syft-core/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/syft_core_team)<br>
 [**Good First Issues**](https://github.com/OpenMined/PySyft/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
@@ -203,11 +203,11 @@ Check out these charts for more detailed information about how all of these proj
 **Federated Learning for web and mobile**<br>
 *Building federated learning into the OM ecosystem with support for Android and iOS phones, as well as the browser. This team also works on various user interfaces used with the OM codebase.*<br>
 
-**Team Lead:**  Patrick Cason  /  @cereallarceny<br>
+**Team Lead:**  [Patrick Cason](https://github.com/cereallarceny)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/web-and-mobile/members)<br>
 [**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/web_and_mobile_team)<br>
 **Good First Issues:**
-[Kotlin - KotlinSyft](https://github.com/OpenMined/KotlinSyft/labels/Good%20first%20issue%20%3Amortar_board%3A), 
+[Kotlin - KotlinSyft](https://github.com/OpenMined/KotlinSyft/labels/Good%20first%20issue%20%3Amortar_board%3A),
 [Javascript - syft.js](https://github.com/OpenMined/syft.js/labels/Good%20first%20issue%20%3Amortar_board%3A), [Swift - SwiftSyft](https://github.com/OpenMined/SwiftSyft/labels/Good%20first%20issue%20%3Amortar_board%3A)<br>
 
 **Requirements to Join:**
@@ -229,5 +229,5 @@ Check out these charts for more detailed information about how all of these proj
 ## Federated Learning Team
 *The Federated Learning Team is a new team which combines the Web & Mobile Team, the Grid Team, and two new teams: Workers Team, and RecSys Team. More details are coming soon, but in the meantime contact the team lead below for more information.*<br>
 
-**Team Lead:**  Patrick Cason  /  @cereallarceny<br>
+**Team Lead:**  [Patrick Cason](https://github.com/cereallarceny)<br>
 **Accepting New Members?** YES<br>
