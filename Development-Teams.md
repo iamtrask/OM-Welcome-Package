@@ -12,7 +12,6 @@
 - [Differential Privacy Team](#differential-privacy-team)
 - [Natural Language Processing Team](#natural-language-processing-team)
 - [Grid Team](#grid-team)
-- [Private Set Intersection Team](#private-set-intersection-team)
 - [Security and Identity Team](#security-and-identity-team)
 - [Syft Core Team](#syft-core-team)
 - [Web and Mobile Team](#web-and-mobile-team)
@@ -133,27 +132,6 @@ Check out these charts for more detailed information about how all of these proj
 
 **Accepting New Members?** YES<br>
 [**Application to Join**](https://forms.gle/8eo1MNN3tteBLGak6)
-
-<br><br><br>
-
-## Private Set Intersection Team
-**Private Set Intersection**<br>
-*Works on a library implementing the Private Set Intersection protocol, which is based on ECDH and Bloom Filters.*<br>
-
-**Team Lead:**  tbd<br>
-[**Team Members**](https://github.com/orgs/OpenMined/teams/private-set-intersection/members)<br>
-[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/private_set_intersection_team)<br>
-[**Good First Issues**](https://github.com/OpenMined/PSI/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+first+issue+%3Amortar_board%3A%22)<br>
-
-**Requirements to Join:**
-- You have already merged at least one PR to one of OpenMined's open source projects (see Good First Issues above).
-- You are fluent in a programming language like C++, JavaScript, Python, Go, Rust, or Java.
-- You are familiar with the Bazel build system and Git.
-- You are curious and willing to learn about Private Set Intersection protocols.
-- You are passionate about our project and willing to contribute.
-
-**Accepting New Members?** YES<br>
-**Application to Join**: tbd
 
 <br><br><br>
 
