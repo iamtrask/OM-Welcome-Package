@@ -32,7 +32,7 @@ OpenMined's community teams work together on many different projects. Here is a 
 **Creating Beautiful Communications in Line with the OpenMined Brand**<br>
 *Highly skilled graphic designers, web designers, illustrators, animators, photographers, and other creatives, with a passion for maintaining the integrity of the OpenMined brand and creating cool stuff to help promote our community.*
 
-**Team Lead:**  Bennett Farkas  /  @bennett <br>
+**Team Lead:**  [Bennett Farkas](https://github.com/bennettfarkas) <br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/design/members)
 
 **Requirements to Join:**
@@ -82,7 +82,7 @@ OpenMined's community teams work together on many different projects. Here is a 
 **Guidance for new members of the OM community**<br>
 *Provides new members of the OM community with resources to learn and contribute to the code base and the community itself.*<br>
 
-**Team Lead:**  Sourav Das  /  @Sourav<br>
+**Team Lead:**  [Sourav Das](https://github.com/adventuroussrv)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/mentorship/members)<br>
 
 **Requirements to Join as a Community Mentor:**
@@ -136,7 +136,7 @@ OpenMined's community teams work together on many different projects. Here is a 
 **Creating and sharing OM's community content**<br>
 *Members of the OM community passionate about content creation and building engagement by analyzing the impact of social media activity on the community initiatives.*<br>
 
-**Team Lead:**  Madalin Mamuleanu  /  @Madalin Mamuleanu<br>
+**Team Lead:**  [Madalin Mamuleanu](https://github.com/mamuleanu)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/social-media/members)<br>
 
 **Requirements to Join:**
