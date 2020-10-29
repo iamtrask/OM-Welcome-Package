@@ -96,7 +96,7 @@ Check out these charts for more detailed information about how all of these proj
 - [Use cases of Differential Privacy](https://blog.openmined.org/use-cases-of-differential-privacy)
 - [All blog posts related to Differential privacy](https://blog.openmined.org/tag/differential-privacy/)
 - [What is Differential Privacy by shuffling](https://blog.openmined.org/differential-privacy-by-shuffling)
-- [Differentially private deep learning in 20 lines of code](https://blog.openmined.org/differentially-private-deep-learning-in-20-lines-of-code)
+- [Differentially private deep learning in 20 lines of code](https://blog.openmined.org/differentially-private-deep-learning-using-opacus-in-20-lines-of-code/)
 
 <br><br><br>
 
