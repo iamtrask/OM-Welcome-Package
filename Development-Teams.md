@@ -63,6 +63,12 @@ Check out these charts for more detailed information about how all of these proj
 **Accepting New Members?** YES<br>
 [**Application to Join**](https://forms.gle/tG7KhwzJKubAeorv6)
 
+**Cryptography Relevant Blog Posts**
+- [What is Secure Multi-Party Computation](https://blog.openmined.org/what-is-secure-multi-party-computation/)
+- [What is Homomorphic Encryption?](https://blog.openmined.org/what-is-homomorphic-encryption/)
+- [All blog posts related to Homomorphic Encryption](https://blog.openmined.org/tag/homomorphic-encryption)
+- [All blog posts related to Secure Multi-Party Computation](https://blog.openmined.org/tag/multi-party-computation)
+
 <br><br><br>
 
 ## Differential Privacy Team
@@ -85,6 +91,12 @@ Check out these charts for more detailed information about how all of these proj
 
 **Accepting New Members?** YES<br>
 [**Application to Join**](https://docs.google.com/forms/d/1XXlPDBkV2xOZmMZMSyw-_KAAjs93CLWmp4Gb0Ql-s_g)
+
+**Differential Privacy Relevant Blog Posts**
+- [Use cases of Differential Privacy](https://blog.openmined.org/use-cases-of-differential-privacy)
+- [All blog posts related to Differential privacy](https://blog.openmined.org/tag/differential-privacy/)
+- [What is Differential Privacy by shuffling](https://blog.openmined.org/differential-privacy-by-shuffling)
+- [Differentially private deep learning in 20 lines of code](https://blog.openmined.org/differentially-private-deep-learning-in-20-lines-of-code)
 
 <br><br><br>
 
@@ -110,6 +122,9 @@ Check out these charts for more detailed information about how all of these proj
 **Accepting New Members?** YES<br>
 [**Application to Join**](https://forms.gle/dzDLyKGC8hfjL48z5)
 
+**Relevant Blog Posts**
+- [PyGrid: A peer-to-peer platform for private data science and federated learning](https://blog.openmined.org/what-is-pygrid-demo)
+
 <br><br><br>
 
 ## Natural Language Processing Team
@@ -134,6 +149,9 @@ Check out these charts for more detailed information about how all of these proj
 **Accepting New Members?** YES<br>
 [**Application to Join**](https://forms.gle/8eo1MNN3tteBLGak6)
 
+**Relevant Blog Posts**
+- [Sentiment analysis on multiple datasets with SyferText Demo](https://blog.openmined.org/sentiment-analysis-syfertext)
+
 <br><br><br>
 
 ## Private Set Intersection Team
@@ -154,6 +172,11 @@ Check out these charts for more detailed information about how all of these proj
 
 **Accepting New Members?** YES<br>
 **Application to Join**: tbd
+
+**Private Set Intersection Relevant Blog Posts**
+- [A Privacy preserving way to find the intersection of two datasets](https://blog.openmined.org/private-set-intersection)
+- [All blog posts related to Private Set Intersection](https://blog.openmined.org/tag/private-set-intersection)
+- [Private Set Intersection with the paillier cryptosystem](https://blog.openmined.org/private-set-intersection-with-the-paillier-cryptosystem)
 
 <br><br><br>
 
@@ -196,6 +219,9 @@ Check out these charts for more detailed information about how all of these proj
 
 **Accepting New Members?** YES<br>
 **Application to Join:** tbd
+
+**PySyft Relevant Blog Posts**
+- [All PySyft related blog posts](https://blog.openmined.org/tag/federated-learning/)
 
 <br><br><br>
 
