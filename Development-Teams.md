@@ -12,7 +12,7 @@
 - [Differential Privacy Team](#differential-privacy-team)
 - [Natural Language Processing Team](#natural-language-processing-team)
 - [Grid Team](#grid-team)
-- [Information Security Team](#infosec-team)
+- [Information Security Team](#information-security-team)
 - [Identity Team](#identity-team)
 - [Syft Core Team](#syft-core-team)
 - [Web and Mobile Team](#web-and-mobile-team)
@@ -136,7 +136,7 @@ Check out these charts for more detailed information about how all of these proj
 
 <br><br><br>
 
-## Security and Identity Team
+## Information Security Team
 **Identity Management, Red / Blue Team Security**<br>
 *Develops OM's defense strategy, hardening of infrastructure and information security governance frameworks. Tests OM through bug bounty, Capture the Flag and performance challenges.*
 
