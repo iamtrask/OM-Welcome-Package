@@ -12,7 +12,8 @@
 - [Differential Privacy Team](#differential-privacy-team)
 - [Natural Language Processing Team](#natural-language-processing-team)
 - [Grid Team](#grid-team)
-- [Security and Identity Team](#security-and-identity-team)
+- [Information Security Team](#information-security-team)
+- [Identity Team](#identity-team)
 - [Syft Core Team](#syft-core-team)
 - [Web and Mobile Team](#web-and-mobile-team)
 - [Federated Learning Team](#federated-learning-team)
@@ -135,9 +136,9 @@ Check out these charts for more detailed information about how all of these proj
 
 <br><br><br>
 
-## Security and Identity Team
+## Information Security Team
 **Identity Management, Red / Blue Team Security**<br>
-*Works on distributed, zero-knowledge identity in PyGrid. Develops OM's defense strategy, hardening of infrastructure and information security governance frameworks. Tests OM through bug bounty, Capture the Flag and performance challenges.*
+*Develops OM's defense strategy, hardening of infrastructure and information security governance frameworks. Tests OM through bug bounty, Capture the Flag and performance challenges.*
 
 **Team Lead:**  [Adam Hall](https://github.com/H4LL)<br>
 [**Team Members**](https://github.com/orgs/OpenMined/teams/security-and-identity/members)<br>
@@ -151,9 +152,32 @@ Check out these charts for more detailed information about how all of these proj
 - Working knowledge of the OpenMined stack
 - Interested in compliance and governance procedures for information storage and processing
 - Working knowledge of distributed identifiers and verifiable credentials
-- Familiar with Hyperledger Indy and Aries
 - Demonstrated knowledge and ability in penetration testing and network, memory and hardware forensics
 - You are a distributed identity or information security enthusiast who wants to become more involved in developing the tool and building security challenges
+
+**Accepting New Members?** YES<br>
+**Application to Join:** tbd
+
+<br><br><br>
+
+## Identity Team
+*Exploring the integration of decentralised identity within the OpenMined stack. Researching the latest innovations being developed within numerous identity communities to stay current: [DIF](https://identity.foundation/), [W3C CCG](https://w3c-ccg.github.io/), [Hyperledger Aries](https://github.com/hyperledger/aries-rfcs/tree/master/concepts). Developing tutorials and libraries to increase understanding of these capabilities within the Open Mined community and lower the barrier to adoption.*
+
+
+**Team Lead:**  [Will Abramson](https://github.com/wip-abramson)<br>
+[**Team Members**](https://github.com/orgs/OpenMined/teams/security-and-identity/members)<br>
+[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/security_and_identity_team)<br>
+**Good First Issues:** tbd<br>
+[**Research Issues**](https://github.com/OpenMined/PyDentity/labels/Type%3A%20Research%20%3Amicroscope%3A)<br>
+
+**Requirements to Join:**
+- You have made at least one significant contribution to the OpenMined Github repository (see Good First Issues below), or you are committed to taking on a research issue.
+- Comfortable working with Docker
+- Working knowledge of the OpenMined stack
+- Working knowledge of distributed identifiers and verifiable credentials
+- Familiar with Hyperledger Indy/Aries/Ursa (take our [tutorial](https://github.com/OpenMined/PyDentity/tree/master/tutorials/aries-basic-controller))
+- Excited to experiment with emerging technology
+
 
 **Accepting New Members?** YES<br>
 **Application to Join:** tbd
