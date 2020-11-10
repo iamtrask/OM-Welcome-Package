@@ -11,11 +11,9 @@
 - [Cryptography Team](#cryptography-team)
 - [Differential Privacy Team](#differential-privacy-team)
 - [Natural Language Processing Team](#natural-language-processing-team)
-- [Grid Team](#grid-team)
 - [Information Security Team](#information-security-team)
 - [Identity Team](#identity-team)
 - [Syft Core Team](#syft-core-team)
-- [Web and Mobile Team](#web-and-mobile-team)
 - [Federated Learning Team](#federated-learning-team)
 
 <br><br><br>
@@ -97,33 +95,6 @@ Check out these charts for more detailed information about how all of these proj
 - [All blog posts related to Differential privacy](https://blog.openmined.org/tag/differential-privacy/)
 - [What is Differential Privacy by shuffling](https://blog.openmined.org/differential-privacy-by-shuffling)
 - [Differentially private deep learning in 20 lines of code](https://blog.openmined.org/differentially-private-deep-learning-using-opacus-in-20-lines-of-code/)
-
-<br><br><br>
-
-## Grid Team
-**Everything Grid**<br>
-*Works on extending the PySyft library to build a secure peer-to-peer platform. Also works on distributed systems protocols (using websockets), fault tolerance and systems deployment. Technologies of interest: Javascript, Python, PySyft and Flask.*<br>
-
-[**Check out our Grid Network Project!**](https://github.com/OpenMined/Roadmap/blob/master/pygrid_team/projects/grid_network.md)<br>
-
-**Team Lead:**  [Ionesio Junior](https://github.com/IonesioJunior)<br>
-[**Team Members**](https://github.com/orgs/OpenMined/teams/grid/members)<br>
-[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/pygrid_team)<br>
-[**Good First Issues**](https://github.com/OpenMined/PyGrid/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)<br>
-
-**Requirements to Join:**
-- You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues below)
-- You have a knowledge on UX Design and REST API's
-- You have basic knowledge or are interested in Distributed Systems
-- You have at least an intuitive understanding about how PySyft works from the ground up (e.g. from the hooks to the crypto, and everything in between)
-- You are interested in learning details about how PySyft works from the ground up, and would eventually like to propose modifications/improvements to PySyft and how the various projects in the OpenMined ecosystem fit together with it
-- You are highly motivated and want to get involved on a regular basis
-
-**Accepting New Members?** YES<br>
-[**Application to Join**](https://forms.gle/dzDLyKGC8hfjL48z5)
-
-**Relevant Blog Posts**
-- [PyGrid: A peer-to-peer platform for private data science and federated learning](https://blog.openmined.org/what-is-pygrid-demo)
 
 <br><br><br>
 
@@ -227,35 +198,22 @@ Check out these charts for more detailed information about how all of these proj
 
 <br><br><br>
 
-## Web and Mobile Team
-**Federated Learning for web and mobile**<br>
-*Building federated learning into the OM ecosystem with support for Android and iOS phones, as well as the browser. This team also works on various user interfaces used with the OM codebase.*<br>
+## Federated Learning Team
+_Building federated learning into the OM ecosystem through libraries available in Kotlin, Swift, Javascript, and Python. Manages a series of worker libraries in multiple languages and modalities, as well as the PyGrid central server for federated learning and remote data science._
 
-**Team Lead:**  [Patrick Cason](https://github.com/cereallarceny)<br>
-[**Team Members**](https://github.com/orgs/OpenMined/teams/web-and-mobile/members)<br>
-[**Team Roadmap**](https://github.com/OpenMined/Roadmap/tree/master/web_and_mobile_team)<br>
-**Good First Issues:**
-[Kotlin - KotlinSyft](https://github.com/OpenMined/KotlinSyft/labels/Good%20first%20issue%20%3Amortar_board%3A),
-[Javascript - syft.js](https://github.com/OpenMined/syft.js/labels/Good%20first%20issue%20%3Amortar_board%3A), [Swift - SwiftSyft](https://github.com/OpenMined/SwiftSyft/labels/Good%20first%20issue%20%3Amortar_board%3A)<br>
+**Team Lead:** [Patrick Cason](https://github.com/cereallarceny)
+**Team Members:** No current list
+**Team Roadmap:** Data-centrc (_coming soon_) and [Model-centric](https://github.com/OpenMined/Roadmap/blob/master/federated_learning/projects/model_centric_fl.md)
+**Good First Issues:** [PyGrid](https://github.com/OpenMined/PyGrid/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+first+issue+%3Amortar_board%3A%22), [syft.js](https://github.com/OpenMined/syft.js/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+first+issue+%3Amortar_board%3A%22), [KotlinSyft](https://github.com/OpenMined/KotlinSyft/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+first+issue+%3Amortar_board%3A%22), [SwiftSyft](https://github.com/OpenMined/SwiftSyft/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+first+issue+%3Amortar_board%3A%22), [Threepio](https://github.com/OpenMined/Threepio/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+first+issue+%3Amortar_board%3A%22)
 
-**Requirements to Join:**
-- You have already merged at least 1 pull request to a OpenMined GitHub repository (see Good First Issues above), particularly a Javascript-related issue
-- You work with Javascript in your daily work
-- You have a UX or UI design background
-- You know React and Node like the back of your hand
-- You have experience writing Javascript libraries from scratch (not just UI components)
+**Requirements/Recommendations to Join:**
+- You have already merged at least 1 pull request to an OpenMined GitHub repository (see Good First Issues above), particularly a Javascript-related issue
+- You have contributed before to OpenMined's numerous repos
+- You have experience working with Javascript
 - You have experience working with socket servers
 - You have experience working with WebRTC
 - You have experience with dev ops, including cloud deployment, scaling, and load-balancing
-- You are highly motivated and want to get involved on a regular basis
+- You have experience working in native mobile development including the Kotlin, Java, Swift, and Objective-C languages
 
-**Accepting New Members?** YES<br>
-[**Application to Join**](https://forms.gle/BZePckWpq9vftDF48)
-
-<br><br><br>
-
-## Federated Learning Team
-*The Federated Learning Team is a new team which combines the Web & Mobile Team, the Grid Team, and two new teams: Workers Team, and RecSys Team. More details are coming soon, but in the meantime contact the team lead below for more information.*<br>
-
-**Team Lead:**  [Patrick Cason](https://github.com/cereallarceny)<br>
-**Accepting New Members?** YES<br>
+**Accepting New Members:** YES
+[Application to Join](https://forms.gle/V1EWWST1pfbT5c2b9)
