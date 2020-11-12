@@ -187,7 +187,7 @@ If you're interested in taking a deep dive into these technologies, we have also
 Once you have an understanding of the technologies used, our tutorials are the best places you can get started. Here are links to our tutorials, once you're ready to jump in:
 
 - [**Building Safe A.I.:** A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)<br>
-- [**Tutorials:  PySyft**](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
+- [**Tutorials:  PySyft**](https://github.com/OpenMined/PySyft/tree/master/examples/)
 - [**Tutorials:  PyGrid**](https://github.com/OpenMined/PyGrid/tree/dev/examples)
 - [**Tutorials:  syft.js**](https://github.com/OpenMined/syft.js/tree/master/examples/mnist)
 - [**Tutorials:  PyDP**](https://github.com/OpenMined/PyDP/tree/dev/examples)
