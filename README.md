@@ -108,11 +108,11 @@ The first thing you should do is [join our Slack community](https://slack.openmi
 
 Once you have joined the Slack organization, there are many channels that you can join for help and community, including:
 
-- **Location Based Channels:**  Search for the closest major city or your country name to chat with others from your area!
-- **Topic Based Channels:**  Start your search with topic_, for instance, *#topic_beginner_questions* or *#topic_jobs_in_ai*
-- **Community Channels:**  Start your search with community_, for instance, *#community_udacity_course* or *#community_women-of-om*
-- **Education Channels:**  Start your search with edu_, for instance, *#edu_learners* for info from the Learning Team, or #*edu_mentorship* for info from the Mentorship Team.
-- **Library Channels:**  For questions/communication about specific OpenMined libraries. Start your search with lib_, for instance, *#lib_pysyft, #lib_pygrid, #lib_pydp, #lib_syft_js, #lib_syfertext,* etc.
+- **Community Channels:**  You can introduce yourself and meet other members in the community channels, for instance, *#introductions* or *#com_women-of-om* 
+- **Beginner-friendly and Support Channels:** If you haven general questions or need help with specific OpenMined libraries, take a look or post your questions in the *#beginners* or *#support* channels.
+- **Topic Based Channels:**  Search for channels by area of interest, for example: *#federated-learning*, *#differential-privacy*, *#healthcare*, *#recommender-systems*
+- **Sharing Channels:**  Community channels for sharing interesting papers, job opportunites or laughs, visit *#research-papers*, *#jobs* or *#memes*
+- **Education Channels:**  If you'd like to talk to fellow students or ask questions related to the [FREE Privacy and AI Courses](https://courses.openmined.org/) visit the *#courses* channel.
 <br>
 
 
@@ -124,28 +124,14 @@ Once you have joined the Slack organization, there are many channels that you ca
 
 <br>
 
-### Step 2: Apply for Mentorship
-Next, you should [join our mentorship program](https://forms.gle/6b3HXZtufMwa9cxaA). OpenMined Mentors are here to help you get started, and to walk you through the steps to becoming an active member of OpenMined.
-
-To get an idea of what you can expect on joining the mentorship program, check out our [Mentorship Program infographic](https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing).
-<br><br>
-
-<div align="center">
-  <a href="https://drive.google.com/file/d/1a_jk6juN7pNyXpPJo2X9ZIMoQv6v1Psv/view?usp=sharing">
-    <img alt="Mentorship Program Thumbnail" src="/images/mentorship-thumb.png" width="450">
-  </a>
-</div>
-
-<br>
-This is the program that your mentor will walk you through, from choosing a goal team to join, submitting your first pull request, working your way through our learning materials, applying for a team, to what comes after joining a team.<br><br>
-
-If you're interested in this type of guidance, [**Click Here to Receive Mentorship**](https://forms.gle/6b3HXZtufMwa9cxaA)!
+### Step 2: Help us get to know you better
+By filling out 👉 [this form](https://forms.gle/JFEh2pfdjJLcRyjZA) you can help us help you and leadership have a single place to browse the skills and interests of those new to the community.
 
 <br>
 
 ### Step 3: Learning Initiatives
 
-[**The OpenMined Learning Team**](https://blog.openmined.org/announcing-the-openmined-learning-team/) is here to help you get started and work through the materials. To join our community of learners (and any of our cohorts, bootcamps, or study/discussion groups), [join our Slack team](https://slack.openmined.org) and join the channel _#edu_learners_!
+[**The OpenMined Learning Team**](https://blog.openmined.org/announcing-the-openmined-learning-team/) is here to help you get started and work through the materials. To join our community of learners (and any of our cohorts, bootcamps, or study/discussion groups), [join our Slack team](https://slack.openmined.org) and join the channel #courses!
 
 <br>
 
@@ -157,7 +143,7 @@ If you're interested in this type of guidance, [**Click Here to Receive Mentorsh
 
 <br>
 
-For more help from the community as you work through these materials, [**check out our other Slack channels above**](#step-1-join-slack). You can ask for help in the **_#topic_beginner_questions_** channel, or the specific channel for the library you're working on (beginning with _#lib__), and join the _**#getting_started**_ channel for more helpful resources!
+For more help from the community as you work through these materials, [**check out our other Slack channels above**](#step-1-join-slack). You can ask for help in the **#beginners** or **#support** channels, or the specific channel related to the area you're working on (e.g. #federated-learning or #natural-language-processing), and join the _**#introductions**_ channel for more helpful resources!
 
 <br><br><br>
 
@@ -168,31 +154,42 @@ A good way to get an overview of the technology OpenMined uses, is to watch one 
 
 - **15 Minutes:** [Privacy Preserving AI - Andrew Trask, OpenMined. | DevCon](https://www.youtube.com/watch?v=NJBBE_SN90A)<br>
 - **1 Hour:** [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?reload=9&v=4zrU54VIK6k)
+
 <br>
 
-### Step 5: Udacity Course
+### Step 5: Take one of our FREE Courses from the Private AI Series
 
-If you're interested in taking a deep dive into these technologies, we have also released a **free Udacity course**! [**Check out our Udacity course here.**](https://www.udacity.com/course/secure-and-private-ai--ud185)
+If you're interested in taking a deep dive into these technologies, we have also released a series of **FREE courses called the Private AI Series**! [**Check out the Private AI Series here.**](https://courses.openmined.org/)
 
+#### **Course 1:** **[Our Privacy Opportunity](https://courses.openmined.org/courses/our-privacy-opportunity)**
 
-<div align="center">
+Privacy infrastructure is changing how information is managed in society. In this course, you'll learn how it creates both opportunity and disruption within nearly every corner of society and how you can join this next great wave of innovation.
+
+[Click here to learn more or start the course](https://courses.openmined.org/courses/our-privacy-opportunity)
+
+#### **Course 2:** **[Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation)**
+
+Become a data scientist and statistician capable of studying data you do not own and cannot see. Learn every major privacy-preserving technique to an intermediate level, understand how they work together, and how you can use them to safely study data owned by another organization (such as another university, enterprise, or government) without ever seeing the underlying data yourself.
+
+[Click here to learn more or start the course](https://courses.openmined.org/courses/foundations-of-private-computation)
+
+<br>
+
+<!-- Add image here >
+<!-- <div align="center">
   <a href="https://www.udacity.com/course/secure-and-private-ai--ud185">
     <img alt="Udacity Course Thumbnail" src="/images/udacity-thumb.png" width="650">
   </a>
 </div>
-<br>
-
+<br> -->
 ### Step 6: Tutorials
 
 Once you have an understanding of the technologies used, our tutorials are the best places you can get started. Here are links to our tutorials, once you're ready to jump in:
 
 - [**Building Safe A.I.:** A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai/)<br>
-- [**Tutorials:  PySyft**](https://github.com/OpenMined/PySyft/tree/master/examples/)
-- [**Tutorials:  PyGrid**](https://github.com/OpenMined/PyGrid/tree/dev/examples)
 - [**Tutorials:  syft.js**](https://github.com/OpenMined/syft.js/tree/master/examples/mnist)
 - [**Tutorials:  PyDP**](https://github.com/OpenMined/PyDP/tree/dev/examples)
 - [**Tutorials:  SyferText**](https://github.com/OpenMined/SyferText/tree/master/tutorials)
-- [For translations of our tutorials into various non-English languages, click here!](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials/translations)
 
 For more information about what each of these libraries does, check out the [Projects and Repositories](#projects-and-repositories) section above.
 <br><br>
