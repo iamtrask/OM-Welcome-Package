@@ -29,22 +29,24 @@ OpenMined's community teams work together on many different projects. Here is a 
 <br><br><br>
 
 ## Design Team
-**Creating Beautiful Communications in Line with the OpenMined Brand**<br>
-*Highly skilled graphic designers, web designers, illustrators, animators, photographers, and other creatives, with a passion for maintaining the integrity of the OpenMined brand and creating cool stuff to help promote our community.*
+_Highly skilled graphic designers, interaction designers, user researchers, animators, illustrators, and other creatives, with a passion for lowering the barrier to understanding for PETs._
 
-**Team Lead:**  [Bennett Farkas](https://github.com/bennettfarkas) <br>
-[**Team Members**](https://github.com/orgs/OpenMined/teams/design/members)
+**Team Lead:**  Kyoko Eng (@kyoko)<br>
+**Brand Lead:** Bennett Farkas (@bennett)<br>
 
 **Requirements to Join:**
 - You possess a skill set that would add to our team's capacity or capabilities
-- You have a high-quality portfolio that passes the team lead's screening
-- You are proficient with core design software (InDesign, Illustrator, Photoshop, XD, Sketch)
-- You are good at satisfying design requirements and facilitating and changes in a timely manner
-- You are a strong team player that doesn’t take anything too seriously, or too personally :-)
-- You have a strong desire to maintain and expand OpenMined's brand
+- You have a portfolio that passes the team lead's screening
+- You are proficient with core design software (Adobe Creative Suite, Figma, Framer, or Sketch )
+- You are good at satisfying design requirements and facilitating changes in a timely manner
+- You are a strong team player that is open to collaborating and learning the perspectives of others
+- You have base level experience in project management and communication
 
 **Accepting New Members?** YES<br>
-[**Application to Join**](https://forms.gle/MEJBEU1P1PfCTN3D8)
+[**→ Application to Join**](https://forms.gle/ZJGHxwSahSqzGBGz5)
+
+**Want to learn more?**<br>
+You can visit the design repo at [**OpenMined/design**](https://github.com/OpenMined/design)
 
 <br><br><br>
 
