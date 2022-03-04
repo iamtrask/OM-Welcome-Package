@@ -50,12 +50,6 @@ We also want to make sure that OpenMined is a welcoming community to anyone who 
 
 OpenMined's teams are split into 3 categories: [development](Development-Teams.md), [community](Community-Teams.md), and [research](Research-Teams.md), so there is room for everyone to contribute!
 
-<div align="center">
-    <img alt="OM Teams Diagram" src="/images/om-teams-diagram-Oct2020.png">
-</div>
-
-<br><br>
-
 For more detailed information on each of our teams, click the links below:<br>
 
 - [**Development Teams**](Development-Teams.md)
